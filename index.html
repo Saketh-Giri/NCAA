@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Interactive Randomized NCAA Tournament Bracket</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Final Project Demo</p>
+        <h1>Interactive Randomized Tournament Bracket</h1>
+        <p class="intro">
+          Click teams to advance them through a randomized four-region bracket.
+          The starting teams come from the latest randomized model forecast file.
+        </p>
+      </div>
+      <section class="champion-card" aria-live="polite">
+        <span class="label">Champion</span>
+        <strong id="championName">Choose winners to fill the bracket</strong>
+        <span id="championMeta" class="muted"></span>
+      </section>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Bracket controls">
+        <button id="autoPickBtn" type="button">Auto-fill by Model</button>
+        <button id="randomPickBtn" type="button">Random-fill Winners</button>
+        <button id="resetBtn" type="button" class="secondary">Randomize Bracket</button>
+        <label class="toggle">
+          <input id="showActualToggle" type="checkbox" />
+          Show actual tournament wins
+        </label>
+      </section>
+
+      <section class="notice">
+        <strong>Note:</strong>
+        The dataset includes teams, seeds, predictions, and outcomes, but not
+        official region names or first-round matchups. This site creates a new
+        demonstration bracket by randomly selecting teams for each seed and
+        placing them into standard seed pairings.
+      </section>
+
+      <section id="status" class="status">Loading model predictions...</section>
+
+      <section id="bracket" class="bracket" aria-label="Interactive bracket"></section>
+    </main>
+
+    <template id="teamButtonTemplate">
+      <button class="team-button" type="button">
+        <span class="seed"></span>
+        <span class="team">
+          <span class="team-name"></span>
+          <span class="team-meta"></span>
+        </span>
+        <span class="prediction"></span>
+      </button>
+    </template>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,214 @@
+Foundational Mathematics of Artificial Intelligence - AS 110.110
+Course Project
+Students will work in groups of size 3-5.
+Project Overview
+The Course Project provides students with experience in designing machine learning
+models to achieve certain tasks with a given dataset. Groups will describe the
+dataset of interest, the problem/task of interest, their modeling approach, the
+models estimated, the forecasts/predictions (with associated error), and the
+implications of their findings in a clear, concise, and convincing manner.
+The major deliverable in this project is the Final Project Presentation of the group’s
+data analysis and models. This presentation occurs during the last class period and
+carries 80% of the assignment weight.
+There is an intermediate Data Visualization Presentation delivered to the class
+halfway through the project with 20% weight.
+The instructor will provide a set of approved datasets for the project, and student groups
+may choose one of these data sets as the focus of their project. If a group strongly
+prefers to use a different dataset, they may do so with instructor approval. Each group
+must choose a different dataset for analysis.
+Groups demonstrate quality in the project by their ability to:
+● Describe the relevant problem/task of interest. For example, this could be a
+forecasting, classification or clustering task.
+● Prepare, describe and visualize data effectively.
+● Design/create and train a relevant model to achieve their desired task.
+● Evaluate model quality and provide forecasts/predictions.
+● Deliver an effective summary of the implications of their findings.
+The above items are demonstrated in a clear, concise, and professional presentation,
+and through the submission of supporting documentation.
+The instructor will provide a rubric to the student groups for both presentations. In
+general, all members of a group receive the same score based on the assessments
+conducted via the rubrics. The instructor reserves the right to adjust any individual
+student’s grade by any amount based on their individual contribution to the project.
+Data Visualization Presentation
+The purpose of the Visualization Presentation is for each group to provide data-driven
+insight with respect to the project objectives. Groups will have 5-6 minutes to provide
+this presentation to the class.
+A high-quality set of visualizations provides clarity and understanding into the dataset.
+Groups should seek to balance the complexity present in the data with clear, visual,
+descriptive display that will guide the upcoming modeling processes. The target is to
+provide 2 to 4 valuable insights via the visual display of data.
+The Data Visualization Presentation should provide:
+● Brief project context including the key objectives (1 slide)
+● Insights assimilated so far with respect to the data (2-4 slides). These
+should include:
+○ Visual description of the dependent/response variable.
+○ Display of key variable relationships.
+○ Each visualization should include the purpose and be clearly aligned
+with the project objective.
+● A concise summary, at the end, of the descriptive statistical findings so far and
+goals for group moving forward (1-2 slides)
+This presentation demonstrates the group’s understanding of the goals of the project. It
+forms the basis for the modeling exercise that follows.
+Final Project Presentation
+Student groups will have 10-12 minutes to present their project analysis and
+findings via a presentation to the class.
+In the project presentation, groups should clearly explain their model, analyses
+performed and conclusions reached in their analyses. A sample outline for the
+presentation along with examples of questions to address include:
+1. Purpose:
+● What makes this an interesting or relevant problem/task to study given the
+dataset at hand?
+● What is the key forecasting/prediction question?
+● Who benefits from eventual findings for your chosen problem?
+2. Process and Descriptive Statistics:
+● Where did the data set come from? What was the sample size?
+● What is the dependent variable? What are the variables?
+● What does the data look like (descriptive analytics)?
+● What kind of cleaning/pre-processing did the group engage in?
+● Which statistical techniques did the group choose?
+● Why were these modeling techniques employed?
+3. Results from Analytical Analysis:
+● What is the most relevant/interesting model built by the group? Groups could
+show two chosen models to address the task at hand, but the
+recommendation is against three or more as this will overwhelm the audience,
+and they will become lost.
+● What variables are significant?
+● What discoveries or insights resulted from the analysis?
+● What do the results mean (in human terms)?
+● Are the results intuitive or surprising?
+● Are there general or larger conclusions from the research?
+4. Forecasts/Predictions
+● Provide at least one forecast/prediction using a model built in the project
+● What is the associated forecasting error, or limitations of the model
+you’ve used?
+● How does the model perform, that is, how confident is the group in the
+forecasts?
+● What considerations might explain the quality of forecasts?
+5. Conclusion:
+● What was the project’s purpose?
+● What were the key findings?
+● What are the practical implications of the conclusions?
+● Would additional data/variables have aided the research?
+● What are the lessons learned more generally from the work performed in the
+project?
+Of course, you do not have to address all the points above, they merely serve as
+questions to guide you through the project.
+General Guidelines for Documents/Presentations
+● Focus on delivering a professional level presentation.
+● Ensure all terminology is well-defined and clear; Keep acronyms to a minimum
+or do not use them at all; Do not use “buzz” words.
+● When presenting, provide enough information so that one can understand the
+quality of the model and the importance of the key variables. Graphics produced
+by statistical software are fine assuming that the graph or chart legends are
+readable.
+● Keep text to a minimum in presentations – use tables, charts, section titles,
+bulleted lists, etc.
+● Do not read slides when making a presentation. Also, do not read a script.
+Practice and prepare to deliver confidently without either prompt.
+● Demonstrate energy and interest in any presentations delivered.
+● Spell and grammar-check any written work.
+● Standardize formatting in all documents and submissions. Do not over formatting
+
+
+
+
+
+
+Foundational Mathematics of AI - Final Presentation Rubric
+Project Group and Topic:
+Element Exceeds
+Expectations (16)
+Meets
+Expectations (12)
+Context,
+Question,
+and
+Hypothesis
+- Clearly delineates project value for the
+“client”/“user”/“beneficiary”
+- Provides useful educational
+background
+- Identifies project purpose
+- Provides project context
+- Provides intuition
+Research
+Method and
+Descriptive
+Statistics
+- Summarizes data clearly with
+scales/units, especially dependent
+variable
+- Describes data
+acquisition/manipulation
+- Describes and justifies research
+process used
+- Provides useful descriptive statistics
+- Summarizes the data
+- Describes data source
+- Describes research methods utilized
+- Provides descriptive statistics
+Analytical
+Analysis and
+Results
+- Describes impactful statistical results
+succinctly and insightfully without
+excessive statistical jargon
+- Extends methods covered in the course
+- Presents project results perhaps too
+many or too few
+- Incorporates methods and techniques
+covered in the course
+Forecasts
+and
+Implications
+- Provides and evaluates one relevant
+forecast or prediction using models
+described earlier
+- Summarize project findings and the
+broader implications for “client”
+- Discusses lessons learned useful for
+class colleagues
+- Provides a forecast or prediction with
+error
+- Summarizes the project outcomes
+- Discusses lessons learned
+Presentation
+Delivery and
+Media
+- Engaging and cohesive learning
+experience
+- Improvises delivery with media that
+supports content well
+- Clear, relevant, stimulating,
+professional, and accessible media
+content
+- Presentation is well organized
+- Speakers appear knowledgeable with
+respect to content presented
+- Effective media for assimilation of
+content
+Fails to Meet
+Expectations (8)
+Points
+- Lacks effective motivation and/or value
+for project
+- Missing/limited relevant project context
+- Data not well enough described to
+understand
+- Source of data not provided
+- Methods of analysis and/or reasoning
+for their use not clear or missing
+- Descriptive statistics confusing or
+missing
+- Does not presents statistical results,
+mis-presents statistical results, or
+describes results poorly
+- Applies techniques from introductory
+course only
+- No forecast or prediction provided
+- Lacks summary of findings
+- No lessons learned provided
+- Presentation lacks coherence
+- Speakers appear to lack preparation
+and/or reading slides or notes
+- Slides difficult to understand or read
