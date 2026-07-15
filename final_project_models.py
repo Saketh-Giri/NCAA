@@ -19,6 +19,7 @@ from pathlib import Path
 # Keep Matplotlib from trying to write a font cache in the user's home folder.
 DATA_PATH = Path("cbb.csv")
 OUTPUT_DIR = Path("outputs")
+OFFICIAL_BRACKET_PATH = Path("bracket_site/official_bracket_seeds.csv")
 MPL_CACHE_DIR = OUTPUT_DIR / ".matplotlib_cache"
 MPL_CACHE_DIR.mkdir(parents=True, exist_ok=True)
 os.environ.setdefault("MPLCONFIGDIR", str(MPL_CACHE_DIR.resolve()))
@@ -28,12 +29,22 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
+from sklearn.base import clone
 from sklearn.compose import ColumnTransformer
-from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.ensemble import GradientBoostingClassifier, GradientBoostingRegressor
 from sklearn.impute import SimpleImputer
 from sklearn.inspection import permutation_importance
-from sklearn.linear_model import Ridge
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.linear_model import LogisticRegression, Ridge
+from sklearn.metrics import (
+    accuracy_score,
+    f1_score,
+    mean_absolute_error,
+    mean_squared_error,
+    precision_score,
+    r2_score,
+    recall_score,
+    roc_auc_score,
+)
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -67,6 +78,8 @@ FEATURES = [
     "SEED_NUM",
 ]
 
+SELECTION_FEATURES = [feature for feature in FEATURES if feature != "SEED_NUM"]
+
 
 def load_and_prepare_data(path: Path = DATA_PATH) -> tuple[pd.DataFrame, pd.DataFrame]:
     """Load the dataset and return both all teams and tournament teams only."""
@@ -81,10 +94,11 @@ def load_and_prepare_data(path: Path = DATA_PATH) -> tuple[pd.DataFrame, pd.Data
     return data, tournament
 
 
-def build_preprocessor() -> ColumnTransformer:
+def build_preprocessor(features: list[str] | None = None) -> ColumnTransformer:
     """Create preprocessing for numeric features and conference labels."""
-    numeric_features = [feature for feature in FEATURES if feature != "CONF"]
-    categorical_features = ["CONF"]
+    selected_features = FEATURES if features is None else features
+    numeric_features = [feature for feature in selected_features if feature != "CONF"]
+    categorical_features = [feature for feature in selected_features if feature == "CONF"]
 
     numeric_pipeline = Pipeline(
         steps=[
@@ -99,12 +113,11 @@ def build_preprocessor() -> ColumnTransformer:
         ]
     )
 
-    return ColumnTransformer(
-        transformers=[
-            ("num", numeric_pipeline, numeric_features),
-            ("cat", categorical_pipeline, categorical_features),
-        ]
-    )
+    transformers = [("num", numeric_pipeline, numeric_features)]
+    if categorical_features:
+        transformers.append(("cat", categorical_pipeline, categorical_features))
+
+    return ColumnTransformer(transformers=transformers)
 
 
 def build_models() -> dict[str, object]:
@@ -112,6 +125,19 @@ def build_models() -> dict[str, object]:
     return {
         "Ridge Regression": Ridge(alpha=2.0),
         "Gradient Boosting Regression": GradientBoostingRegressor(
+            max_depth=2,
+            learning_rate=0.03,
+            n_estimators=400,
+            subsample=0.85,
+        ),
+    }
+
+
+def build_selection_models() -> dict[str, object]:
+    """Define models that predict whether a team makes March Madness."""
+    return {
+        "Logistic Regression": LogisticRegression(max_iter=1000, class_weight="balanced"),
+        "Gradient Boosting Classification": GradientBoostingClassifier(
             max_depth=2,
             learning_rate=0.03,
             n_estimators=400,
@@ -135,6 +161,25 @@ def random_split(
     X_test = test_data[FEATURES]
     y_train = train_data["Tour_Wins"]
     y_test = test_data["Tour_Wins"]
+
+    return X_train, X_test, y_train, y_test, test_data
+
+
+def selection_split(
+    data: pd.DataFrame,
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.Series, pd.Series, pd.DataFrame]:
+    """Create a randomized split for predicting NCAA tournament selection."""
+    train_data, test_data = train_test_split(
+        data,
+        test_size=TEST_SIZE,
+        shuffle=True,
+        stratify=data["MADE_TOURNAMENT"],
+    )
+
+    X_train = train_data[SELECTION_FEATURES]
+    X_test = test_data[SELECTION_FEATURES]
+    y_train = train_data["MADE_TOURNAMENT"]
+    y_test = test_data["MADE_TOURNAMENT"]
 
     return X_train, X_test, y_train, y_test, test_data
 
@@ -174,6 +219,50 @@ def evaluate_models(
 
     metrics = pd.DataFrame(rows).sort_values("mae").reset_index(drop=True)
     return metrics, fitted_models, predictions
+
+
+def evaluate_selection_models(
+    models: dict[str, object],
+    X_train: pd.DataFrame,
+    X_test: pd.DataFrame,
+    y_train: pd.Series,
+    y_test: pd.Series,
+) -> tuple[pd.DataFrame, dict[str, Pipeline], dict[str, np.ndarray]]:
+    """Fit selection classifiers and compute held-out classification metrics."""
+    rows = []
+    fitted_models: dict[str, Pipeline] = {}
+    probabilities: dict[str, np.ndarray] = {}
+
+    for model_name, model in models.items():
+        pipeline = Pipeline(
+            steps=[
+                ("preprocess", build_preprocessor(SELECTION_FEATURES)),
+                ("model", model),
+            ]
+        )
+        pipeline.fit(X_train, y_train)
+        y_probability = pipeline.predict_proba(X_test)[:, 1]
+        y_pred = (y_probability >= 0.5).astype(int)
+
+        fitted_models[model_name] = pipeline
+        probabilities[model_name] = y_probability
+        rows.append(
+            {
+                "model": model_name,
+                "accuracy": accuracy_score(y_test, y_pred),
+                "precision": precision_score(y_test, y_pred, zero_division=0),
+                "recall": recall_score(y_test, y_pred, zero_division=0),
+                "f1": f1_score(y_test, y_pred, zero_division=0),
+                "roc_auc": roc_auc_score(y_test, y_probability),
+            }
+        )
+
+    metrics = (
+        pd.DataFrame(rows)
+        .sort_values(["f1", "roc_auc"], ascending=False)
+        .reset_index(drop=True)
+    )
+    return metrics, fitted_models, probabilities
 
 
 def save_descriptive_outputs(all_teams: pd.DataFrame, tournament: pd.DataFrame) -> None:
@@ -231,6 +320,174 @@ def save_predictions(
     prediction_data = prediction_data.sort_values("Predicted_Tour_Wins", ascending=False)
     prediction_data.round(3).to_csv(
         OUTPUT_DIR / "random_test_predictions.csv", index=False
+    )
+    return prediction_data
+
+
+def save_yearly_tournament_predictions(
+    tournament: pd.DataFrame,
+    model_template: object,
+    model_name: str,
+) -> pd.DataFrame:
+    """Save tournament-win predictions for each year from models trained on other years."""
+    rows = []
+
+    for year in sorted(tournament["YEAR"].unique()):
+        train_data = tournament[tournament["YEAR"] != year]
+        test_data = tournament[tournament["YEAR"] == year]
+        pipeline = Pipeline(
+            steps=[
+                ("preprocess", build_preprocessor()),
+                ("model", clone(model_template)),
+            ]
+        )
+        pipeline.fit(train_data[FEATURES], train_data["Tour_Wins"])
+        y_pred = np.clip(pipeline.predict(test_data[FEATURES]), 0, 6)
+
+        prediction_data = test_data[
+            ["TEAM", "CONF", "YEAR", "SEED_NUM", "Tour_Wins", "POSTSEASON"]
+        ].copy()
+        prediction_data["Predicted_Tour_Wins"] = y_pred
+        prediction_data["Absolute_Error"] = (
+            prediction_data["Predicted_Tour_Wins"] - prediction_data["Tour_Wins"]
+        ).abs()
+        prediction_data["Prediction_Model"] = model_name
+        rows.append(prediction_data)
+
+    yearly_predictions = pd.concat(rows, ignore_index=True).sort_values(
+        ["YEAR", "SEED_NUM", "Predicted_Tour_Wins"],
+        ascending=[False, True, False],
+    )
+    yearly_predictions.round(4).to_csv(
+        OUTPUT_DIR / "yearly_tournament_predictions.csv", index=False
+    )
+    return yearly_predictions
+
+
+def save_official_bracket_predictions(
+    yearly_predictions: pd.DataFrame,
+    official_bracket_path: Path = OFFICIAL_BRACKET_PATH,
+) -> pd.DataFrame:
+    """Attach year-held-out predictions to official NCAA bracket seed slots."""
+    official_bracket = pd.read_csv(official_bracket_path)
+    bracket_predictions = official_bracket.merge(
+        yearly_predictions,
+        on=["YEAR", "TEAM"],
+        how="left",
+        suffixes=("", "_MODEL_DATA"),
+    )
+    missing_predictions = bracket_predictions[
+        bracket_predictions["Predicted_Tour_Wins"].isna()
+    ]
+    if not missing_predictions.empty:
+        missing_text = missing_predictions[["YEAR", "BRACKET_SEED", "TEAM"]].to_string(
+            index=False
+        )
+        raise ValueError(f"Missing model predictions for official bracket teams:\n{missing_text}")
+
+    bracket_predictions = bracket_predictions.drop(
+        columns=["SEED_NUM_MODEL_DATA"],
+        errors="ignore",
+    )
+    bracket_predictions = bracket_predictions.sort_values(
+        ["YEAR", "REGION_CODE", "SEED_NUM", "BRACKET_SEED"]
+    )
+    bracket_predictions.round(4).to_csv(
+        OUTPUT_DIR / "official_bracket_predictions.csv", index=False
+    )
+    return bracket_predictions
+
+
+def save_selection_predictions(
+    test_data: pd.DataFrame,
+    probabilities: dict[str, np.ndarray],
+    best_model_name: str,
+) -> pd.DataFrame:
+    """Save held-out predictions for making or missing March Madness."""
+    prediction_data = test_data[
+        [
+            "TEAM",
+            "CONF",
+            "YEAR",
+            "G",
+            "W",
+            "WIN_RATE",
+            "WAB",
+            "MADE_TOURNAMENT",
+            "SEED",
+            "POSTSEASON",
+        ]
+    ].copy()
+    prediction_data["Predicted_Tournament_Probability"] = probabilities[best_model_name]
+    prediction_data["Predicted_Made_Tournament"] = (
+        prediction_data["Predicted_Tournament_Probability"] >= 0.5
+    ).astype(int)
+    prediction_data["Prediction"] = np.where(
+        prediction_data["Predicted_Made_Tournament"] == 1,
+        "Make March Madness",
+        "Miss March Madness",
+    )
+    prediction_data["Actual"] = np.where(
+        prediction_data["MADE_TOURNAMENT"] == 1,
+        "Made March Madness",
+        "Missed March Madness",
+    )
+    prediction_data["Correct"] = (
+        prediction_data["Predicted_Made_Tournament"]
+        == prediction_data["MADE_TOURNAMENT"]
+    )
+    prediction_data = prediction_data.sort_values(
+        ["YEAR", "Predicted_Tournament_Probability"],
+        ascending=[False, False],
+    )
+    prediction_data.round(4).to_csv(
+        OUTPUT_DIR / "march_madness_selection_predictions.csv", index=False
+    )
+    return prediction_data
+
+
+def save_all_selection_predictions(data: pd.DataFrame, model: Pipeline) -> pd.DataFrame:
+    """Save tournament selection probabilities for every team-season."""
+    prediction_data = data[
+        [
+            "TEAM",
+            "CONF",
+            "YEAR",
+            "G",
+            "W",
+            "WIN_RATE",
+            "WAB",
+            "MADE_TOURNAMENT",
+            "SEED",
+            "POSTSEASON",
+        ]
+    ].copy()
+    prediction_data["Predicted_Tournament_Probability"] = model.predict_proba(
+        data[SELECTION_FEATURES]
+    )[:, 1]
+    prediction_data["Predicted_Made_Tournament"] = (
+        prediction_data["Predicted_Tournament_Probability"] >= 0.5
+    ).astype(int)
+    prediction_data["Prediction"] = np.where(
+        prediction_data["Predicted_Made_Tournament"] == 1,
+        "Make March Madness",
+        "Miss March Madness",
+    )
+    prediction_data["Actual"] = np.where(
+        prediction_data["MADE_TOURNAMENT"] == 1,
+        "Made March Madness",
+        "Missed March Madness",
+    )
+    prediction_data["Correct"] = (
+        prediction_data["Predicted_Made_Tournament"]
+        == prediction_data["MADE_TOURNAMENT"]
+    )
+    prediction_data = prediction_data.sort_values(
+        ["YEAR", "Predicted_Tournament_Probability"],
+        ascending=[False, False],
+    )
+    prediction_data.round(4).to_csv(
+        OUTPUT_DIR / "march_madness_selection_all_teams.csv", index=False
     )
     return prediction_data
 
@@ -374,15 +631,50 @@ def main() -> None:
 
     all_teams, tournament = load_and_prepare_data()
     X_train, X_test, y_train, y_test, test_data = random_split(tournament)
+    (
+        selection_X_train,
+        selection_X_test,
+        selection_y_train,
+        selection_y_test,
+        selection_test_data,
+    ) = selection_split(all_teams)
 
     metrics, fitted_models, predictions = evaluate_models(
         build_models(), X_train, X_test, y_train, y_test
     )
     best_model_name = str(metrics.iloc[0]["model"])
+    selection_metrics, selection_models, selection_probabilities = evaluate_selection_models(
+        build_selection_models(),
+        selection_X_train,
+        selection_X_test,
+        selection_y_train,
+        selection_y_test,
+    )
+    selection_best_model_name = str(selection_metrics.iloc[0]["model"])
+    yearly_predictions_table = save_yearly_tournament_predictions(
+        tournament,
+        build_models()[best_model_name],
+        best_model_name,
+    )
+    official_bracket_predictions = save_official_bracket_predictions(
+        yearly_predictions_table
+    )
 
     save_descriptive_outputs(all_teams, tournament)
     metrics.round(4).to_csv(OUTPUT_DIR / "model_metrics.csv", index=False)
+    selection_metrics.round(4).to_csv(
+        OUTPUT_DIR / "selection_model_metrics.csv", index=False
+    )
     predictions_table = save_predictions(test_data, predictions, best_model_name)
+    selection_predictions_table = save_selection_predictions(
+        selection_test_data,
+        selection_probabilities,
+        selection_best_model_name,
+    )
+    save_all_selection_predictions(
+        all_teams,
+        selection_models[selection_best_model_name],
+    )
     save_ridge_coefficients(fitted_models["Ridge Regression"])
     importance_table = save_permutation_importance(
         fitted_models[best_model_name], X_test, y_test, best_model_name
@@ -398,12 +690,41 @@ def main() -> None:
     print(metrics.round(3).to_string(index=False))
     print()
     print(f"Best model: {best_model_name}")
+    print(
+        f"Official bracket prediction rows: {len(official_bracket_predictions)} "
+        f"across {official_bracket_predictions['YEAR'].nunique()} years"
+    )
+    print()
     print("Top forecasts:")
     print(
         predictions_table[
             ["TEAM", "CONF", "SEED_NUM", "Tour_Wins", "POSTSEASON", "Predicted_Tour_Wins", "Absolute_Error"]
         ]
         .head(10)
+        .round(3)
+        .to_string(index=False)
+    )
+    print()
+    print("March Madness selection model performance:")
+    print(selection_metrics.round(3).to_string(index=False))
+    print()
+    print(f"Best selection model: {selection_best_model_name}")
+    print("Most likely held-out teams to make March Madness:")
+    print(
+        selection_predictions_table[
+            [
+                "TEAM",
+                "CONF",
+                "YEAR",
+                "W",
+                "WAB",
+                "Predicted_Tournament_Probability",
+                "Prediction",
+                "Actual",
+                "Correct",
+            ]
+        ]
+        .head(12)
         .round(3)
         .to_string(index=False)
     )

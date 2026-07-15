@@ -1,6 +1,12 @@
-const CSV_PATH = "../outputs/random_test_predictions.csv";
+const CSV_PATH = "../outputs/official_bracket_predictions.csv";
 
-const REGION_NAMES = ["East", "South", "Midwest", "West"];
+const REGION_CODES = ["W", "X", "Y", "Z"];
+const REGION_LABELS = {
+  W: "Region W",
+  X: "Region X",
+  Y: "Region Y",
+  Z: "Region Z",
+};
 const ROUND_NAMES = ["Round of 64", "Round of 32", "Sweet 16", "Elite 8"];
 const SEED_PAIRINGS = [
   [1, 16],
@@ -13,7 +19,8 @@ const SEED_PAIRINGS = [
   [2, 15],
 ];
 
-let teams = [];
+let tournamentRows = [];
+let selectedYear = null;
 let bracket = [];
 let finalFour = {
   semifinals: [
@@ -30,6 +37,7 @@ const statusEl = document.getElementById("status");
 const championNameEl = document.getElementById("championName");
 const championMetaEl = document.getElementById("championMeta");
 const teamTemplate = document.getElementById("teamButtonTemplate");
+const yearSelectEl = document.getElementById("yearSelect");
 
 document.getElementById("resetBtn").addEventListener("click", () => {
   resetSelections();
@@ -41,8 +49,9 @@ document.getElementById("autoPickBtn").addEventListener("click", () => {
   render();
 });
 
-document.getElementById("randomPickBtn").addEventListener("click", () => {
-  randomPickBracket();
+yearSelectEl.addEventListener("change", (event) => {
+  selectedYear = Number(event.target.value);
+  resetSelections();
   render();
 });
 
@@ -54,7 +63,7 @@ document.getElementById("showActualToggle").addEventListener("change", (event) =
 loadTeams();
 
 async function loadTeams() {
-  setStatus("Loading model predictions...");
+  setStatus("Loading official bracket predictions...");
 
   try {
     const response = await fetch(CSV_PATH);
@@ -63,20 +72,36 @@ async function loadTeams() {
     }
 
     const csv = await response.text();
-    teams = parseCsv(csv)
+    tournamentRows = parseCsv(csv)
       .map((row) => ({
         team: row.TEAM,
         conference: row.CONF,
         seed: Number(row.SEED_NUM),
+        bracketSeed: row.BRACKET_SEED,
+        slotSeed: row.SLOT_SEED,
+        regionCode: row.REGION_CODE,
         year: Number(row.YEAR),
         predictedWins: Number(row.Predicted_Tour_Wins),
         actualWins: Number(row.Tour_Wins),
         postseason: row.POSTSEASON,
       }))
-      .filter((team) => Number.isFinite(team.seed))
-      .sort((a, b) => a.seed - b.seed || b.predictedWins - a.predictedWins);
+      .filter(
+        (team) =>
+          Number.isFinite(team.seed) &&
+          Number.isFinite(team.year) &&
+          Number.isFinite(team.predictedWins),
+      )
+      .sort(
+        (a, b) =>
+          b.year - a.year ||
+          a.regionCode.localeCompare(b.regionCode) ||
+          a.seed - b.seed ||
+          a.bracketSeed.localeCompare(b.bracketSeed),
+      );
 
-    bracket = buildRandomBracket(teams);
+    populateYearSelect();
+    selectedYear = Number(yearSelectEl.value);
+    resetSelections();
     clearStatus();
     render();
   } catch (error) {
@@ -84,6 +109,18 @@ async function loadTeams() {
       `Unable to load predictions. Start a local server from the project root, for example: python3 -m http.server 8000. Details: ${error.message}`,
       true,
     );
+  }
+}
+
+function populateYearSelect() {
+  const years = [...new Set(tournamentRows.map((team) => team.year))].sort((a, b) => b - a);
+  yearSelectEl.innerHTML = "";
+
+  for (const year of years) {
+    const option = document.createElement("option");
+    option.value = year;
+    option.textContent = year;
+    yearSelectEl.appendChild(option);
   }
 }
 
@@ -123,24 +160,17 @@ function splitCsvLine(line) {
   return values;
 }
 
-function buildRandomBracket(allTeams) {
-  const topFourBySeed = new Map();
+function buildOfficialBracket(year) {
+  const teamsForYear = tournamentRows.filter((team) => team.year === year);
 
-  for (let seed = 1; seed <= 16; seed += 1) {
-    topFourBySeed.set(
-      seed,
-      shuffle(allTeams.filter((team) => team.seed === seed)).slice(0, 4),
-    );
-  }
-
-  return REGION_NAMES.map((name, regionIndex) => {
+  return REGION_CODES.map((regionCode) => {
     const roundOf64 = SEED_PAIRINGS.map(([leftSeed, rightSeed]) => [
-      topFourBySeed.get(leftSeed)[regionIndex] ?? null,
-      topFourBySeed.get(rightSeed)[regionIndex] ?? null,
+      resolveSeedSlot(teamsForYear, regionCode, leftSeed),
+      resolveSeedSlot(teamsForYear, regionCode, rightSeed),
     ]);
 
     return {
-      name,
+      name: REGION_LABELS[regionCode] ?? `Region ${regionCode}`,
       rounds: [
         roundOf64,
         Array.from({ length: 4 }, () => [null, null]),
@@ -152,8 +182,23 @@ function buildRandomBracket(allTeams) {
   });
 }
 
+function resolveSeedSlot(teamsForYear, regionCode, seed) {
+  const slotSeed = `${regionCode}${String(seed).padStart(2, "0")}`;
+  const candidates = teamsForYear.filter((team) => team.slotSeed === slotSeed);
+
+  if (candidates.length <= 1) {
+    return candidates[0] ?? null;
+  }
+
+  const winner = pickByModel(candidates);
+  return {
+    ...winner,
+    playInTeams: candidates.map((team) => team.team),
+  };
+}
+
 function resetSelections() {
-  bracket = buildRandomBracket(teams);
+  bracket = buildOfficialBracket(selectedYear);
   finalFour = {
     semifinals: [
       [null, null],
@@ -167,11 +212,6 @@ function resetSelections() {
 function autoPickBracket() {
   resetSelections();
   fillBracket(pickByModel);
-}
-
-function randomPickBracket() {
-  resetSelections();
-  fillBracket(pickRandom);
 }
 
 function fillBracket(pickWinner) {
@@ -206,27 +246,12 @@ function pickByModel(match) {
     return null;
   }
 
-  return available.sort((a, b) => b.predictedWins - a.predictedWins || a.seed - b.seed)[0];
-}
-
-function pickRandom(match) {
-  const available = match.filter(Boolean);
-  if (available.length === 0) {
-    return null;
-  }
-
-  return available[Math.floor(Math.random() * available.length)];
-}
-
-function shuffle(items) {
-  const shuffled = [...items];
-
-  for (let index = shuffled.length - 1; index > 0; index -= 1) {
-    const swapIndex = Math.floor(Math.random() * (index + 1));
-    [shuffled[index], shuffled[swapIndex]] = [shuffled[swapIndex], shuffled[index]];
-  }
-
-  return shuffled;
+  return [...available].sort(
+    (a, b) =>
+      b.predictedWins - a.predictedWins ||
+      a.seed - b.seed ||
+      a.team.localeCompare(b.team),
+  )[0];
 }
 
 function render() {
@@ -246,7 +271,7 @@ function renderRegion(region, regionIndex) {
   section.className = "region";
 
   const heading = document.createElement("h2");
-  heading.textContent = `${region.name} Region`;
+  heading.textContent = region.name;
   section.appendChild(heading);
 
   const roundsEl = document.createElement("div");
@@ -344,7 +369,12 @@ function renderTeamButton(team, onPick) {
 
   button.querySelector(".seed").textContent = team.seed;
   button.querySelector(".team-name").textContent = team.team;
-  button.querySelector(".team-meta").textContent = `${team.year} | ${team.conference} | ${team.postseason}`;
+  const playInLabel = team.playInTeams
+    ? ` | First Four pick from ${team.playInTeams.join(" / ")}`
+    : "";
+  button.querySelector(
+    ".team-meta",
+  ).textContent = `${team.year} | ${team.bracketSeed} | ${team.conference} | ${team.postseason}${playInLabel}`;
   button.querySelector(".prediction").textContent = showActualWins
     ? `${team.actualWins} actual`
     : `${team.predictedWins.toFixed(2)} pred`;
@@ -432,7 +462,7 @@ function updateChampion() {
   }
 
   championNameEl.textContent = champion.team;
-  championMetaEl.textContent = `${champion.year} | Seed ${champion.seed} | ${champion.conference} | ${champion.predictedWins.toFixed(
+  championMetaEl.textContent = `${champion.year} | ${champion.bracketSeed} | ${champion.conference} | ${champion.predictedWins.toFixed(
     2,
   )} predicted wins | ${champion.actualWins} actual wins`;
 }

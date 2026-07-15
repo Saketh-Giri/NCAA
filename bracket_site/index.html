@@ -3,18 +3,24 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Interactive Randomized NCAA Tournament Bracket</title>
+    <title>March Madness Model Bracket</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header class="site-header">
-      <div>
-        <p class="eyebrow">Final Project Demo</p>
-        <h1>Interactive Randomized Tournament Bracket</h1>
+      <div class="hero-copy">
+        <p class="eyebrow">NCAA Analytics Lab</p>
+        <h1>March Madness, year by year.</h1>
         <p class="intro">
-          Click teams to advance them through a randomized four-region bracket.
-          The starting teams come from the latest randomized model forecast file.
+          Choose a season, load that year's official tournament seed lines, and
+          let the model fill out the bracket using only pre-tournament team
+          information.
         </p>
+        <div class="hero-stats" aria-label="Project highlights">
+          <span><strong>68</strong> Team field</span>
+          <span><strong>4</strong> Regions</span>
+          <span><strong>0-6</strong> Win forecast</span>
+        </div>
       </div>
       <section class="champion-card" aria-live="polite">
         <span class="label">Champion</span>
@@ -24,22 +30,28 @@
     </header>
 
     <main>
-      <section class="controls" aria-label="Bracket controls">
-        <button id="autoPickBtn" type="button">Auto-fill by Model</button>
-        <button id="randomPickBtn" type="button">Random-fill Winners</button>
-        <button id="resetBtn" type="button" class="secondary">Randomize Bracket</button>
-        <label class="toggle">
-          <input id="showActualToggle" type="checkbox" />
-          Show actual tournament wins
-        </label>
-      </section>
+      <section class="toolbar" aria-label="Bracket controls and notes">
+        <div class="controls">
+          <label class="year-picker">
+            <span>Season</span>
+            <select id="yearSelect" aria-label="Tournament year"></select>
+          </label>
+          <button id="autoPickBtn" type="button">Auto-Fill by Model</button>
+          <button id="resetBtn" type="button" class="ghost">Clear Picks</button>
+          <label class="toggle">
+            <input id="showActualToggle" type="checkbox" />
+            <span>Show actual tournament wins</span>
+          </label>
+        </div>
 
-      <section class="notice">
-        <strong>Note:</strong>
-        The dataset includes teams, seeds, predictions, and outcomes, but not
-        official region names or first-round matchups. This site creates a new
-        demonstration bracket by randomly selecting teams for each seed and
-        placing them into standard seed pairings.
+        <section class="notice">
+          <strong>Official seed lines</strong>
+          <span>
+            Teams are grouped by the official NCAA region seed slots for the
+            selected season. First Four slots are resolved by the model before
+            the Round of 64 so every matchup stays within one year.
+          </span>
+        </section>
       </section>
 
       <section id="status" class="status">Loading model predictions...</section>

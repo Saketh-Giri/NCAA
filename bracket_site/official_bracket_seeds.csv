@@ -1,0 +1,477 @@
+YEAR,BRACKET_SEED,REGION_CODE,SLOT_SEED,SEED_NUM,TEAM
+2013,W01,W,W01,1,Indiana
+2013,W02,W,W02,2,Miami FL
+2013,W03,W,W03,3,Marquette
+2013,W04,W,W04,4,Syracuse
+2013,W05,W,W05,5,UNLV
+2013,W06,W,W06,6,Butler
+2013,W07,W,W07,7,Illinois
+2013,W08,W,W08,8,North Carolina St.
+2013,W09,W,W09,9,Temple
+2013,W10,W,W10,10,Colorado
+2013,W11,W,W11,11,Bucknell
+2013,W12,W,W12,12,California
+2013,W13,W,W13,13,Montana
+2013,W14,W,W14,14,Davidson
+2013,W15,W,W15,15,Pacific
+2013,W16a,W,W16,16,James Madison
+2013,W16b,W,W16,16,LIU Brooklyn
+2013,X01,X,X01,1,Kansas
+2013,X02,X,X02,2,Georgetown
+2013,X03,X,X03,3,Florida
+2013,X04,X,X04,4,Michigan
+2013,X05,X,X05,5,VCU
+2013,X06,X,X06,6,UCLA
+2013,X07,X,X07,7,San Diego St.
+2013,X08,X,X08,8,North Carolina
+2013,X09,X,X09,9,Villanova
+2013,X10,X,X10,10,Oklahoma
+2013,X11,X,X11,11,Minnesota
+2013,X12,X,X12,12,Akron
+2013,X13,X,X13,13,South Dakota St.
+2013,X14,X,X14,14,Northwestern St.
+2013,X15,X,X15,15,Florida Gulf Coast
+2013,X16,X,X16,16,Western Kentucky
+2013,Y01,Y,Y01,1,Louisville
+2013,Y02,Y,Y02,2,Duke
+2013,Y03,Y,Y03,3,Michigan St.
+2013,Y04,Y,Y04,4,Saint Louis
+2013,Y05,Y,Y05,5,Oklahoma St.
+2013,Y06,Y,Y06,6,Memphis
+2013,Y07,Y,Y07,7,Creighton
+2013,Y08,Y,Y08,8,Colorado St.
+2013,Y09,Y,Y09,9,Missouri
+2013,Y10,Y,Y10,10,Cincinnati
+2013,Y11a,Y,Y11,11,Middle Tennessee
+2013,Y11b,Y,Y11,11,Saint Mary's
+2013,Y12,Y,Y12,12,Oregon
+2013,Y13,Y,Y13,13,New Mexico St.
+2013,Y14,Y,Y14,14,Valparaiso
+2013,Y15,Y,Y15,15,Albany
+2013,Y16a,Y,Y16,16,Liberty
+2013,Y16b,Y,Y16,16,North Carolina A&T
+2013,Z01,Z,Z01,1,Gonzaga
+2013,Z02,Z,Z02,2,Ohio St.
+2013,Z03,Z,Z03,3,New Mexico
+2013,Z04,Z,Z04,4,Kansas St.
+2013,Z05,Z,Z05,5,Wisconsin
+2013,Z06,Z,Z06,6,Arizona
+2013,Z07,Z,Z07,7,Notre Dame
+2013,Z08,Z,Z08,8,Pittsburgh
+2013,Z09,Z,Z09,9,Wichita St.
+2013,Z10,Z,Z10,10,Iowa St.
+2013,Z11,Z,Z11,11,Belmont
+2013,Z12,Z,Z12,12,Mississippi
+2013,Z13a,Z,Z13,13,Boise St.
+2013,Z13b,Z,Z13,13,La Salle
+2013,Z14,Z,Z14,14,Harvard
+2013,Z15,Z,Z15,15,Iona
+2013,Z16,Z,Z16,16,Southern
+2014,W01,W,W01,1,Virginia
+2014,W02,W,W02,2,Villanova
+2014,W03,W,W03,3,Iowa St.
+2014,W04,W,W04,4,Michigan St.
+2014,W05,W,W05,5,Cincinnati
+2014,W06,W,W06,6,North Carolina
+2014,W07,W,W07,7,Connecticut
+2014,W08,W,W08,8,Memphis
+2014,W09,W,W09,9,George Washington
+2014,W10,W,W10,10,Saint Joseph's
+2014,W11,W,W11,11,Providence
+2014,W12,W,W12,12,Harvard
+2014,W13,W,W13,13,Delaware
+2014,W14,W,W14,14,North Carolina Central
+2014,W15,W,W15,15,Milwaukee
+2014,W16,W,W16,16,Coastal Carolina
+2014,X01,X,X01,1,Florida
+2014,X02,X,X02,2,Kansas
+2014,X03,X,X03,3,Syracuse
+2014,X04,X,X04,4,UCLA
+2014,X05,X,X05,5,VCU
+2014,X06,X,X06,6,Ohio St.
+2014,X07,X,X07,7,New Mexico
+2014,X08,X,X08,8,Colorado
+2014,X09,X,X09,9,Pittsburgh
+2014,X10,X,X10,10,Stanford
+2014,X11,X,X11,11,Dayton
+2014,X12,X,X12,12,Stephen F. Austin
+2014,X13,X,X13,13,Tulsa
+2014,X14,X,X14,14,Western Michigan
+2014,X15,X,X15,15,Eastern Kentucky
+2014,X16a,X,X16,16,Albany
+2014,X16b,X,X16,16,Mount St. Mary's
+2014,Y01,Y,Y01,1,Wichita St.
+2014,Y02,Y,Y02,2,Michigan
+2014,Y03,Y,Y03,3,Duke
+2014,Y04,Y,Y04,4,Louisville
+2014,Y05,Y,Y05,5,Saint Louis
+2014,Y06,Y,Y06,6,Massachusetts
+2014,Y07,Y,Y07,7,Texas
+2014,Y08,Y,Y08,8,Kentucky
+2014,Y09,Y,Y09,9,Kansas St.
+2014,Y10,Y,Y10,10,Arizona St.
+2014,Y11a,Y,Y11,11,Iowa
+2014,Y11b,Y,Y11,11,Tennessee
+2014,Y12a,Y,Y12,12,North Carolina St.
+2014,Y12b,Y,Y12,12,Xavier
+2014,Y13,Y,Y13,13,Manhattan
+2014,Y14,Y,Y14,14,Mercer
+2014,Y15,Y,Y15,15,Wofford
+2014,Y16a,Y,Y16,16,Cal Poly
+2014,Y16b,Y,Y16,16,Texas Southern
+2014,Z01,Z,Z01,1,Arizona
+2014,Z02,Z,Z02,2,Wisconsin
+2014,Z03,Z,Z03,3,Creighton
+2014,Z04,Z,Z04,4,San Diego St.
+2014,Z05,Z,Z05,5,Oklahoma
+2014,Z06,Z,Z06,6,Baylor
+2014,Z07,Z,Z07,7,Oregon
+2014,Z08,Z,Z08,8,Gonzaga
+2014,Z09,Z,Z09,9,Oklahoma St.
+2014,Z10,Z,Z10,10,BYU
+2014,Z11,Z,Z11,11,Nebraska
+2014,Z12,Z,Z12,12,North Dakota St.
+2014,Z13,Z,Z13,13,New Mexico St.
+2014,Z14,Z,Z14,14,Louisiana Lafayette
+2014,Z15,Z,Z15,15,American
+2014,Z16,Z,Z16,16,Weber St.
+2015,W01,W,W01,1,Villanova
+2015,W02,W,W02,2,Virginia
+2015,W03,W,W03,3,Oklahoma
+2015,W04,W,W04,4,Louisville
+2015,W05,W,W05,5,Northern Iowa
+2015,W06,W,W06,6,Providence
+2015,W07,W,W07,7,Michigan St.
+2015,W08,W,W08,8,North Carolina St.
+2015,W09,W,W09,9,LSU
+2015,W10,W,W10,10,Georgia
+2015,W11a,W,W11,11,Boise St.
+2015,W11b,W,W11,11,Dayton
+2015,W12,W,W12,12,Wyoming
+2015,W13,W,W13,13,UC Irvine
+2015,W14,W,W14,14,Albany
+2015,W15,W,W15,15,Belmont
+2015,W16,W,W16,16,Lafayette
+2015,X01,X,X01,1,Duke
+2015,X02,X,X02,2,Gonzaga
+2015,X03,X,X03,3,Iowa St.
+2015,X04,X,X04,4,Georgetown
+2015,X05,X,X05,5,Utah
+2015,X06,X,X06,6,SMU
+2015,X07,X,X07,7,Iowa
+2015,X08,X,X08,8,San Diego St.
+2015,X09,X,X09,9,St. John's
+2015,X10,X,X10,10,Davidson
+2015,X11,X,X11,11,UCLA
+2015,X12,X,X12,12,Stephen F. Austin
+2015,X13,X,X13,13,Eastern Washington
+2015,X14,X,X14,14,UAB
+2015,X15,X,X15,15,North Dakota St.
+2015,X16a,X,X16,16,North Florida
+2015,X16b,X,X16,16,Robert Morris
+2015,Y01,Y,Y01,1,Kentucky
+2015,Y02,Y,Y02,2,Kansas
+2015,Y03,Y,Y03,3,Notre Dame
+2015,Y04,Y,Y04,4,Maryland
+2015,Y05,Y,Y05,5,West Virginia
+2015,Y06,Y,Y06,6,Butler
+2015,Y07,Y,Y07,7,Wichita St.
+2015,Y08,Y,Y08,8,Cincinnati
+2015,Y09,Y,Y09,9,Purdue
+2015,Y10,Y,Y10,10,Indiana
+2015,Y11,Y,Y11,11,Texas
+2015,Y12,Y,Y12,12,Buffalo
+2015,Y13,Y,Y13,13,Valparaiso
+2015,Y14,Y,Y14,14,Northeastern
+2015,Y15,Y,Y15,15,New Mexico St.
+2015,Y16a,Y,Y16,16,Hampton
+2015,Y16b,Y,Y16,16,Manhattan
+2015,Z01,Z,Z01,1,Wisconsin
+2015,Z02,Z,Z02,2,Arizona
+2015,Z03,Z,Z03,3,Baylor
+2015,Z04,Z,Z04,4,North Carolina
+2015,Z05,Z,Z05,5,Arkansas
+2015,Z06,Z,Z06,6,Xavier
+2015,Z07,Z,Z07,7,VCU
+2015,Z08,Z,Z08,8,Oregon
+2015,Z09,Z,Z09,9,Oklahoma St.
+2015,Z10,Z,Z10,10,Ohio St.
+2015,Z11a,Z,Z11,11,BYU
+2015,Z11b,Z,Z11,11,Mississippi
+2015,Z12,Z,Z12,12,Wofford
+2015,Z13,Z,Z13,13,Harvard
+2015,Z14,Z,Z14,14,Georgia St.
+2015,Z15,Z,Z15,15,Texas Southern
+2015,Z16,Z,Z16,16,Coastal Carolina
+2016,W01,W,W01,1,North Carolina
+2016,W02,W,W02,2,Xavier
+2016,W03,W,W03,3,West Virginia
+2016,W04,W,W04,4,Kentucky
+2016,W05,W,W05,5,Indiana
+2016,W06,W,W06,6,Notre Dame
+2016,W07,W,W07,7,Wisconsin
+2016,W08,W,W08,8,USC
+2016,W09,W,W09,9,Providence
+2016,W10,W,W10,10,Pittsburgh
+2016,W11a,W,W11,11,Michigan
+2016,W11b,W,W11,11,Tulsa
+2016,W12,W,W12,12,Chattanooga
+2016,W13,W,W13,13,Stony Brook
+2016,W14,W,W14,14,Stephen F. Austin
+2016,W15,W,W15,15,Weber St.
+2016,W16a,W,W16,16,Fairleigh Dickinson
+2016,W16b,W,W16,16,Florida Gulf Coast
+2016,X01,X,X01,1,Virginia
+2016,X02,X,X02,2,Michigan St.
+2016,X03,X,X03,3,Utah
+2016,X04,X,X04,4,Iowa St.
+2016,X05,X,X05,5,Purdue
+2016,X06,X,X06,6,Seton Hall
+2016,X07,X,X07,7,Dayton
+2016,X08,X,X08,8,Texas Tech
+2016,X09,X,X09,9,Butler
+2016,X10,X,X10,10,Syracuse
+2016,X11,X,X11,11,Gonzaga
+2016,X12,X,X12,12,Arkansas Little Rock
+2016,X13,X,X13,13,Iona
+2016,X14,X,X14,14,Fresno St.
+2016,X15,X,X15,15,Middle Tennessee
+2016,X16,X,X16,16,Hampton
+2016,Y01,Y,Y01,1,Kansas
+2016,Y02,Y,Y02,2,Villanova
+2016,Y03,Y,Y03,3,Miami FL
+2016,Y04,Y,Y04,4,California
+2016,Y05,Y,Y05,5,Maryland
+2016,Y06,Y,Y06,6,Arizona
+2016,Y07,Y,Y07,7,Iowa
+2016,Y08,Y,Y08,8,Colorado
+2016,Y09,Y,Y09,9,Connecticut
+2016,Y10,Y,Y10,10,Temple
+2016,Y11a,Y,Y11,11,Vanderbilt
+2016,Y11b,Y,Y11,11,Wichita St.
+2016,Y12,Y,Y12,12,South Dakota St.
+2016,Y13,Y,Y13,13,Hawaii
+2016,Y14,Y,Y14,14,Buffalo
+2016,Y15,Y,Y15,15,UNC Asheville
+2016,Y16,Y,Y16,16,Austin Peay
+2016,Z01,Z,Z01,1,Oregon
+2016,Z02,Z,Z02,2,Oklahoma
+2016,Z03,Z,Z03,3,Texas A&M
+2016,Z04,Z,Z04,4,Duke
+2016,Z05,Z,Z05,5,Baylor
+2016,Z06,Z,Z06,6,Texas
+2016,Z07,Z,Z07,7,Oregon St.
+2016,Z08,Z,Z08,8,Saint Joseph's
+2016,Z09,Z,Z09,9,Cincinnati
+2016,Z10,Z,Z10,10,VCU
+2016,Z11,Z,Z11,11,Northern Iowa
+2016,Z12,Z,Z12,12,Yale
+2016,Z13,Z,Z13,13,UNC Wilmington
+2016,Z14,Z,Z14,14,Green Bay
+2016,Z15,Z,Z15,15,Cal St. Bakersfield
+2016,Z16a,Z,Z16,16,Holy Cross
+2016,Z16b,Z,Z16,16,Southern
+2017,W01,W,W01,1,Villanova
+2017,W02,W,W02,2,Duke
+2017,W03,W,W03,3,Baylor
+2017,W04,W,W04,4,Florida
+2017,W05,W,W05,5,Virginia
+2017,W06,W,W06,6,SMU
+2017,W07,W,W07,7,South Carolina
+2017,W08,W,W08,8,Wisconsin
+2017,W09,W,W09,9,Virginia Tech
+2017,W10,W,W10,10,Marquette
+2017,W11a,W,W11,11,Providence
+2017,W11b,W,W11,11,USC
+2017,W12,W,W12,12,UNC Wilmington
+2017,W13,W,W13,13,East Tennessee St.
+2017,W14,W,W14,14,New Mexico St.
+2017,W15,W,W15,15,Troy
+2017,W16a,W,W16,16,Mount St. Mary's
+2017,W16b,W,W16,16,New Orleans
+2017,X01,X,X01,1,Gonzaga
+2017,X02,X,X02,2,Arizona
+2017,X03,X,X03,3,Florida St.
+2017,X04,X,X04,4,West Virginia
+2017,X05,X,X05,5,Notre Dame
+2017,X06,X,X06,6,Maryland
+2017,X07,X,X07,7,Saint Mary's
+2017,X08,X,X08,8,Northwestern
+2017,X09,X,X09,9,Vanderbilt
+2017,X10,X,X10,10,VCU
+2017,X11,X,X11,11,Xavier
+2017,X12,X,X12,12,Princeton
+2017,X13,X,X13,13,Bucknell
+2017,X14,X,X14,14,Florida Gulf Coast
+2017,X15,X,X15,15,North Dakota
+2017,X16,X,X16,16,South Dakota St.
+2017,Y01,Y,Y01,1,Kansas
+2017,Y02,Y,Y02,2,Louisville
+2017,Y03,Y,Y03,3,Oregon
+2017,Y04,Y,Y04,4,Purdue
+2017,Y05,Y,Y05,5,Iowa St.
+2017,Y06,Y,Y06,6,Creighton
+2017,Y07,Y,Y07,7,Michigan
+2017,Y08,Y,Y08,8,Miami FL
+2017,Y09,Y,Y09,9,Michigan St.
+2017,Y10,Y,Y10,10,Oklahoma St.
+2017,Y11,Y,Y11,11,Rhode Island
+2017,Y12,Y,Y12,12,Nevada
+2017,Y13,Y,Y13,13,Vermont
+2017,Y14,Y,Y14,14,Iona
+2017,Y15,Y,Y15,15,Jacksonville St.
+2017,Y16a,Y,Y16,16,North Carolina Central
+2017,Y16b,Y,Y16,16,UC Davis
+2017,Z01,Z,Z01,1,North Carolina
+2017,Z02,Z,Z02,2,Kentucky
+2017,Z03,Z,Z03,3,UCLA
+2017,Z04,Z,Z04,4,Butler
+2017,Z05,Z,Z05,5,Minnesota
+2017,Z06,Z,Z06,6,Cincinnati
+2017,Z07,Z,Z07,7,Dayton
+2017,Z08,Z,Z08,8,Arkansas
+2017,Z09,Z,Z09,9,Seton Hall
+2017,Z10,Z,Z10,10,Wichita St.
+2017,Z11a,Z,Z11,11,Kansas St.
+2017,Z11b,Z,Z11,11,Wake Forest
+2017,Z12,Z,Z12,12,Middle Tennessee
+2017,Z13,Z,Z13,13,Winthrop
+2017,Z14,Z,Z14,14,Kent St.
+2017,Z15,Z,Z15,15,Northern Kentucky
+2017,Z16,Z,Z16,16,Texas Southern
+2018,W01,W,W01,1,Villanova
+2018,W02,W,W02,2,Purdue
+2018,W03,W,W03,3,Texas Tech
+2018,W04,W,W04,4,Wichita St.
+2018,W05,W,W05,5,West Virginia
+2018,W06,W,W06,6,Florida
+2018,W07,W,W07,7,Arkansas
+2018,W08,W,W08,8,Virginia Tech
+2018,W09,W,W09,9,Alabama
+2018,W10,W,W10,10,Butler
+2018,W11a,W,W11,11,St. Bonaventure
+2018,W11b,W,W11,11,UCLA
+2018,W12,W,W12,12,Murray St.
+2018,W13,W,W13,13,Marshall
+2018,W14,W,W14,14,Stephen F. Austin
+2018,W15,W,W15,15,Cal St. Fullerton
+2018,W16a,W,W16,16,LIU Brooklyn
+2018,W16b,W,W16,16,Radford
+2018,X01,X,X01,1,Kansas
+2018,X02,X,X02,2,Duke
+2018,X03,X,X03,3,Michigan St.
+2018,X04,X,X04,4,Auburn
+2018,X05,X,X05,5,Clemson
+2018,X06,X,X06,6,TCU
+2018,X07,X,X07,7,Rhode Island
+2018,X08,X,X08,8,Seton Hall
+2018,X09,X,X09,9,North Carolina St.
+2018,X10,X,X10,10,Oklahoma
+2018,X11a,X,X11,11,Arizona St.
+2018,X11b,X,X11,11,Syracuse
+2018,X12,X,X12,12,New Mexico St.
+2018,X13,X,X13,13,College of Charleston
+2018,X14,X,X14,14,Bucknell
+2018,X15,X,X15,15,Iona
+2018,X16,X,X16,16,Penn
+2018,Y01,Y,Y01,1,Virginia
+2018,Y02,Y,Y02,2,Cincinnati
+2018,Y03,Y,Y03,3,Tennessee
+2018,Y04,Y,Y04,4,Arizona
+2018,Y05,Y,Y05,5,Kentucky
+2018,Y06,Y,Y06,6,Miami FL
+2018,Y07,Y,Y07,7,Nevada
+2018,Y08,Y,Y08,8,Creighton
+2018,Y09,Y,Y09,9,Kansas St.
+2018,Y10,Y,Y10,10,Texas
+2018,Y11,Y,Y11,11,Loyola Chicago
+2018,Y12,Y,Y12,12,Davidson
+2018,Y13,Y,Y13,13,Buffalo
+2018,Y14,Y,Y14,14,Wright St.
+2018,Y15,Y,Y15,15,Georgia St.
+2018,Y16,Y,Y16,16,UMBC
+2018,Z01,Z,Z01,1,Xavier
+2018,Z02,Z,Z02,2,North Carolina
+2018,Z03,Z,Z03,3,Michigan
+2018,Z04,Z,Z04,4,Gonzaga
+2018,Z05,Z,Z05,5,Ohio St.
+2018,Z06,Z,Z06,6,Houston
+2018,Z07,Z,Z07,7,Texas A&M
+2018,Z08,Z,Z08,8,Missouri
+2018,Z09,Z,Z09,9,Florida St.
+2018,Z10,Z,Z10,10,Providence
+2018,Z11,Z,Z11,11,San Diego St.
+2018,Z12,Z,Z12,12,South Dakota St.
+2018,Z13,Z,Z13,13,UNC Greensboro
+2018,Z14,Z,Z14,14,Montana
+2018,Z15,Z,Z15,15,Lipscomb
+2018,Z16a,Z,Z16,16,North Carolina Central
+2018,Z16b,Z,Z16,16,Texas Southern
+2019,W01,W,W01,1,Duke
+2019,W02,W,W02,2,Michigan St.
+2019,W03,W,W03,3,LSU
+2019,W04,W,W04,4,Virginia Tech
+2019,W05,W,W05,5,Mississippi St.
+2019,W06,W,W06,6,Maryland
+2019,W07,W,W07,7,Louisville
+2019,W08,W,W08,8,VCU
+2019,W09,W,W09,9,UCF
+2019,W10,W,W10,10,Minnesota
+2019,W11a,W,W11,11,Belmont
+2019,W11b,W,W11,11,Temple
+2019,W12,W,W12,12,Liberty
+2019,W13,W,W13,13,Saint Louis
+2019,W14,W,W14,14,Yale
+2019,W15,W,W15,15,Bradley
+2019,W16a,W,W16,16,North Dakota St.
+2019,W16b,W,W16,16,North Carolina Central
+2019,X01,X,X01,1,Gonzaga
+2019,X02,X,X02,2,Michigan
+2019,X03,X,X03,3,Texas Tech
+2019,X04,X,X04,4,Florida St.
+2019,X05,X,X05,5,Marquette
+2019,X06,X,X06,6,Buffalo
+2019,X07,X,X07,7,Nevada
+2019,X08,X,X08,8,Syracuse
+2019,X09,X,X09,9,Baylor
+2019,X10,X,X10,10,Florida
+2019,X11a,X,X11,11,Arizona St.
+2019,X11b,X,X11,11,St. John's
+2019,X12,X,X12,12,Murray St.
+2019,X13,X,X13,13,Vermont
+2019,X14,X,X14,14,Northern Kentucky
+2019,X15,X,X15,15,Montana
+2019,X16a,X,X16,16,Fairleigh Dickinson
+2019,X16b,X,X16,16,Prairie View A&M
+2019,Y01,Y,Y01,1,North Carolina
+2019,Y02,Y,Y02,2,Kentucky
+2019,Y03,Y,Y03,3,Houston
+2019,Y04,Y,Y04,4,Kansas
+2019,Y05,Y,Y05,5,Auburn
+2019,Y06,Y,Y06,6,Iowa St.
+2019,Y07,Y,Y07,7,Wofford
+2019,Y08,Y,Y08,8,Utah St.
+2019,Y09,Y,Y09,9,Washington
+2019,Y10,Y,Y10,10,Seton Hall
+2019,Y11,Y,Y11,11,Ohio St.
+2019,Y12,Y,Y12,12,New Mexico St.
+2019,Y13,Y,Y13,13,Northeastern
+2019,Y14,Y,Y14,14,Georgia St.
+2019,Y15,Y,Y15,15,Abilene Christian
+2019,Y16,Y,Y16,16,Iona
+2019,Z01,Z,Z01,1,Virginia
+2019,Z02,Z,Z02,2,Tennessee
+2019,Z03,Z,Z03,3,Purdue
+2019,Z04,Z,Z04,4,Kansas St.
+2019,Z05,Z,Z05,5,Wisconsin
+2019,Z06,Z,Z06,6,Villanova
+2019,Z07,Z,Z07,7,Cincinnati
+2019,Z08,Z,Z08,8,Mississippi
+2019,Z09,Z,Z09,9,Oklahoma
+2019,Z10,Z,Z10,10,Iowa
+2019,Z11,Z,Z11,11,Saint Mary's
+2019,Z12,Z,Z12,12,Oregon
+2019,Z13,Z,Z13,13,UC Irvine
+2019,Z14,Z,Z14,14,Old Dominion
+2019,Z15,Z,Z15,15,Colgate
+2019,Z16,Z,Z16,16,Gardner Webb
