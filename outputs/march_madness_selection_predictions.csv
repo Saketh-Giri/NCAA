@@ -1,492 +1,492 @@
 TEAM,CONF,YEAR,G,W,WIN_RATE,WAB,MADE_TOURNAMENT,SEED,POSTSEASON,Predicted_Tournament_Probability,Predicted_Made_Tournament,Prediction,Actual,Correct
-Tennessee,SEC,2019,36,31,0.8611,9.9,1,2.0,S16,0.989,1,Make March Madness,Made March Madness,True
-Virginia,ACC,2019,38,35,0.9211,11.1,1,1.0,Champions,0.9873,1,Make March Madness,Made March Madness,True
-Virginia Tech,ACC,2019,35,26,0.7429,5.0,1,4.0,S16,0.9807,1,Make March Madness,Made March Madness,True
-Mississippi St.,SEC,2019,34,23,0.6765,4.5,1,5.0,R64,0.9787,1,Make March Madness,Made March Madness,True
-Nevada,MWC,2019,34,29,0.8529,3.8,1,7.0,R64,0.9735,1,Make March Madness,Made March Madness,True
-Buffalo,MAC,2019,35,32,0.9143,5.5,1,6.0,R32,0.971,1,Make March Madness,Made March Madness,True
-Kansas St.,B12,2019,34,25,0.7353,6.5,1,4.0,R64,0.9604,1,Make March Madness,Made March Madness,True
-Kansas,B12,2019,36,26,0.7222,8.3,1,4.0,R32,0.957,1,Make March Madness,Made March Madness,True
-Marquette,BE,2019,34,24,0.7059,2.7,1,5.0,R64,0.9469,1,Make March Madness,Made March Madness,True
-Belmont,OVC,2019,32,27,0.8438,1.2,1,11.0,R64,0.9187,1,Make March Madness,Made March Madness,True
-TCU,B12,2019,37,23,0.6216,1.1,0,,,0.7673,1,Make March Madness,Missed March Madness,False
-Utah St.,MWC,2019,34,28,0.8235,2.0,1,8.0,R64,0.6976,1,Make March Madness,Made March Madness,True
-Georgia St.,SB,2019,33,24,0.7273,-1.3,1,14.0,R64,0.5439,1,Make March Madness,Made March Madness,True
-Northeastern,CAA,2019,34,23,0.6765,-2.8,1,13.0,R64,0.4218,0,Miss March Madness,Made March Madness,False
-Vermont,AE,2019,33,27,0.8182,-1.0,1,13.0,R64,0.3459,0,Miss March Madness,Made March Madness,False
-Presbyterian,BSth,2019,33,20,0.6061,-9.6,0,,,0.2906,0,Miss March Madness,Missed March Madness,True
-Central Michigan,MAC,2019,32,23,0.7188,-4.0,0,,,0.2736,0,Miss March Madness,Missed March Madness,True
-Oregon,P12,2019,38,25,0.6579,-1.1,1,12.0,S16,0.2331,0,Miss March Madness,Made March Madness,False
-St. John's,BE,2019,34,21,0.6176,-1.2,1,11.0,R68,0.2329,0,Miss March Madness,Made March Madness,False
-Norfolk St.,MEAC,2019,33,22,0.6667,-9.0,0,,,0.1933,0,Miss March Madness,Missed March Madness,True
-UAB,CUSA,2019,33,20,0.6061,-7.4,0,,,0.1676,0,Miss March Madness,Missed March Madness,True
-Southern Miss,CUSA,2019,29,20,0.6897,-5.7,0,,,0.164,0,Miss March Madness,Missed March Madness,True
-Louisiana Monroe,SB,2019,34,19,0.5588,-7.4,0,,,0.1618,0,Miss March Madness,Missed March Madness,True
-Wright St.,Horz,2019,33,21,0.6364,-6.6,0,,,0.1459,0,Miss March Madness,Missed March Madness,True
-Louisiana Tech,CUSA,2019,31,20,0.6452,-7.0,0,,,0.1168,0,Miss March Madness,Missed March Madness,True
-San Francisco,WCC,2019,30,21,0.7,-2.7,0,,,0.1144,0,Miss March Madness,Missed March Madness,True
-Sam Houston St.,Slnd,2019,30,21,0.7,-6.7,0,,,0.1014,0,Miss March Madness,Missed March Madness,True
-Kent St.,MAC,2019,31,22,0.7097,-2.7,0,,,0.101,0,Miss March Madness,Missed March Madness,True
-Harvard,Ivy,2019,30,19,0.6333,-3.6,0,,,0.0739,0,Miss March Madness,Missed March Madness,True
-DePaul,BE,2019,36,19,0.5278,-5.2,0,,,0.069,0,Miss March Madness,Missed March Madness,True
-Penn,Ivy,2019,30,19,0.6333,-5.1,0,,,0.0344,0,Miss March Madness,Missed March Madness,True
-Hampton,BSth,2019,32,18,0.5625,-11.4,0,,,0.0287,0,Miss March Madness,Missed March Madness,True
-Weber St.,BSky,2019,31,18,0.5806,-10.7,0,,,0.0252,0,Miss March Madness,Missed March Madness,True
-South Dakota St.,Sum,2019,32,24,0.75,-3.4,0,,,0.024,0,Miss March Madness,Missed March Madness,True
-Holy Cross,Pat,2019,33,16,0.4848,-11.3,0,,,0.0229,0,Miss March Madness,Missed March Madness,True
-Hawaii,BW,2019,29,18,0.6207,-8.6,0,,,0.02,0,Miss March Madness,Missed March Madness,True
-Coastal Carolina,SB,2019,32,17,0.5312,-9.9,0,,,0.02,0,Miss March Madness,Missed March Madness,True
-North Carolina Central,MEAC,2019,31,18,0.5806,-10.9,1,16.0,R68,0.0159,0,Miss March Madness,Made March Madness,False
-Nicholls St.,Slnd,2019,27,14,0.5185,-12.6,0,,,0.0141,0,Miss March Madness,Missed March Madness,True
-Boise St.,MWC,2019,32,13,0.4062,-11.9,0,,,0.0118,0,Miss March Madness,Missed March Madness,True
-LIU Brooklyn,NEC,2019,31,16,0.5161,-13.0,0,,,0.0117,0,Miss March Madness,Missed March Madness,True
-Detroit,Horz,2019,31,11,0.3548,-12.3,0,,,0.0112,0,Miss March Madness,Missed March Madness,True
-Portland St.,BSky,2019,29,16,0.5517,-12.0,0,,,0.011,0,Miss March Madness,Missed March Madness,True
-Akron,MAC,2019,31,17,0.5484,-8.1,0,,,0.0104,0,Miss March Madness,Missed March Madness,True
-Ball St.,MAC,2019,32,16,0.5,-8.6,0,,,0.0089,0,Miss March Madness,Missed March Madness,True
-Illinois,B10,2019,33,12,0.3636,-5.5,0,,,0.0086,0,Miss March Madness,Missed March Madness,True
-Drexel,CAA,2019,31,13,0.4194,-13.6,0,,,0.0086,0,Miss March Madness,Missed March Madness,True
-Florida Gulf Coast,ASun,2019,30,14,0.4667,-11.1,0,,,0.0083,0,Miss March Madness,Missed March Madness,True
-Miami FL,ACC,2019,32,14,0.4375,-5.1,0,,,0.0082,0,Miss March Madness,Missed March Madness,True
-Alabama A&M,SWAC,2019,32,5,0.1562,-22.6,0,,,0.008,0,Miss March Madness,Missed March Madness,True
-Marist,MAAC,2019,31,12,0.3871,-15.1,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
-Stanford,P12,2019,31,15,0.4839,-5.8,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
-Portland,WCC,2019,30,7,0.2333,-17.9,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
-Central Arkansas,Slnd,2019,30,14,0.4667,-13.4,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
-Boston College,ACC,2019,31,14,0.4516,-5.4,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
-Chattanooga,SC,2019,29,12,0.4138,-12.6,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
-Alabama St.,SWAC,2019,29,12,0.4138,-13.7,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
-Central Connecticut,NEC,2019,29,11,0.3793,-15.3,0,,,0.007,0,Miss March Madness,Missed March Madness,True
-Chicago St.,WAC,2019,30,3,0.1,-20.9,0,,,0.007,0,Miss March Madness,Missed March Madness,True
-Arkansas St.,SB,2019,30,13,0.4333,-12.6,0,,,0.007,0,Miss March Madness,Missed March Madness,True
-McNeese St.,Slnd,2019,27,9,0.3333,-17.4,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
-Binghamton,AE,2019,31,10,0.3226,-17.4,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
-Little Rock,SB,2019,29,10,0.3448,-14.9,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
-Evansville,MVC,2019,30,11,0.3667,-14.5,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
-Alcorn St.,SWAC,2019,27,10,0.3704,-16.7,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
-Delaware St.,MEAC,2019,29,6,0.2069,-21.7,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
-Fairfield,MAAC,2019,31,9,0.2903,-17.8,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
-Sacramento St.,BSky,2019,28,15,0.5357,-12.6,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
-Columbia,Ivy,2019,26,10,0.3846,-12.5,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
-Maine,AE,2019,31,5,0.1613,-20.9,0,,,0.0053,0,Miss March Madness,Missed March Madness,True
-Wake Forest,ACC,2019,31,11,0.3548,-7.5,0,,,0.005,0,Miss March Madness,Missed March Madness,True
-Wichita St.,Amer,2018,33,25,0.7576,3.4,1,4.0,R64,0.9851,1,Make March Madness,Made March Madness,True
-Texas Tech,B12,2018,37,27,0.7297,4.7,1,3.0,E8,0.9778,1,Make March Madness,Made March Madness,True
-Creighton,BE,2018,32,21,0.6562,2.0,1,8.0,R64,0.9595,1,Make March Madness,Made March Madness,True
-Loyola Chicago,MVC,2018,37,32,0.8649,2.0,1,11.0,F4,0.9334,1,Make March Madness,Made March Madness,True
-Florida St.,ACC,2018,35,23,0.6571,0.9,1,9.0,E8,0.9138,1,Make March Madness,Made March Madness,True
-Butler,BE,2018,35,21,0.6,1.7,1,10.0,R32,0.8992,1,Make March Madness,Made March Madness,True
-College of Charleston,CAA,2018,32,26,0.8125,-2.1,1,13.0,R64,0.4839,0,Miss March Madness,Made March Madness,False
-Northern Colorado,BSky,2018,35,26,0.7429,-6.2,0,,,0.4207,0,Miss March Madness,Missed March Madness,True
-Western Kentucky,CUSA,2018,37,27,0.7297,-1.2,0,,,0.334,0,Miss March Madness,Missed March Madness,True
-Northeastern,CAA,2018,32,23,0.7188,-4.0,0,,,0.3041,0,Miss March Madness,Missed March Madness,True
-Oklahoma St.,B12,2018,36,21,0.5833,0.1,0,,,0.2625,0,Miss March Madness,Missed March Madness,True
-USC,P12,2018,36,24,0.6667,-0.4,0,,,0.2032,0,Miss March Madness,Missed March Madness,True
-Oregon,P12,2018,36,23,0.6389,-2.3,0,,,0.1836,0,Miss March Madness,Missed March Madness,True
-Furman,SC,2018,31,23,0.7419,-4.0,0,,,0.1658,0,Miss March Madness,Missed March Madness,True
-New Mexico,MWC,2018,33,19,0.5758,-6.1,0,,,0.1475,0,Miss March Madness,Missed March Madness,True
-San Diego,WCC,2018,33,20,0.6061,-5.7,0,,,0.1464,0,Miss March Madness,Missed March Madness,True
-Washington,P12,2018,34,21,0.6176,-2.5,0,,,0.1451,0,Miss March Madness,Missed March Madness,True
-Notre Dame,ACC,2018,35,21,0.6,-0.7,0,,,0.1433,0,Miss March Madness,Missed March Madness,True
-Mercer,SC,2018,32,19,0.5938,-8.2,0,,,0.128,0,Miss March Madness,Missed March Madness,True
-Southeastern Louisiana,Slnd,2018,31,22,0.7097,-6.5,0,,,0.1218,0,Miss March Madness,Missed March Madness,True
-Hampton,MEAC,2018,32,19,0.5938,-11.1,0,,,0.1126,0,Miss March Madness,Missed March Madness,True
-Eastern Michigan,MAC,2018,31,22,0.7097,-6.6,0,,,0.0898,0,Miss March Madness,Missed March Madness,True
-Colgate,Pat,2018,32,19,0.5938,-8.6,0,,,0.0776,0,Miss March Madness,Missed March Madness,True
-Boston College,ACC,2018,35,19,0.5429,-1.9,0,,,0.0582,0,Miss March Madness,Missed March Madness,True
-Navy,Pat,2018,31,20,0.6452,-8.1,0,,,0.0509,0,Miss March Madness,Missed March Madness,True
-LIU Brooklyn,NEC,2018,34,18,0.5294,-13.2,1,16.0,R68,0.04,0,Miss March Madness,Made March Madness,False
-William & Mary,CAA,2018,29,19,0.6552,-6.2,0,,,0.0347,0,Miss March Madness,Missed March Madness,True
-Evansville,MVC,2018,30,17,0.5667,-7.7,0,,,0.0298,0,Miss March Madness,Missed March Madness,True
-Saint Louis,A10,2018,32,17,0.5312,-7.9,0,,,0.0291,0,Miss March Madness,Missed March Madness,True
-Illinois St.,MVC,2018,32,18,0.5625,-5.9,0,,,0.0272,0,Miss March Madness,Missed March Madness,True
-Quinnipiac,MAAC,2018,33,12,0.3636,-16.3,0,,,0.0229,0,Miss March Madness,Missed March Madness,True
-Temple,Amer,2018,33,17,0.5152,-3.3,0,,,0.0204,0,Miss March Madness,Missed March Madness,True
-St. John's,BE,2018,32,16,0.5,-3.0,0,,,0.0198,0,Miss March Madness,Missed March Madness,True
-Hawaii,BW,2018,28,17,0.6071,-8.5,0,,,0.0187,0,Miss March Madness,Missed March Madness,True
-Harvard,Ivy,2018,31,18,0.5806,-6.8,0,,,0.0164,0,Miss March Madness,Missed March Madness,True
-Towson,CAA,2018,30,18,0.6,-9.1,0,,,0.0148,0,Miss March Madness,Missed March Madness,True
-George Mason,A10,2018,33,16,0.4848,-9.8,0,,,0.0138,0,Miss March Madness,Missed March Madness,True
-New Orleans,Slnd,2018,30,16,0.5333,-10.7,0,,,0.0105,0,Miss March Madness,Missed March Madness,True
-Southeast Missouri St.,OVC,2018,29,14,0.4828,-12.3,0,,,0.0104,0,Miss March Madness,Missed March Madness,True
-Columbia,Ivy,2018,26,8,0.3077,-13.6,0,,,0.0104,0,Miss March Madness,Missed March Madness,True
-Vanderbilt,SEC,2018,32,12,0.375,-6.0,0,,,0.0102,0,Miss March Madness,Missed March Madness,True
-Central Connecticut,NEC,2018,32,14,0.4375,-13.8,0,,,0.0101,0,Miss March Madness,Missed March Madness,True
-Abilene Christian,Slnd,2018,28,16,0.5714,-11.3,0,,,0.0097,0,Miss March Madness,Missed March Madness,True
-Indiana,B10,2018,31,16,0.5161,-2.9,0,,,0.0094,0,Miss March Madness,Missed March Madness,True
-Marist,MAAC,2018,31,6,0.1935,-20.2,0,,,0.0077,0,Miss March Madness,Missed March Madness,True
-UTEP,CUSA,2018,30,11,0.3667,-13.7,0,,,0.0076,0,Miss March Madness,Missed March Madness,True
-VMI,SC,2018,28,9,0.3214,-15.8,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
-Oral Roberts,Sum,2018,28,11,0.3929,-12.0,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-San Jose St.,MWC,2018,29,4,0.1379,-18.5,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-UNC Wilmington,CAA,2018,30,11,0.3667,-14.9,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-Howard,MEAC,2018,31,10,0.3226,-18.6,0,,,0.0065,0,Miss March Madness,Missed March Madness,True
-Ohio,MAC,2018,30,14,0.4667,-10.9,0,,,0.0065,0,Miss March Madness,Missed March Madness,True
-Illinois,B10,2018,31,14,0.4516,-6.5,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
-Dayton,A10,2018,31,14,0.4516,-9.6,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
-SMU,Amer,2017,35,30,0.8571,6.4,1,6.0,R64,0.9866,1,Make March Madness,Made March Madness,True
-Kentucky,SEC,2017,38,32,0.8421,9.0,1,2.0,E8,0.9833,1,Make March Madness,Made March Madness,True
-Florida St.,ACC,2017,35,26,0.7429,5.9,1,3.0,R32,0.9818,1,Make March Madness,Made March Madness,True
-Purdue,B10,2017,35,27,0.7714,5.6,1,4.0,S16,0.98,1,Make March Madness,Made March Madness,True
-Iowa St.,B12,2017,35,24,0.6857,6.5,1,5.0,R32,0.9795,1,Make March Madness,Made March Madness,True
-Virginia,ACC,2017,34,23,0.6765,5.0,1,5.0,R32,0.9764,1,Make March Madness,Made March Madness,True
-Louisville,ACC,2017,34,25,0.7353,6.9,1,2.0,R32,0.9716,1,Make March Madness,Made March Madness,True
-Baylor,B12,2017,34,27,0.7941,7.9,1,3.0,S16,0.9619,1,Make March Madness,Made March Madness,True
-Maryland,B10,2017,32,24,0.75,3.7,1,6.0,R64,0.935,1,Make March Madness,Made March Madness,True
-Rhode Island,A10,2017,35,25,0.7143,0.4,1,11.0,R32,0.924,1,Make March Madness,Made March Madness,True
-Kansas St.,B12,2017,35,21,0.6,1.7,1,11.0,R64,0.9219,1,Make March Madness,Made March Madness,True
-South Carolina,SEC,2017,36,26,0.7222,1.7,1,7.0,F4,0.9024,1,Make March Madness,Made March Madness,True
-USC,P12,2017,36,26,0.7222,1.3,1,11.0,R32,0.8747,1,Make March Madness,Made March Madness,True
-Monmouth,MAAC,2017,34,27,0.7941,0.5,0,,,0.8041,1,Make March Madness,Missed March Madness,False
-Xavier,BE,2017,38,24,0.6316,1.6,1,11.0,E8,0.7773,1,Make March Madness,Made March Madness,True
-New Mexico St.,WAC,2017,31,28,0.9032,-0.2,1,14.0,R64,0.6786,1,Make March Madness,Made March Madness,True
-Houston,Amer,2017,32,22,0.6875,-0.9,0,,,0.4491,0,Miss March Madness,Missed March Madness,True
-East Tennessee St.,SC,2017,33,27,0.8182,-0.7,1,13.0,R64,0.3796,0,Miss March Madness,Made March Madness,False
-UNC Greensboro,SC,2017,32,25,0.7812,-2.6,0,,,0.358,0,Miss March Madness,Missed March Madness,True
-Vanderbilt,SEC,2017,35,19,0.5429,0.1,1,9.0,R64,0.3373,0,Miss March Madness,Made March Madness,False
-Texas A&M Corpus Chris,Slnd,2017,33,24,0.7273,-6.5,0,,,0.2713,0,Miss March Madness,Missed March Madness,True
-Louisiana Tech,CUSA,2017,31,23,0.7419,-4.8,0,,,0.2491,0,Miss March Madness,Missed March Madness,True
-Tennessee Martin,OVC,2017,33,22,0.6667,-6.7,0,,,0.2359,0,Miss March Madness,Missed March Madness,True
-Northern Kentucky,Horz,2017,33,24,0.7273,-4.9,1,15.0,R64,0.2043,0,Miss March Madness,Made March Madness,False
-Oakland,Horz,2017,32,25,0.7812,-3.6,0,,,0.1977,0,Miss March Madness,Missed March Madness,True
-Illinois,B10,2017,34,20,0.5882,-1.5,0,,,0.1532,0,Miss March Madness,Missed March Madness,True
-Towson,CAA,2017,32,20,0.625,-6.6,0,,,0.1038,0,Miss March Madness,Missed March Madness,True
-Georgia Tech,ACC,2017,36,21,0.5833,-2.1,0,,,0.0985,0,Miss March Madness,Missed March Madness,True
-Utah,P12,2017,30,20,0.6667,-2.3,0,,,0.0966,0,Miss March Madness,Missed March Madness,True
-Colorado,P12,2017,33,19,0.5758,-3.8,0,,,0.0946,0,Miss March Madness,Missed March Madness,True
-Boise St.,MWC,2017,31,20,0.6452,-3.2,0,,,0.086,0,Miss March Madness,Missed March Madness,True
-Old Dominion,CUSA,2017,31,19,0.6129,-5.7,0,,,0.0699,0,Miss March Madness,Missed March Madness,True
-Idaho,BSky,2017,31,19,0.6129,-9.3,0,,,0.0546,0,Miss March Madness,Missed March Madness,True
-South Dakota St.,Sum,2017,33,18,0.5455,-9.8,1,16.0,R64,0.0455,0,Miss March Madness,Made March Madness,False
-Chattanooga,SC,2017,29,19,0.6552,-5.5,0,,,0.0419,0,Miss March Madness,Missed March Madness,True
-Illinois Chicago,Horz,2017,34,17,0.5,-13.3,0,,,0.0393,0,Miss March Madness,Missed March Madness,True
-William & Mary,CAA,2017,29,17,0.5862,-6.8,0,,,0.0361,0,Miss March Madness,Missed March Madness,True
-UMKC,WAC,2017,32,18,0.5625,-9.3,0,,,0.0278,0,Miss March Madness,Missed March Madness,True
-Loyola Chicago,MVC,2017,30,18,0.6,-7.2,0,,,0.0275,0,Miss March Madness,Missed March Madness,True
-Milwaukee,Horz,2017,34,11,0.3235,-17.8,0,,,0.0196,0,Miss March Madness,Missed March Madness,True
-Murray St.,OVC,2017,31,16,0.5161,-12.0,0,,,0.0176,0,Miss March Madness,Missed March Madness,True
-Norfolk St.,MEAC,2017,32,17,0.5312,-10.9,0,,,0.0176,0,Miss March Madness,Missed March Madness,True
-Montana,BSky,2017,32,16,0.5,-10.8,0,,,0.0165,0,Miss March Madness,Missed March Madness,True
-Yale,Ivy,2017,28,18,0.6429,-4.8,0,,,0.016,0,Miss March Madness,Missed March Madness,True
-Stephen F. Austin,Slnd,2017,30,18,0.6,-9.5,0,,,0.0158,0,Miss March Madness,Missed March Madness,True
-Holy Cross,Pat,2017,32,15,0.4688,-10.8,0,,,0.0144,0,Miss March Madness,Missed March Madness,True
-Central Arkansas,Slnd,2017,32,8,0.25,-17.4,0,,,0.0144,0,Miss March Madness,Missed March Madness,True
-Green Bay,Horz,2017,30,18,0.6,-7.7,0,,,0.0138,0,Miss March Madness,Missed March Madness,True
-Connecticut,Amer,2017,32,16,0.5,-5.6,0,,,0.0129,0,Miss March Madness,Missed March Madness,True
-Pacific,WCC,2017,32,11,0.3438,-12.6,0,,,0.0122,0,Miss March Madness,Missed March Madness,True
-Southeast Missouri St.,OVC,2017,31,15,0.4839,-13.0,0,,,0.0115,0,Miss March Madness,Missed March Madness,True
-Tulsa,Amer,2017,32,15,0.4688,-6.2,0,,,0.0111,0,Miss March Madness,Missed March Madness,True
-Youngstown St.,Horz,2017,32,13,0.4062,-15.4,0,,,0.0111,0,Miss March Madness,Missed March Madness,True
-Maryland Eastern Shore,MEAC,2017,32,14,0.4375,-13.7,0,,,0.0106,0,Miss March Madness,Missed March Madness,True
-Saint Louis,A10,2017,33,12,0.3636,-12.8,0,,,0.0106,0,Miss March Madness,Missed March Madness,True
-Marist,MAAC,2017,32,8,0.25,-17.8,0,,,0.0105,0,Miss March Madness,Missed March Madness,True
-St. Francis NY,NEC,2017,30,4,0.1333,-22.5,0,,,0.01,0,Miss March Madness,Missed March Madness,True
-Austin Peay,OVC,2017,28,11,0.3929,-13.8,0,,,0.0099,0,Miss March Madness,Missed March Madness,True
-High Point,BSth,2017,28,15,0.5357,-11.4,0,,,0.0094,0,Miss March Madness,Missed March Madness,True
-Abilene Christian,Slnd,2017,25,13,0.52,-12.5,0,,,0.0092,0,Miss March Madness,Missed March Madness,True
-Manhattan,MAAC,2017,32,10,0.3125,-15.7,0,,,0.0091,0,Miss March Madness,Missed March Madness,True
-Portland,WCC,2017,31,11,0.3548,-13.3,0,,,0.0091,0,Miss March Madness,Missed March Madness,True
-Northeastern,CAA,2017,31,15,0.4839,-8.9,0,,,0.0084,0,Miss March Madness,Missed March Madness,True
-Oklahoma,B12,2017,31,11,0.3548,-4.5,0,,,0.0084,0,Miss March Madness,Missed March Madness,True
-Brown,Ivy,2017,28,13,0.4643,-11.6,0,,,0.008,0,Miss March Madness,Missed March Madness,True
-James Madison,CAA,2017,32,10,0.3125,-17.1,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
-Morehead St.,OVC,2017,28,14,0.5,-10.3,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
-Fairleigh Dickinson,NEC,2017,29,11,0.3793,-13.9,0,,,0.0077,0,Miss March Madness,Missed March Madness,True
-Army,Pat,2017,31,13,0.4194,-13.6,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
-Longwood,BSth,2017,28,6,0.2143,-19.5,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
-Alabama St.,SWAC,2017,30,8,0.2667,-19.2,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
-Tennessee Tech,OVC,2017,30,12,0.4,-14.6,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
-Tulane,Amer,2017,31,6,0.1935,-15.5,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
-Oregon St.,P12,2017,31,5,0.1613,-16.7,0,,,0.0068,0,Miss March Madness,Missed March Madness,True
-Prairie View A&M,SWAC,2017,31,13,0.4194,-13.9,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-Arkansas Pine Bluff,SWAC,2017,30,6,0.2,-20.2,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-Northern Arizona,BSky,2017,31,9,0.2903,-19.1,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
-Coppin St.,MEAC,2017,30,8,0.2667,-17.8,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
-South Florida,Amer,2017,30,7,0.2333,-14.7,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
-Chicago St.,WAC,2017,29,6,0.2069,-18.4,0,,,0.006,0,Miss March Madness,Missed March Madness,True
-Little Rock,SB,2017,30,15,0.5,-12.0,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
-Cornell,Ivy,2017,28,8,0.2857,-14.6,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
-San Jose St.,MWC,2017,28,14,0.5,-9.0,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
-Purdue,B10,2016,35,26,0.7429,4.4,1,5.0,R64,0.9848,1,Make March Madness,Made March Madness,True
-Texas A&M,SEC,2016,37,28,0.7568,5.2,1,3.0,S16,0.9764,1,Make March Madness,Made March Madness,True
-Oregon,P12,2016,37,30,0.8108,6.7,1,1.0,E8,0.9764,1,Make March Madness,Made March Madness,True
-Utah,P12,2016,35,26,0.7429,5.6,1,3.0,R32,0.9762,1,Make March Madness,Made March Madness,True
-Kansas,B12,2016,37,32,0.8649,11.6,1,1.0,E8,0.9706,1,Make March Madness,Made March Madness,True
-Baylor,B12,2016,33,21,0.6364,3.5,1,5.0,R64,0.9672,1,Make March Madness,Made March Madness,True
-Saint Joseph's,A10,2016,36,28,0.7778,3.4,1,8.0,R32,0.9671,1,Make March Madness,Made March Madness,True
-Indiana,B10,2016,35,27,0.7714,3.2,1,5.0,S16,0.8249,1,Make March Madness,Made March Madness,True
-VCU,A10,2016,36,25,0.6944,-0.1,1,10.0,R32,0.5985,1,Make March Madness,Made March Madness,True
-Stephen F. Austin,Slnd,2016,30,24,0.8,-1.2,1,14.0,R32,0.543,1,Make March Madness,Made March Madness,True
-Grand Canyon,WAC,2016,32,25,0.7812,-1.0,0,,,0.5282,1,Make March Madness,Missed March Madness,False
-Virginia Tech,ACC,2016,35,20,0.5714,-0.5,0,,,0.4483,0,Miss March Madness,Missed March Madness,True
-South Dakota St.,Sum,2016,32,24,0.75,-1.2,1,12.0,R64,0.4229,0,Miss March Madness,Made March Madness,False
-Columbia,Ivy,2016,33,23,0.697,-4.3,0,,,0.3841,0,Miss March Madness,Missed March Madness,True
-St. Bonaventure,A10,2016,31,22,0.7097,-0.1,0,,,0.3726,0,Miss March Madness,Missed March Madness,True
-Weber St.,BSky,2016,32,23,0.7188,-3.7,1,15.0,R64,0.3025,0,Miss March Madness,Made March Madness,False
-Mississippi,SEC,2016,32,20,0.625,-1.4,0,,,0.2911,0,Miss March Madness,Missed March Madness,True
-Albany,AE,2016,32,23,0.7188,-4.0,0,,,0.2562,0,Miss March Madness,Missed March Madness,True
-Temple,Amer,2016,33,21,0.6364,-0.1,1,10.0,R64,0.2327,0,Miss March Madness,Made March Madness,False
-Ball St.,MAC,2016,34,20,0.5882,-8.3,0,,,0.1726,0,Miss March Madness,Missed March Madness,True
-Marquette,BE,2016,33,20,0.6061,-1.0,0,,,0.1708,0,Miss March Madness,Missed March Madness,True
-Northwestern,B10,2016,32,20,0.625,-2.0,0,,,0.1697,0,Miss March Madness,Missed March Madness,True
-Mississippi Valley St.,SWAC,2016,35,8,0.2286,-21.6,0,,,0.1489,0,Miss March Madness,Missed March Madness,True
-Memphis,Amer,2016,34,19,0.5588,-5.6,0,,,0.0722,0,Miss March Madness,Missed March Madness,True
-Buffalo,MAC,2016,34,19,0.5588,-5.8,1,14.0,R64,0.0697,0,Miss March Madness,Made March Madness,False
-Hampton,MEAC,2016,31,20,0.6452,-6.3,1,16.0,R64,0.0691,0,Miss March Madness,Made March Madness,False
-High Point,BSth,2016,29,18,0.6207,-5.7,0,,,0.0407,0,Miss March Madness,Missed March Madness,True
-Texas Southern,SWAC,2016,33,18,0.5455,-7.7,0,,,0.0386,0,Miss March Madness,Missed March Madness,True
-Arkansas,SEC,2016,32,16,0.5,-4.6,0,,,0.0345,0,Miss March Madness,Missed March Madness,True
-South Carolina St.,MEAC,2016,32,17,0.5312,-9.5,0,,,0.0338,0,Miss March Madness,Missed March Madness,True
-Coastal Carolina,BSth,2016,30,18,0.6,-7.0,0,,,0.0301,0,Miss March Madness,Missed March Madness,True
-Nebraska,B10,2016,34,16,0.4706,-5.5,0,,,0.0282,0,Miss March Madness,Missed March Madness,True
-Tennessee Martin,OVC,2016,33,18,0.5455,-9.0,0,,,0.0241,0,Miss March Madness,Missed March Madness,True
-Louisiana Monroe,SB,2016,32,18,0.5625,-6.3,0,,,0.0231,0,Miss March Madness,Missed March Madness,True
-Charlotte,CUSA,2016,33,14,0.4242,-12.7,0,,,0.0221,0,Miss March Madness,Missed March Madness,True
-Denver,Sum,2016,31,16,0.5161,-10.2,0,,,0.0221,0,Miss March Madness,Missed March Madness,True
-North Dakota St.,Sum,2016,31,18,0.5806,-7.2,0,,,0.0213,0,Miss March Madness,Missed March Madness,True
-Navy,Pat,2016,32,18,0.5625,-10.0,0,,,0.021,0,Miss March Madness,Missed March Madness,True
-UCLA,P12,2016,32,15,0.4688,-3.9,0,,,0.0192,0,Miss March Madness,Missed March Madness,True
-UMBC,AE,2016,32,7,0.2188,-20.5,0,,,0.014,0,Miss March Madness,Missed March Madness,True
-Rider,MAAC,2016,33,13,0.3939,-14.1,0,,,0.013,0,Miss March Madness,Missed March Madness,True
-Stetson,ASun,2016,30,8,0.2667,-16.6,0,,,0.0126,0,Miss March Madness,Missed March Madness,True
-Morgan St.,MEAC,2016,30,8,0.2667,-17.4,0,,,0.0122,0,Miss March Madness,Missed March Madness,True
-Lehigh,Pat,2016,31,16,0.5161,-9.6,0,,,0.0122,0,Miss March Madness,Missed March Madness,True
-Toledo,MAC,2016,31,16,0.5161,-9.8,0,,,0.0116,0,Miss March Madness,Missed March Madness,True
-Elon,CAA,2016,30,14,0.4667,-8.5,0,,,0.0111,0,Miss March Madness,Missed March Madness,True
-Florida Atlantic,CUSA,2016,31,7,0.2258,-17.3,0,,,0.0103,0,Miss March Madness,Missed March Madness,True
-Niagara,MAAC,2016,32,7,0.2188,-19.4,0,,,0.0103,0,Miss March Madness,Missed March Madness,True
-Stanford,P12,2016,29,14,0.4828,-2.6,0,,,0.0091,0,Miss March Madness,Missed March Madness,True
-College of Charleston,CAA,2016,30,16,0.5333,-7.3,0,,,0.009,0,Miss March Madness,Missed March Madness,True
-Sam Houston St.,Slnd,2016,30,15,0.5,-8.9,0,,,0.0089,0,Miss March Madness,Missed March Madness,True
-McNeese St.,Slnd,2016,26,7,0.2692,-14.1,0,,,0.0088,0,Miss March Madness,Missed March Madness,True
-Western Illinois,Sum,2016,24,7,0.2917,-11.4,0,,,0.0087,0,Miss March Madness,Missed March Madness,True
-Brown,Ivy,2016,27,7,0.2593,-14.0,0,,,0.0085,0,Miss March Madness,Missed March Madness,True
-Delaware,CAA,2016,30,7,0.2333,-15.3,0,,,0.0082,0,Miss March Madness,Missed March Madness,True
-Northern Colorado,BSky,2016,29,8,0.2759,-16.0,0,,,0.0082,0,Miss March Madness,Missed March Madness,True
-Eastern Michigan,MAC,2016,29,14,0.4828,-7.8,0,,,0.0081,0,Miss March Madness,Missed March Madness,True
-Savannah St.,MEAC,2016,30,14,0.4667,-11.2,0,,,0.0076,0,Miss March Madness,Missed March Madness,True
-San Jose St.,MWC,2016,28,6,0.2143,-15.4,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
-La Salle,A10,2016,30,8,0.2667,-12.6,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
-UNLV,MWC,2016,31,16,0.5161,-6.3,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
-Grambling St.,SWAC,2016,28,4,0.1429,-19.7,0,,,0.0068,0,Miss March Madness,Missed March Madness,True
-San Diego,WCC,2016,29,8,0.2759,-13.5,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-Western Carolina,SC,2016,31,13,0.4194,-10.4,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-UCF,Amer,2016,30,12,0.4,-10.1,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-Mississippi St.,SEC,2016,31,14,0.4516,-6.2,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-Southeast Missouri St.,OVC,2016,27,3,0.1111,-19.2,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
-Lamar,Slnd,2016,26,7,0.2692,-15.9,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
-Bryant,NEC,2016,30,7,0.2333,-17.7,0,,,0.006,0,Miss March Madness,Missed March Madness,True
-SIU Edwardsville,OVC,2016,28,6,0.2143,-16.7,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
-IUPUI,Sum,2016,31,12,0.3871,-11.0,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
-Wake Forest,ACC,2016,31,11,0.3548,-6.2,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
-Wofford,SC,2016,30,13,0.4333,-10.4,0,,,0.0053,0,Miss March Madness,Missed March Madness,True
-Wisconsin,B10,2015,40,36,0.9,11.3,1,1.0,2ND,0.9976,1,Make March Madness,Made March Madness,True
+Kentucky,SEC,2019,37,30,0.8108,8.8,1,2.0,E8,0.9744,1,Make March Madness,Made March Madness,True
+LSU,SEC,2019,35,28,0.8,7.3,1,3.0,S16,0.9695,1,Make March Madness,Made March Madness,True
+Villanova,BE,2019,36,26,0.7222,3.6,1,6.0,R32,0.9648,1,Make March Madness,Made March Madness,True
+Gonzaga,WCC,2019,37,33,0.8919,7.0,1,1.0,E8,0.9582,1,Make March Madness,Made March Madness,True
+Florida St.,ACC,2019,37,29,0.7838,7.6,1,4.0,S16,0.9466,1,Make March Madness,Made March Madness,True
+Utah St.,MWC,2019,34,28,0.8235,2.0,1,8.0,R64,0.8225,1,Make March Madness,Made March Madness,True
+Syracuse,ACC,2019,34,20,0.5882,0.4,1,8.0,R64,0.701,1,Make March Madness,Made March Madness,True
+Gardner Webb,BSth,2019,32,23,0.7188,-5.0,1,16.0,R64,0.4422,0,Miss March Madness,Made March Madness,False
+Davidson,A10,2019,33,24,0.7273,-0.9,0,,,0.3896,0,Miss March Madness,Missed March Madness,True
+Nebraska,B10,2019,35,19,0.5429,0.0,0,,,0.3528,0,Miss March Madness,Missed March Madness,True
+Northern Kentucky,Horz,2019,33,26,0.7879,-2.2,1,14.0,R64,0.35,0,Miss March Madness,Made March Madness,False
+Prairie View A&M,SWAC,2019,34,22,0.6471,-7.1,1,16.0,R68,0.3054,0,Miss March Madness,Made March Madness,False
+Fairleigh Dickinson,NEC,2019,33,21,0.6364,-9.3,1,16.0,R64,0.2985,0,Miss March Madness,Made March Madness,False
+Nebraska Omaha,Sum,2019,31,21,0.6774,-4.6,0,,,0.2113,0,Miss March Madness,Missed March Madness,True
+Bowling Green,MAC,2019,32,22,0.6875,-4.3,0,,,0.1932,0,Miss March Madness,Missed March Madness,True
+Stony Brook,AE,2019,32,24,0.75,-3.8,0,,,0.1895,0,Miss March Madness,Missed March Madness,True
+Kent St.,MAC,2019,31,22,0.7097,-2.7,0,,,0.1262,0,Miss March Madness,Missed March Madness,True
+Marshall,CUSA,2019,37,23,0.6216,-6.4,0,,,0.1226,0,Miss March Madness,Missed March Madness,True
+Harvard,Ivy,2019,30,19,0.6333,-3.6,0,,,0.1187,0,Miss March Madness,Missed March Madness,True
+UT Rio Grande Valley,WAC,2019,35,20,0.5714,-8.2,0,,,0.1181,0,Miss March Madness,Missed March Madness,True
+BYU,WCC,2019,32,19,0.5938,-3.1,0,,,0.117,0,Miss March Madness,Missed March Madness,True
+Lehigh,Pat,2019,31,20,0.6452,-5.5,0,,,0.1167,0,Miss March Madness,Missed March Madness,True
+Colorado,P12,2019,36,23,0.6389,-3.6,0,,,0.1021,0,Miss March Madness,Missed March Madness,True
+Bradley,MVC,2019,34,20,0.5882,-7.9,1,15.0,R64,0.0949,0,Miss March Madness,Made March Madness,False
+Duquesne,A10,2019,32,19,0.5938,-6.7,0,,,0.0867,0,Miss March Madness,Missed March Madness,True
+Saint Joseph's,A10,2019,33,14,0.4242,-10.5,0,,,0.0832,0,Miss March Madness,Missed March Madness,True
+Loyola Chicago,MVC,2019,33,20,0.6061,-7.2,0,,,0.072,0,Miss March Madness,Missed March Madness,True
+Louisiana Lafayette,SB,2019,30,19,0.6333,-6.5,0,,,0.072,0,Miss March Madness,Missed March Madness,True
+North Texas,CUSA,2019,30,21,0.7,-7.1,0,,,0.0675,0,Miss March Madness,Missed March Madness,True
+Xavier,BE,2019,35,19,0.5429,-2.9,0,,,0.0534,0,Miss March Madness,Missed March Madness,True
+Hawaii,BW,2019,29,18,0.6207,-8.6,0,,,0.0438,0,Miss March Madness,Missed March Madness,True
+Tulsa,Amer,2019,32,18,0.5625,-3.5,0,,,0.0412,0,Miss March Madness,Missed March Madness,True
+Siena,MAAC,2019,33,17,0.5152,-11.9,0,,,0.0384,0,Miss March Madness,Missed March Madness,True
+Robert Morris,NEC,2019,33,18,0.5455,-11.5,0,,,0.0363,0,Miss March Madness,Missed March Madness,True
+Arizona,P12,2019,32,17,0.5312,-4.2,0,,,0.0265,0,Miss March Madness,Missed March Madness,True
+George Mason,A10,2019,33,18,0.5455,-6.8,0,,,0.0259,0,Miss March Madness,Missed March Madness,True
+Princeton,Ivy,2019,26,16,0.6154,-5.6,0,,,0.025,0,Miss March Madness,Missed March Madness,True
+Cal St. Bakersfield,WAC,2019,31,18,0.5806,-8.8,0,,,0.0246,0,Miss March Madness,Missed March Madness,True
+UNLV,MWC,2019,31,17,0.5484,-7.5,0,,,0.0237,0,Miss March Madness,Missed March Madness,True
+Southern Utah,BSky,2019,32,17,0.5312,-12.0,0,,,0.0235,0,Miss March Madness,Missed March Madness,True
+Quinnipiac,MAAC,2019,31,16,0.5161,-10.8,0,,,0.0169,0,Miss March Madness,Missed March Madness,True
+Portland St.,BSky,2019,29,16,0.5517,-12.0,0,,,0.0167,0,Miss March Madness,Missed March Madness,True
+UT Arlington,SB,2019,32,17,0.5312,-7.5,0,,,0.0164,0,Miss March Madness,Missed March Madness,True
+South Carolina,SEC,2019,31,16,0.5161,-2.1,0,,,0.0158,0,Miss March Madness,Missed March Madness,True
+Penn St.,B10,2019,32,14,0.4375,-2.7,0,,,0.0141,0,Miss March Madness,Missed March Madness,True
+Western Illinois,Sum,2019,29,10,0.3448,-16.0,0,,,0.0116,0,Miss March Madness,Missed March Madness,True
+Richmond,A10,2019,33,13,0.3939,-13.5,0,,,0.0115,0,Miss March Madness,Missed March Madness,True
+Dartmouth,Ivy,2019,28,11,0.3929,-12.9,0,,,0.0113,0,Miss March Madness,Missed March Madness,True
+Boise St.,MWC,2019,32,13,0.4062,-11.9,0,,,0.0105,0,Miss March Madness,Missed March Madness,True
+Marist,MAAC,2019,31,12,0.3871,-15.1,0,,,0.0104,0,Miss March Madness,Missed March Madness,True
+UMKC,WAC,2019,31,11,0.3548,-13.6,0,,,0.0096,0,Miss March Madness,Missed March Madness,True
+Drexel,CAA,2019,31,13,0.4194,-13.6,0,,,0.0095,0,Miss March Madness,Missed March Madness,True
+James Madison,CAA,2019,31,14,0.4516,-14.1,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
+Wyoming,MWC,2019,31,8,0.2581,-17.6,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
+Incarnate Word,Slnd,2019,27,6,0.2222,-20.2,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
+Central Connecticut,NEC,2019,29,11,0.3793,-15.3,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+Tennessee Tech,OVC,2019,29,8,0.2759,-16.4,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+North Dakota,BSky,2019,26,12,0.4615,-12.8,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
+Eastern Michigan,MAC,2019,28,15,0.5357,-8.1,0,,,0.0061,0,Miss March Madness,Missed March Madness,True
+La Salle,A10,2019,31,10,0.3226,-13.3,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+Ohio,MAC,2019,30,14,0.4667,-8.7,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
+SIU Edwardsville,OVC,2019,29,10,0.3448,-16.3,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
+Maine,AE,2019,31,5,0.1613,-20.9,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
+Western Michigan,MAC,2019,31,8,0.2581,-15.2,0,,,0.0054,0,Miss March Madness,Missed March Madness,True
+Tennessee Martin,OVC,2019,29,12,0.4138,-13.3,0,,,0.0051,0,Miss March Madness,Missed March Madness,True
+Valparaiso,MVC,2019,31,15,0.4839,-12.2,0,,,0.005,0,Miss March Madness,Missed March Madness,True
+Wake Forest,ACC,2019,31,11,0.3548,-7.5,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+Rutgers,B10,2019,31,14,0.4516,-3.5,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+Indiana St.,MVC,2019,29,15,0.5172,-9.5,0,,,0.0041,0,Miss March Madness,Missed March Madness,True
+Seton Hall,BE,2018,34,22,0.6471,2.5,1,8.0,R32,0.9872,1,Make March Madness,Made March Madness,True
+Houston,Amer,2018,35,27,0.7714,2.4,1,6.0,R32,0.9855,1,Make March Madness,Made March Madness,True
+Clemson,ACC,2018,35,25,0.7143,3.9,1,5.0,S16,0.9792,1,Make March Madness,Made March Madness,True
+Nevada,MWC,2018,37,29,0.7838,2.5,1,7.0,S16,0.979,1,Make March Madness,Made March Madness,True
+Ohio St.,B10,2018,34,25,0.7353,4.5,1,5.0,R32,0.972,1,Make March Madness,Made March Madness,True
+Marquette,BE,2018,35,21,0.6,1.0,0,,,0.7755,1,Make March Madness,Missed March Madness,False
+Arizona St.,P12,2018,32,20,0.625,-1.2,1,11.0,R68,0.4564,0,Miss March Madness,Made March Madness,False
+Louisiana Lafayette,SB,2018,32,27,0.8438,-0.5,0,,,0.419,0,Miss March Madness,Missed March Madness,True
+USC,P12,2018,36,24,0.6667,-0.4,0,,,0.4163,0,Miss March Madness,Missed March Madness,True
+UNC Greensboro,SC,2018,32,27,0.8438,-1.6,1,13.0,R64,0.3339,0,Miss March Madness,Made March Madness,False
+Maryland,B10,2018,31,19,0.6129,-0.6,0,,,0.2849,0,Miss March Madness,Missed March Madness,True
+Lipscomb,ASun,2018,30,23,0.7667,-3.2,1,15.0,R64,0.2637,0,Miss March Madness,Made March Madness,False
+Canisius,MAAC,2018,33,21,0.6364,-6.5,0,,,0.2316,0,Miss March Madness,Missed March Madness,True
+Wright St.,Horz,2018,33,25,0.7576,-3.5,1,14.0,R64,0.2155,0,Miss March Madness,Made March Madness,False
+Mount St. Mary's,NEC,2018,30,18,0.6,-10.1,0,,,0.2037,0,Miss March Madness,Missed March Madness,True
+Winthrop,BSth,2018,28,19,0.6786,-7.6,0,,,0.1981,0,Miss March Madness,Missed March Madness,True
+Hampton,MEAC,2018,32,19,0.5938,-11.1,0,,,0.1856,0,Miss March Madness,Missed March Madness,True
+Hofstra,CAA,2018,30,19,0.6333,-6.1,0,,,0.1525,0,Miss March Madness,Missed March Madness,True
+Davidson,A10,2018,33,21,0.6364,-2.9,1,12.0,R64,0.1449,0,Miss March Madness,Made March Madness,False
+Jacksonville St.,OVC,2018,35,23,0.6571,-6.7,0,,,0.1381,0,Miss March Madness,Missed March Madness,True
+Stanford,P12,2018,35,19,0.5429,-4.3,0,,,0.1361,0,Miss March Madness,Missed March Madness,True
+San Francisco,WCC,2018,38,22,0.5789,-7.1,0,,,0.1198,0,Miss March Madness,Missed March Madness,True
+Memphis,Amer,2018,34,21,0.6176,-4.4,0,,,0.1074,0,Miss March Madness,Missed March Madness,True
+Eastern Michigan,MAC,2018,31,22,0.7097,-6.6,0,,,0.0963,0,Miss March Madness,Missed March Madness,True
+Nicholls St.,Slnd,2018,28,21,0.75,-6.3,0,,,0.087,0,Miss March Madness,Missed March Madness,True
+Grand Canyon,WAC,2018,33,22,0.6667,-5.4,0,,,0.0619,0,Miss March Madness,Missed March Madness,True
+Bradley,MVC,2018,32,20,0.625,-5.6,0,,,0.0532,0,Miss March Madness,Missed March Madness,True
+Temple,Amer,2018,33,17,0.5152,-3.3,0,,,0.0335,0,Miss March Madness,Missed March Madness,True
+Fairfield,MAAC,2018,33,17,0.5152,-10.5,0,,,0.0324,0,Miss March Madness,Missed March Madness,True
+Harvard,Ivy,2018,31,18,0.5806,-6.8,0,,,0.0241,0,Miss March Madness,Missed March Madness,True
+Colorado,P12,2018,32,17,0.5312,-4.5,0,,,0.0227,0,Miss March Madness,Missed March Madness,True
+Louisiana Monroe,SB,2018,29,16,0.5517,-9.5,0,,,0.0177,0,Miss March Madness,Missed March Madness,True
+Marist,MAAC,2018,31,6,0.1935,-20.2,0,,,0.0105,0,Miss March Madness,Missed March Madness,True
+High Point,BSth,2018,27,14,0.5185,-12.4,0,,,0.01,0,Miss March Madness,Missed March Madness,True
+Richmond,A10,2018,32,12,0.375,-11.4,0,,,0.0099,0,Miss March Madness,Missed March Madness,True
+Idaho St.,BSky,2018,28,14,0.5,-11.3,0,,,0.0096,0,Miss March Madness,Missed March Madness,True
+Lafayette,Pat,2018,30,10,0.3333,-16.8,0,,,0.0093,0,Miss March Madness,Missed March Madness,True
+Southern,SWAC,2018,31,15,0.4839,-13.3,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
+Northern Iowa,MVC,2018,30,16,0.5333,-7.1,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
+Dartmouth,Ivy,2018,26,7,0.2692,-15.4,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
+Siena,MAAC,2018,32,8,0.25,-18.6,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
+UNC Wilmington,CAA,2018,30,11,0.3667,-14.9,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
+Denver,Sum,2018,28,15,0.5357,-9.6,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
+Howard,MEAC,2018,31,10,0.3226,-18.6,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
+McNeese St.,Slnd,2018,25,12,0.48,-12.6,0,,,0.0065,0,Miss March Madness,Missed March Madness,True
+Chattanooga,SC,2018,31,10,0.3226,-17.5,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
+Morgan St.,MEAC,2018,30,13,0.4333,-15.8,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
+Sacred Heart,NEC,2018,30,10,0.3333,-16.9,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
+Arkansas St.,SB,2018,30,11,0.3667,-15.2,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Eastern Illinois,OVC,2018,29,12,0.4138,-13.2,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+Appalachian St.,SB,2018,31,15,0.4839,-12.4,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+Green Bay,Horz,2018,30,13,0.4333,-14.4,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+Air Force,MWC,2018,29,12,0.4138,-11.8,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
+Sacramento St.,BSky,2018,30,7,0.2333,-18.6,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
+Northwestern St.,Slnd,2018,25,4,0.16,-18.1,0,,,0.0054,0,Miss March Madness,Missed March Madness,True
+Indiana St.,MVC,2018,29,13,0.4483,-10.3,0,,,0.0053,0,Miss March Madness,Missed March Madness,True
+Florida A&M,MEAC,2018,33,9,0.2727,-19.1,0,,,0.0052,0,Miss March Madness,Missed March Madness,True
+Fordham,A10,2018,31,9,0.2903,-14.9,0,,,0.0051,0,Miss March Madness,Missed March Madness,True
+Cleveland St.,Horz,2018,34,12,0.3529,-16.7,0,,,0.0051,0,Miss March Madness,Missed March Madness,True
+East Carolina,Amer,2018,30,10,0.3333,-13.5,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+DePaul,BE,2018,31,11,0.3548,-6.7,0,,,0.0043,0,Miss March Madness,Missed March Madness,True
+Akron,MAC,2018,31,14,0.4516,-12.1,0,,,0.0043,0,Miss March Madness,Missed March Madness,True
+Arizona,P12,2017,37,32,0.8649,7.9,1,2.0,S16,0.9927,1,Make March Madness,Made March Madness,True
+Villanova,BE,2017,36,32,0.8889,11.1,1,1.0,R32,0.99,1,Make March Madness,Made March Madness,True
+West Virginia,B12,2017,37,28,0.7568,6.4,1,4.0,S16,0.9888,1,Make March Madness,Made March Madness,True
+Wichita St.,MVC,2017,35,31,0.8857,4.1,1,10.0,R32,0.9843,1,Make March Madness,Made March Madness,True
+Cincinnati,Amer,2017,36,30,0.8333,5.6,1,6.0,R32,0.9825,1,Make March Madness,Made March Madness,True
+Arkansas,SEC,2017,36,26,0.7222,3.9,1,8.0,R32,0.9693,1,Make March Madness,Made March Madness,True
+Baylor,B12,2017,34,27,0.7941,7.9,1,3.0,S16,0.9615,1,Make March Madness,Made March Madness,True
+Miami FL,ACC,2017,33,21,0.6364,2.9,1,8.0,R64,0.9595,1,Make March Madness,Made March Madness,True
+UCLA,P12,2017,36,31,0.8611,6.6,1,3.0,S16,0.9115,1,Make March Madness,Made March Madness,True
+South Carolina,SEC,2017,36,26,0.7222,1.7,1,7.0,F4,0.8946,1,Make March Madness,Made March Madness,True
+UNC Wilmington,CAA,2017,33,29,0.8788,1.5,1,12.0,R64,0.8853,1,Make March Madness,Made March Madness,True
+Texas Southern,SWAC,2017,35,23,0.6571,-4.4,1,16.0,R64,0.7377,1,Make March Madness,Made March Madness,True
+North Carolina Central,MEAC,2017,31,25,0.8065,-5.1,1,16.0,R68,0.5183,1,Make March Madness,Made March Madness,True
+Gardner Webb,BSth,2017,30,19,0.6333,-8.2,0,,,0.3955,0,Miss March Madness,Missed March Madness,True
+UNC Asheville,BSth,2017,31,23,0.7419,-3.5,0,,,0.3885,0,Miss March Madness,Missed March Madness,True
+Florida Gulf Coast,ASun,2017,31,26,0.8387,-1.7,1,14.0,R64,0.3821,0,Miss March Madness,Made March Madness,False
+Saint Peter's,MAAC,2017,36,23,0.6389,-7.6,0,,,0.3189,0,Miss March Madness,Missed March Madness,True
+Syracuse,ACC,2017,34,19,0.5588,-1.1,0,,,0.3057,0,Miss March Madness,Missed March Madness,True
+Grand Canyon,WAC,2017,29,22,0.7586,-3.2,0,,,0.2685,0,Miss March Madness,Missed March Madness,True
+Bucknell,Pat,2017,35,26,0.7429,-2.1,1,13.0,R64,0.2562,0,Miss March Madness,Made March Madness,False
+Texas Tech,B12,2017,32,18,0.5625,-1.1,0,,,0.2445,0,Miss March Madness,Missed March Madness,True
+Louisiana Tech,CUSA,2017,31,23,0.7419,-4.8,0,,,0.2411,0,Miss March Madness,Missed March Madness,True
+Furman,SC,2017,33,23,0.697,-4.8,0,,,0.1795,0,Miss March Madness,Missed March Madness,True
+Valparaiso,Horz,2017,32,24,0.75,-2.0,0,,,0.1643,0,Miss March Madness,Missed March Madness,True
+New Orleans,Slnd,2017,29,20,0.6897,-6.3,1,16.0,R68,0.1439,0,Miss March Madness,Made March Madness,False
+Idaho,BSky,2017,31,19,0.6129,-9.3,0,,,0.107,0,Miss March Madness,Missed March Madness,True
+Kent St.,MAC,2017,35,22,0.6286,-7.2,1,14.0,R64,0.0837,0,Miss March Madness,Made March Madness,False
+William & Mary,CAA,2017,29,17,0.5862,-6.8,0,,,0.0789,0,Miss March Madness,Missed March Madness,True
+Chattanooga,SC,2017,29,19,0.6552,-5.5,0,,,0.0757,0,Miss March Madness,Missed March Madness,True
+Louisiana Lafayette,SB,2017,31,21,0.6774,-6.4,0,,,0.0721,0,Miss March Madness,Missed March Madness,True
+UCF,Amer,2017,36,24,0.6667,-1.8,0,,,0.0503,0,Miss March Madness,Missed March Madness,True
+Elon,CAA,2017,30,18,0.6,-7.8,0,,,0.0354,0,Miss March Madness,Missed March Madness,True
+Santa Clara,WCC,2017,32,17,0.5312,-6.9,0,,,0.0338,0,Miss March Madness,Missed March Madness,True
+Buffalo,MAC,2017,30,17,0.5667,-8.3,0,,,0.0312,0,Miss March Madness,Missed March Madness,True
+Alcorn St.,SWAC,2017,29,18,0.6207,-9.7,0,,,0.0311,0,Miss March Madness,Missed March Madness,True
+Boston University,Pat,2017,31,18,0.5806,-8.9,0,,,0.0279,0,Miss March Madness,Missed March Madness,True
+Murray St.,OVC,2017,31,16,0.5161,-12.0,0,,,0.0228,0,Miss March Madness,Missed March Madness,True
+Green Bay,Horz,2017,30,18,0.6,-7.7,0,,,0.0208,0,Miss March Madness,Missed March Madness,True
+Pittsburgh,ACC,2017,33,16,0.4848,-2.0,0,,,0.0161,0,Miss March Madness,Missed March Madness,True
+Saint Joseph's,A10,2017,31,11,0.3548,-10.9,0,,,0.0124,0,Miss March Madness,Missed March Madness,True
+Missouri,SEC,2017,32,8,0.25,-12.5,0,,,0.0116,0,Miss March Madness,Missed March Madness,True
+Bowling Green,MAC,2017,31,13,0.4194,-12.9,0,,,0.0113,0,Miss March Madness,Missed March Madness,True
+Cal St. Northridge,BW,2017,28,11,0.3929,-13.1,0,,,0.0102,0,Miss March Madness,Missed March Madness,True
+Central Arkansas,Slnd,2017,32,8,0.25,-17.4,0,,,0.0094,0,Miss March Madness,Missed March Madness,True
+Tulsa,Amer,2017,32,15,0.4688,-6.2,0,,,0.0089,0,Miss March Madness,Missed March Madness,True
+Utah St.,MWC,2017,30,15,0.5,-9.2,0,,,0.0088,0,Miss March Madness,Missed March Madness,True
+St. John's,BE,2017,33,14,0.4242,-5.1,0,,,0.0088,0,Miss March Madness,Missed March Madness,True
+High Point,BSth,2017,28,15,0.5357,-11.4,0,,,0.0085,0,Miss March Madness,Missed March Madness,True
+Northern Iowa,MVC,2017,29,14,0.4828,-6.8,0,,,0.0083,0,Miss March Madness,Missed March Madness,True
+Colgate,Pat,2017,31,10,0.3226,-16.3,0,,,0.0082,0,Miss March Madness,Missed March Madness,True
+Bethune Cookman,MEAC,2017,30,10,0.3333,-18.7,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
+Mercer,SC,2017,30,15,0.5,-9.9,0,,,0.0076,0,Miss March Madness,Missed March Madness,True
+American,Pat,2017,30,8,0.2667,-16.4,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
+Coppin St.,MEAC,2017,30,8,0.2667,-17.8,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
+Drexel,CAA,2017,31,9,0.2903,-17.3,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
+Jackson St.,SWAC,2017,29,14,0.4828,-13.6,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+South Alabama,SB,2017,30,14,0.4667,-12.9,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
+Stanford,P12,2017,30,14,0.4667,-5.2,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
+Milwaukee,Horz,2017,34,11,0.3235,-17.8,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
+Northern Arizona,BSky,2017,31,9,0.2903,-19.1,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
+Indiana St.,MVC,2017,30,11,0.3667,-11.8,0,,,0.0061,0,Miss March Madness,Missed March Madness,True
+Oregon St.,P12,2017,31,5,0.1613,-16.7,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Delaware,CAA,2017,31,13,0.4194,-13.7,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Penn,Ivy,2017,28,13,0.4643,-8.9,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Idaho St.,BSky,2017,30,6,0.2,-20.1,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+Alabama St.,SWAC,2017,30,8,0.2667,-19.2,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+Lafayette,Pat,2017,29,9,0.3103,-15.9,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+Radford,BSth,2017,30,14,0.4667,-11.8,0,,,0.0054,0,Miss March Madness,Missed March Madness,True
+Binghamton,AE,2017,29,12,0.4138,-15.3,0,,,0.0054,0,Miss March Madness,Missed March Madness,True
+FIU,CUSA,2017,29,7,0.2414,-18.9,0,,,0.0051,0,Miss March Madness,Missed March Madness,True
+South Florida,Amer,2017,30,7,0.2333,-14.7,0,,,0.005,0,Miss March Madness,Missed March Madness,True
+West Virginia,B12,2016,35,26,0.7429,7.4,1,3.0,R64,0.9871,1,Make March Madness,Made March Madness,True
+Purdue,B10,2016,35,26,0.7429,4.4,1,5.0,R64,0.9866,1,Make March Madness,Made March Madness,True
+Gonzaga,WCC,2016,35,27,0.7714,2.1,1,11.0,S16,0.9863,1,Make March Madness,Made March Madness,True
+Oregon,P12,2016,37,30,0.8108,6.7,1,1.0,E8,0.9852,1,Make March Madness,Made March Madness,True
+Virginia,ACC,2016,37,29,0.7838,8.6,1,1.0,E8,0.9847,1,Make March Madness,Made March Madness,True
+SMU,Amer,2016,30,25,0.8333,3.6,0,,,0.9766,1,Make March Madness,Missed March Madness,False
+Saint Joseph's,A10,2016,36,28,0.7778,3.4,1,8.0,R32,0.9623,1,Make March Madness,Made March Madness,True
+Louisville,ACC,2016,31,23,0.7419,4.3,0,,,0.9545,1,Make March Madness,Missed March Madness,False
+Notre Dame,ACC,2016,36,24,0.6667,2.3,1,6.0,E8,0.9388,1,Make March Madness,Made March Madness,True
+Wisconsin,B10,2016,35,22,0.6286,0.4,1,7.0,S16,0.8589,1,Make March Madness,Made March Madness,True
+Florida,SEC,2016,36,21,0.5833,0.1,0,,,0.6461,1,Make March Madness,Missed March Madness,False
+Princeton,Ivy,2016,28,21,0.75,-0.1,0,,,0.6451,1,Make March Madness,Missed March Madness,False
+VCU,A10,2016,36,25,0.6944,-0.1,1,10.0,R32,0.6323,1,Make March Madness,Made March Madness,True
+South Dakota St.,Sum,2016,32,24,0.75,-1.2,1,12.0,R64,0.472,0,Miss March Madness,Made March Madness,False
+Columbia,Ivy,2016,33,23,0.697,-4.3,0,,,0.3338,0,Miss March Madness,Missed March Madness,True
+Texas A&M Corpus Chris,Slnd,2016,31,23,0.7419,-1.9,0,,,0.3281,0,Miss March Madness,Missed March Madness,True
+Georgia Tech,ACC,2016,36,21,0.5833,0.0,0,,,0.2837,0,Miss March Madness,Missed March Madness,True
+Creighton,BE,2016,35,20,0.5714,-1.8,0,,,0.249,0,Miss March Madness,Missed March Madness,True
+Middle Tennessee,CUSA,2016,33,23,0.697,-3.2,1,15.0,R32,0.2223,0,Miss March Madness,Made March Madness,False
+Northern Iowa,MVC,2016,35,22,0.6286,-2.1,1,11.0,R32,0.2054,0,Miss March Madness,Made March Madness,False
+Louisiana Tech,CUSA,2016,31,21,0.6774,-4.3,0,,,0.1954,0,Miss March Madness,Missed March Madness,True
+Northwestern,B10,2016,32,20,0.625,-2.0,0,,,0.1689,0,Miss March Madness,Missed March Madness,True
+East Tennessee St.,SC,2016,34,22,0.6471,-5.1,0,,,0.1151,0,Miss March Madness,Missed March Madness,True
+Cal St. Bakersfield,WAC,2016,30,21,0.7,-3.5,1,15.0,R64,0.0705,0,Miss March Madness,Made March Madness,False
+Tennessee St.,OVC,2016,29,18,0.6207,-6.0,0,,,0.0392,0,Miss March Madness,Missed March Madness,True
+New Mexico,MWC,2016,32,17,0.5312,-6.8,0,,,0.0379,0,Miss March Madness,Missed March Madness,True
+Eastern Washington,BSky,2016,32,16,0.5,-10.7,0,,,0.0363,0,Miss March Madness,Missed March Madness,True
+New Hampshire,AE,2016,31,18,0.5806,-7.6,0,,,0.0348,0,Miss March Madness,Missed March Madness,True
+Rhode Island,A10,2016,32,17,0.5312,-5.9,0,,,0.0326,0,Miss March Madness,Missed March Madness,True
+Tennessee Martin,OVC,2016,33,18,0.5455,-9.0,0,,,0.0273,0,Miss March Madness,Missed March Madness,True
+Bucknell,Pat,2016,30,16,0.5333,-9.1,0,,,0.0267,0,Miss March Madness,Missed March Madness,True
+Alabama St.,SWAC,2016,29,12,0.4138,-13.1,0,,,0.0263,0,Miss March Madness,Missed March Madness,True
+Northeastern,CAA,2016,32,17,0.5312,-7.0,0,,,0.0252,0,Miss March Madness,Missed March Madness,True
+Furman,SC,2016,33,17,0.5152,-10.1,0,,,0.0248,0,Miss March Madness,Missed March Madness,True
+Colorado St.,MWC,2016,32,16,0.5,-8.5,0,,,0.0247,0,Miss March Madness,Missed March Madness,True
+Denver,Sum,2016,31,16,0.5161,-10.2,0,,,0.0218,0,Miss March Madness,Missed March Madness,True
+Marshall,CUSA,2016,33,17,0.5152,-8.7,0,,,0.0187,0,Miss March Madness,Missed March Madness,True
+Nebraska,B10,2016,34,16,0.4706,-5.5,0,,,0.0144,0,Miss March Madness,Missed March Madness,True
+Samford,SC,2016,31,11,0.3548,-14.8,0,,,0.0122,0,Miss March Madness,Missed March Madness,True
+Stanford,P12,2016,29,14,0.4828,-2.6,0,,,0.0116,0,Miss March Madness,Missed March Madness,True
+Charlotte,CUSA,2016,33,14,0.4242,-12.7,0,,,0.0113,0,Miss March Madness,Missed March Madness,True
+Fordham,A10,2016,30,16,0.5333,-6.0,0,,,0.0113,0,Miss March Madness,Missed March Madness,True
+Cal Poly,BW,2016,28,8,0.2857,-12.0,0,,,0.011,0,Miss March Madness,Missed March Madness,True
+Mount St. Mary's,NEC,2016,33,14,0.4242,-13.9,0,,,0.0109,0,Miss March Madness,Missed March Madness,True
+Georgia Southern,SB,2016,29,12,0.4138,-11.4,0,,,0.0108,0,Miss March Madness,Missed March Madness,True
+UNC Greensboro,SC,2016,31,12,0.3871,-12.7,0,,,0.0099,0,Miss March Madness,Missed March Madness,True
+Manhattan,MAAC,2016,31,13,0.4194,-12.6,0,,,0.0084,0,Miss March Madness,Missed March Madness,True
+FIU,CUSA,2016,30,11,0.3667,-14.6,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
+Missouri,SEC,2016,31,10,0.3226,-9.5,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
+The Citadel,SC,2016,29,7,0.2414,-17.8,0,,,0.0076,0,Miss March Madness,Missed March Madness,True
+North Carolina Central,MEAC,2016,29,10,0.3448,-15.6,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
+Robert Morris,NEC,2016,32,10,0.3125,-17.3,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
+Grambling St.,SWAC,2016,28,4,0.1429,-19.7,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
+Loyola MD,Pat,2016,30,9,0.3,-16.2,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
+Indiana St.,MVC,2016,31,14,0.4516,-8.9,0,,,0.007,0,Miss March Madness,Missed March Madness,True
+Rider,MAAC,2016,33,13,0.3939,-14.1,0,,,0.007,0,Miss March Madness,Missed March Madness,True
+North Texas,CUSA,2016,30,10,0.3333,-14.7,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
+American,Pat,2016,31,12,0.3871,-14.1,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
+Western Michigan,MAC,2016,30,11,0.3667,-12.2,0,,,0.0065,0,Miss March Madness,Missed March Madness,True
+Niagara,MAAC,2016,32,7,0.2188,-19.4,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
+DePaul,BE,2016,31,9,0.2903,-9.3,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+George Mason,A10,2016,32,11,0.3438,-11.6,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+Longwood,BSth,2016,30,7,0.2333,-18.6,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+Dartmouth,Ivy,2016,27,9,0.3333,-12.4,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+Gardner Webb,BSth,2016,30,14,0.4667,-10.3,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+Cleveland St.,Horz,2016,30,7,0.2333,-15.9,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+SIU Edwardsville,OVC,2016,28,6,0.2143,-16.7,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+Radford,BSth,2016,29,14,0.4828,-10.0,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
+UCF,Amer,2016,30,12,0.4,-10.1,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
+Chicago St.,WAC,2016,29,1,0.0345,-21.2,0,,,0.005,0,Miss March Madness,Missed March Madness,True
+Mississippi St.,SEC,2016,31,14,0.4516,-6.2,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+Loyola Chicago,MVC,2016,31,14,0.4516,-9.3,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+Maine,AE,2016,30,8,0.2667,-17.4,0,,,0.0043,0,Miss March Madness,Missed March Madness,True
 Villanova,BE,2015,36,33,0.9167,11.3,1,1.0,R32,0.9918,1,Make March Madness,Made March Madness,True
-Kentucky,SEC,2015,39,38,0.9744,13.1,1,1.0,F4,0.9901,1,Make March Madness,Made March Madness,True
-Iowa St.,B12,2015,34,25,0.7353,7.0,1,3.0,R64,0.985,1,Make March Madness,Made March Madness,True
-Providence,BE,2015,34,22,0.6471,3.7,1,6.0,R64,0.9532,1,Make March Madness,Made March Madness,True
-Texas,B12,2015,34,20,0.5882,0.9,1,11.0,R64,0.8638,1,Make March Madness,Made March Madness,True
-Loyola Chicago,MVC,2015,35,22,0.6286,-4.7,0,,,0.4219,0,Miss March Madness,Missed March Madness,True
-Louisiana Tech,CUSA,2015,35,26,0.7429,-1.7,0,,,0.3611,0,Miss March Madness,Missed March Madness,True
-Eastern Washington,BSky,2015,32,23,0.7188,-2.6,1,13.0,R64,0.3488,0,Miss March Madness,Made March Madness,False
-Richmond,A10,2015,35,21,0.6,-3.5,0,,,0.2905,0,Miss March Madness,Missed March Madness,True
-Vanderbilt,SEC,2015,34,20,0.5882,-2.5,0,,,0.27,0,Miss March Madness,Missed March Madness,True
-New Mexico St.,WAC,2015,32,21,0.6562,-4.5,1,15.0,R64,0.2404,0,Miss March Madness,Made March Madness,False
-Connecticut,Amer,2015,35,20,0.5714,-3.3,0,,,0.1698,0,Miss March Madness,Missed March Madness,True
-Middle Tennessee,CUSA,2015,35,18,0.5143,-8.8,0,,,0.1467,0,Miss March Madness,Missed March Madness,True
-Manhattan,MAAC,2015,33,19,0.5758,-7.6,1,16.0,R68,0.1244,0,Miss March Madness,Made March Madness,False
-Lafayette,Pat,2015,32,19,0.5938,-7.1,1,16.0,R64,0.1008,0,Miss March Madness,Made March Madness,False
-Hampton,MEAC,2015,35,17,0.4857,-12.6,1,16.0,R64,0.0957,0,Miss March Madness,Made March Madness,False
-Radford,BSth,2015,31,19,0.6129,-6.3,0,,,0.0855,0,Miss March Madness,Missed March Madness,True
-Monmouth,MAAC,2015,33,18,0.5455,-9.0,0,,,0.0363,0,Miss March Madness,Missed March Madness,True
-Montana,BSky,2015,31,18,0.5806,-7.1,0,,,0.0351,0,Miss March Madness,Missed March Madness,True
-Florida,SEC,2015,33,16,0.4848,-2.9,0,,,0.0293,0,Miss March Madness,Missed March Madness,True
-Seattle,WAC,2015,32,16,0.5,-11.5,0,,,0.0258,0,Miss March Madness,Missed March Madness,True
-NJIT,Ind,2015,29,17,0.5862,-6.2,0,,,0.0236,0,Miss March Madness,Missed March Madness,True
-Western Michigan,MAC,2015,32,18,0.5625,-6.0,0,,,0.0225,0,Miss March Madness,Missed March Madness,True
-Colgate,Pat,2015,32,15,0.4688,-11.4,0,,,0.021,0,Miss March Madness,Missed March Madness,True
-Colorado,P12,2015,34,16,0.4706,-5.6,0,,,0.0187,0,Miss March Madness,Missed March Madness,True
-Virginia Tech,ACC,2015,33,11,0.3333,-8.9,0,,,0.0167,0,Miss March Madness,Missed March Madness,True
-Northwestern St.,Slnd,2015,28,15,0.5357,-6.4,0,,,0.0163,0,Miss March Madness,Missed March Madness,True
-South Carolina,SEC,2015,32,16,0.5,-3.6,0,,,0.0159,0,Miss March Madness,Missed March Madness,True
-Towson,CAA,2015,31,11,0.3548,-14.5,0,,,0.0147,0,Miss March Madness,Missed March Madness,True
-Drexel,CAA,2015,29,11,0.3793,-12.5,0,,,0.0136,0,Miss March Madness,Missed March Madness,True
-Creighton,BE,2015,33,14,0.4242,-5.8,0,,,0.0135,0,Miss March Madness,Missed March Madness,True
-Rice,CUSA,2015,29,10,0.3448,-13.2,0,,,0.013,0,Miss March Madness,Missed March Madness,True
-Washington,P12,2015,31,16,0.5161,-4.6,0,,,0.0125,0,Miss March Madness,Missed March Madness,True
-Weber St.,BSky,2015,28,11,0.3929,-11.9,0,,,0.0124,0,Miss March Madness,Missed March Madness,True
-Columbia,Ivy,2015,27,12,0.4444,-9.8,0,,,0.0119,0,Miss March Madness,Missed March Madness,True
-Illinois Chicago,Horz,2015,32,8,0.25,-16.8,0,,,0.0115,0,Miss March Madness,Missed March Madness,True
-Bradley,MVC,2015,32,8,0.25,-15.2,0,,,0.0108,0,Miss March Madness,Missed March Madness,True
-Campbell,BSth,2015,29,7,0.2414,-17.5,0,,,0.0105,0,Miss March Madness,Missed March Madness,True
-Jacksonville,ASun,2015,29,7,0.2414,-17.6,0,,,0.0098,0,Miss March Madness,Missed March Madness,True
-Morehead St.,OVC,2015,32,15,0.4688,-10.6,0,,,0.0093,0,Miss March Madness,Missed March Madness,True
-Saint Joseph's,A10,2015,31,13,0.4194,-9.6,0,,,0.0086,0,Miss March Madness,Missed March Madness,True
-San Francisco,WCC,2015,31,13,0.4194,-9.2,0,,,0.0085,0,Miss March Madness,Missed March Madness,True
-New Orleans,Slnd,2015,26,8,0.3077,-13.3,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
-Alabama A&M,SWAC,2015,28,8,0.2857,-15.9,0,,,0.0077,0,Miss March Madness,Missed March Madness,True
-FIU,CUSA,2015,31,14,0.4516,-11.5,0,,,0.0076,0,Miss March Madness,Missed March Madness,True
-Fairleigh Dickinson,NEC,2015,28,7,0.25,-16.4,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
-Wright St.,Horz,2015,29,9,0.3103,-13.7,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
-Florida A&M,MEAC,2015,29,2,0.069,-23.2,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
-Cal St. Northridge,BW,2015,31,7,0.2258,-15.8,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
-Nebraska,B10,2015,31,13,0.4194,-5.3,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
-IUPUI,Sum,2015,31,10,0.3226,-14.5,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
-South Florida,Amer,2015,31,8,0.2581,-14.5,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
-Fordham,A10,2015,30,9,0.3,-12.3,0,,,0.007,0,Miss March Madness,Missed March Madness,True
-East Carolina,Amer,2015,31,12,0.3871,-10.8,0,,,0.007,0,Miss March Madness,Missed March Madness,True
-Lamar,Slnd,2015,26,11,0.4231,-9.9,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
-Niagara,MAAC,2015,30,8,0.2667,-15.9,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-San Jose St.,MWC,2015,28,0,0.0,-21.4,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
-Austin Peay,OVC,2015,28,6,0.2143,-16.7,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
-Miami OH,MAC,2015,31,12,0.3871,-12.2,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
-Nebraska Omaha,Sum,2015,28,11,0.3929,-12.8,0,,,0.0046,0,Miss March Madness,Missed March Madness,True
-Idaho,BSky,2015,28,11,0.3929,-13.0,0,,,0.004,0,Miss March Madness,Missed March Madness,True
-Virginia,ACC,2014,37,30,0.8108,8.2,1,1.0,S16,0.99,1,Make March Madness,Made March Madness,True
-Michigan St.,B10,2014,38,29,0.7632,6.9,1,4.0,E8,0.9884,1,Make March Madness,Made March Madness,True
-Pittsburgh,ACC,2014,36,26,0.7222,4.1,1,9.0,R32,0.986,1,Make March Madness,Made March Madness,True
-Syracuse,ACC,2014,34,28,0.8235,7.9,1,3.0,R32,0.982,1,Make March Madness,Made March Madness,True
-Saint Joseph's,A10,2014,34,24,0.7059,2.1,1,10.0,R64,0.9648,1,Make March Madness,Made March Madness,True
-Harvard,Ivy,2014,31,26,0.8387,2.2,1,12.0,R32,0.947,1,Make March Madness,Made March Madness,True
-SMU,Amer,2014,37,27,0.7297,1.4,0,,,0.9401,1,Make March Madness,Missed March Madness,False
-Creighton,BE,2014,35,27,0.7714,5.6,1,3.0,R32,0.9101,1,Make March Madness,Made March Madness,True
-Massachusetts,A10,2014,33,24,0.7273,3.6,1,6.0,R64,0.9057,1,Make March Madness,Made March Madness,True
-BYU,WCC,2014,34,22,0.6471,0.6,1,10.0,R64,0.8658,1,Make March Madness,Made March Madness,True
-Southern Miss,CUSA,2014,34,27,0.7941,1.3,0,,,0.7945,1,Make March Madness,Missed March Madness,False
-North Carolina Central,MEAC,2014,32,26,0.8125,-0.6,1,14.0,R64,0.5824,1,Make March Madness,Made March Madness,True
-Georgia St.,SB,2014,32,23,0.7188,-2.2,0,,,0.5629,1,Make March Madness,Missed March Madness,False
-Mercer,ASun,2014,33,24,0.7273,-2.8,1,14.0,R32,0.5507,1,Make March Madness,Made March Madness,True
-Western Michigan,MAC,2014,32,22,0.6875,-2.9,1,14.0,R64,0.4636,0,Miss March Madness,Made March Madness,False
-Manhattan,MAAC,2014,33,25,0.7576,-0.5,1,13.0,R64,0.4584,0,Miss March Madness,Made March Madness,False
-Sam Houston St.,Slnd,2014,33,22,0.6667,-5.3,0,,,0.4191,0,Miss March Madness,Missed March Madness,True
-Iona,MAAC,2014,33,22,0.6667,-2.5,0,,,0.3272,0,Miss March Madness,Missed March Madness,True
-Saint Mary's,WCC,2014,34,22,0.6471,-1.8,0,,,0.32,0,Miss March Madness,Missed March Madness,True
-UC Santa Barbara,BW,2014,28,19,0.6786,-2.8,0,,,0.2888,0,Miss March Madness,Missed March Madness,True
-California,P12,2014,35,21,0.6,-0.6,0,,,0.2777,0,Miss March Madness,Missed March Madness,True
-Towson,CAA,2014,35,24,0.6857,-3.4,0,,,0.2716,0,Miss March Madness,Missed March Madness,True
-Murray St.,OVC,2014,32,21,0.6562,-5.9,0,,,0.2348,0,Miss March Madness,Missed March Madness,True
-American,Pat,2014,33,20,0.6061,-5.5,1,15.0,R64,0.2232,0,Miss March Madness,Made March Madness,False
-Old Dominion,CUSA,2014,36,18,0.5,-9.1,0,,,0.1626,0,Miss March Madness,Missed March Madness,True
-William & Mary,CAA,2014,30,19,0.6333,-5.3,0,,,0.1228,0,Miss March Madness,Missed March Madness,True
-Davidson,SC,2014,32,19,0.5938,-5.3,0,,,0.1104,0,Miss March Madness,Missed March Madness,True
-Siena,MAAC,2014,38,20,0.5263,-9.7,0,,,0.1079,0,Miss March Madness,Missed March Madness,True
-Cleveland St.,Horz,2014,31,19,0.6129,-4.2,0,,,0.0827,0,Miss March Madness,Missed March Madness,True
-UTEP,CUSA,2014,32,21,0.6562,-2.7,0,,,0.0735,0,Miss March Madness,Missed March Madness,True
-UC Irvine,BW,2014,33,21,0.6364,-4.3,0,,,0.0719,0,Miss March Madness,Missed March Madness,True
-Northern Colorado,BSky,2014,30,16,0.5333,-8.8,0,,,0.0699,0,Miss March Madness,Missed March Madness,True
-Drexel,CAA,2014,30,16,0.5333,-6.4,0,,,0.0524,0,Miss March Madness,Missed March Madness,True
-Eastern Michigan,MAC,2014,34,19,0.5588,-6.1,0,,,0.0444,0,Miss March Madness,Missed March Madness,True
-Tulane,CUSA,2014,33,16,0.4848,-9.7,0,,,0.0385,0,Miss March Madness,Missed March Madness,True
-Idaho,WAC,2014,33,15,0.4545,-12.6,0,,,0.0365,0,Miss March Madness,Missed March Madness,True
-Western Carolina,SC,2014,31,16,0.5161,-9.9,0,,,0.0361,0,Miss March Madness,Missed March Madness,True
-Marquette,BE,2014,32,17,0.5312,-2.1,0,,,0.0318,0,Miss March Madness,Missed March Madness,True
-Winthrop,BSth,2014,30,17,0.5667,-8.2,0,,,0.0304,0,Miss March Madness,Missed March Madness,True
-San Diego,WCC,2014,33,16,0.4848,-7.5,0,,,0.0289,0,Miss March Madness,Missed March Madness,True
-Wyoming,MWC,2014,31,16,0.5161,-5.7,0,,,0.0285,0,Miss March Madness,Missed March Madness,True
-Elon,SC,2014,29,16,0.5517,-7.7,0,,,0.0267,0,Miss March Madness,Missed March Madness,True
-Prairie View A&M,SWAC,2014,33,10,0.303,-17.2,0,,,0.023,0,Miss March Madness,Missed March Madness,True
-Indiana,B10,2014,32,17,0.5312,-2.1,0,,,0.0186,0,Miss March Madness,Missed March Madness,True
-Charlotte,CUSA,2014,31,17,0.5484,-6.9,0,,,0.0177,0,Miss March Madness,Missed March Madness,True
-Morehead St.,OVC,2014,32,18,0.5625,-6.5,0,,,0.0169,0,Miss March Madness,Missed March Madness,True
-Alcorn St.,SWAC,2014,28,9,0.3214,-14.9,0,,,0.0162,0,Miss March Madness,Missed March Madness,True
-Northwestern,B10,2014,33,14,0.4242,-4.2,0,,,0.0151,0,Miss March Madness,Missed March Madness,True
-Santa Clara,WCC,2014,31,12,0.3871,-10.0,0,,,0.015,0,Miss March Madness,Missed March Madness,True
-Eastern Washington,BSky,2014,29,13,0.4483,-10.7,0,,,0.0146,0,Miss March Madness,Missed March Madness,True
-Oral Roberts,Slnd,2014,31,15,0.4839,-8.9,0,,,0.0144,0,Miss March Madness,Missed March Madness,True
-UTSA,CUSA,2014,27,6,0.2222,-14.9,0,,,0.0141,0,Miss March Madness,Missed March Madness,True
-Grand Canyon,WAC,2014,27,12,0.4444,-8.7,0,,,0.0125,0,Miss March Madness,Missed March Madness,True
-Charleston Southern,BSth,2014,27,9,0.3333,-12.7,0,,,0.0121,0,Miss March Madness,Missed March Madness,True
-Rider,MAAC,2014,31,14,0.4516,-10.5,0,,,0.0119,0,Miss March Madness,Missed March Madness,True
-Northern Kentucky,ASun,2014,30,9,0.3,-16.1,0,,,0.0119,0,Miss March Madness,Missed March Madness,True
-South Florida,Amer,2014,32,12,0.375,-9.6,0,,,0.0115,0,Miss March Madness,Missed March Madness,True
-Fairleigh Dickinson,NEC,2014,29,9,0.3103,-14.0,0,,,0.0114,0,Miss March Madness,Missed March Madness,True
-Southeast Missouri St.,OVC,2014,30,16,0.5333,-9.5,0,,,0.0109,0,Miss March Madness,Missed March Madness,True
-Dartmouth,Ivy,2014,26,10,0.3846,-10.4,0,,,0.0108,0,Miss March Madness,Missed March Madness,True
-UT Rio Grande Valley,WAC,2014,31,8,0.2581,-18.1,0,,,0.0104,0,Miss March Madness,Missed March Madness,True
-Butler,BE,2014,30,13,0.4333,-5.6,0,,,0.0099,0,Miss March Madness,Missed March Madness,True
-Auburn,SEC,2014,30,14,0.4667,-5.4,0,,,0.0098,0,Miss March Madness,Missed March Madness,True
-Monmouth,MAAC,2014,32,11,0.3438,-14.7,0,,,0.0091,0,Miss March Madness,Missed March Madness,True
-East Carolina,CUSA,2014,30,13,0.4333,-9.9,0,,,0.0088,0,Miss March Madness,Missed March Madness,True
-Valparaiso,Horz,2014,31,15,0.4839,-8.6,0,,,0.0084,0,Miss March Madness,Missed March Madness,True
-South Alabama,SB,2014,28,8,0.2857,-13.3,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
-San Jose St.,MWC,2014,29,5,0.1724,-15.3,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
+Michigan St.,B10,2015,39,27,0.6923,3.0,1,7.0,F4,0.9896,1,Make March Madness,Made March Madness,True
+Notre Dame,ACC,2015,38,32,0.8421,8.6,1,3.0,E8,0.9882,1,Make March Madness,Made March Madness,True
+Virginia,ACC,2015,34,30,0.8824,10.0,1,2.0,R32,0.9826,1,Make March Madness,Made March Madness,True
+Maryland,B10,2015,35,28,0.8,6.9,1,4.0,R32,0.9799,1,Make March Madness,Made March Madness,True
+Kansas,B12,2015,36,27,0.75,9.0,1,2.0,R32,0.9757,1,Make March Madness,Made March Madness,True
+Louisville,ACC,2015,36,27,0.75,5.8,1,4.0,E8,0.9733,1,Make March Madness,Made March Madness,True
+Miami FL,ACC,2015,38,25,0.6579,0.7,0,,,0.935,1,Make March Madness,Missed March Madness,False
+Stephen F. Austin,Slnd,2015,31,26,0.8387,1.2,1,12.0,R64,0.9016,1,Make March Madness,Made March Madness,True
+Tulsa,Amer,2015,33,23,0.697,-0.4,0,,,0.5506,1,Make March Madness,Missed March Madness,False
+Stanford,P12,2015,37,24,0.6486,-1.1,0,,,0.4934,0,Miss March Madness,Missed March Madness,True
+Texas Southern,SWAC,2015,35,22,0.6286,-4.5,1,15.0,R64,0.3476,0,Miss March Madness,Made March Madness,False
+Coastal Carolina,BSth,2015,30,20,0.6667,-5.1,1,16.0,R64,0.3397,0,Miss March Madness,Made March Madness,False
+Georgia St.,SB,2015,34,24,0.7059,-3.0,1,14.0,R32,0.2939,0,Miss March Madness,Made March Madness,False
+Saint Mary's,WCC,2015,30,20,0.6667,-0.8,0,,,0.2867,0,Miss March Madness,Missed March Madness,True
+North Dakota St.,Sum,2015,31,21,0.6774,-3.9,1,15.0,R64,0.282,0,Miss March Madness,Made March Madness,False
+High Point,BSth,2015,30,20,0.6667,-3.9,0,,,0.2257,0,Miss March Madness,Missed March Madness,True
+Wyoming,MWC,2015,33,23,0.697,-1.6,1,12.0,R64,0.2024,0,Miss March Madness,Made March Madness,False
+North Florida,ASun,2015,32,20,0.625,-5.1,1,16.0,R68,0.1565,0,Miss March Madness,Made March Madness,False
+Sam Houston St.,Slnd,2015,31,22,0.7097,-3.4,0,,,0.1377,0,Miss March Madness,Missed March Madness,True
+Eastern Kentucky,OVC,2015,31,19,0.6129,-5.5,0,,,0.1372,0,Miss March Madness,Missed March Madness,True
+Georgia Southern,SB,2015,28,19,0.6786,-4.6,0,,,0.1276,0,Miss March Madness,Missed March Madness,True
+George Washington,A10,2015,35,22,0.6286,-2.3,0,,,0.102,0,Miss March Madness,Missed March Madness,True
+Belmont,OVC,2015,32,21,0.6562,-4.7,1,15.0,R64,0.0974,0,Miss March Madness,Made March Madness,False
+UAB,CUSA,2015,35,19,0.5429,-7.5,1,14.0,R32,0.0828,0,Miss March Madness,Made March Madness,False
+Akron,MAC,2015,34,20,0.5882,-6.9,0,,,0.0649,0,Miss March Madness,Missed March Madness,True
+Alabama,SEC,2015,33,18,0.5455,-1.7,0,,,0.0366,0,Miss March Madness,Missed March Madness,True
+Alcorn St.,SWAC,2015,30,5,0.1667,-20.6,0,,,0.029,0,Miss March Madness,Missed March Madness,True
+Cal Poly,BW,2015,27,11,0.4074,-9.0,0,,,0.0269,0,Miss March Madness,Missed March Madness,True
+Canisius,MAAC,2015,33,18,0.5455,-9.3,0,,,0.0265,0,Miss March Madness,Missed March Madness,True
+Incarnate Word,Slnd,2015,25,14,0.56,-6.0,0,,,0.0251,0,Miss March Madness,Missed March Madness,True
+Boston University,Pat,2015,29,12,0.4138,-11.9,0,,,0.0242,0,Miss March Madness,Missed March Madness,True
+Hampton,MEAC,2015,35,17,0.4857,-12.6,1,16.0,R64,0.0239,0,Miss March Madness,Made March Madness,False
+Florida,SEC,2015,33,16,0.4848,-2.9,0,,,0.0213,0,Miss March Madness,Missed March Madness,True
+Penn St.,B10,2015,34,18,0.5294,-3.6,0,,,0.0162,0,Miss March Madness,Missed March Madness,True
+Grand Canyon,WAC,2015,30,15,0.5,-9.7,0,,,0.0138,0,Miss March Madness,Missed March Madness,True
+Fresno St.,MWC,2015,30,13,0.4333,-9.4,0,,,0.0119,0,Miss March Madness,Missed March Madness,True
+Brown,Ivy,2015,29,11,0.3793,-12.2,0,,,0.0118,0,Miss March Madness,Missed March Madness,True
+Seton Hall,BE,2015,31,16,0.5161,-2.3,0,,,0.0112,0,Miss March Madness,Missed March Madness,True
+Liberty,BSth,2015,28,4,0.1429,-20.5,0,,,0.0109,0,Miss March Madness,Missed March Madness,True
+New Orleans,Slnd,2015,26,8,0.3077,-13.3,0,,,0.0107,0,Miss March Madness,Missed March Madness,True
+Kansas St.,B12,2015,32,15,0.4688,-2.6,0,,,0.0106,0,Miss March Madness,Missed March Madness,True
+Tennessee St.,OVC,2015,29,3,0.1034,-19.8,0,,,0.0089,0,Miss March Madness,Missed March Madness,True
+South Alabama,SB,2015,31,10,0.3226,-15.4,0,,,0.0088,0,Miss March Madness,Missed March Madness,True
+SIU Edwardsville,OVC,2015,26,10,0.3846,-11.8,0,,,0.0086,0,Miss March Madness,Missed March Madness,True
+Idaho,BSky,2015,28,11,0.3929,-13.0,0,,,0.0083,0,Miss March Madness,Missed March Madness,True
+Nicholls St.,Slnd,2015,26,7,0.2692,-13.9,0,,,0.0082,0,Miss March Madness,Missed March Madness,True
+Tulane,Amer,2015,30,14,0.4667,-8.9,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
+Binghamton,AE,2015,30,5,0.1667,-19.3,0,,,0.0077,0,Miss March Madness,Missed March Madness,True
+Sacred Heart,NEC,2015,31,14,0.4516,-13.1,0,,,0.0076,0,Miss March Madness,Missed March Madness,True
+Rice,CUSA,2015,29,10,0.3448,-13.2,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
+Pacific,WCC,2015,28,9,0.3214,-10.7,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
+Long Beach St.,BW,2015,31,14,0.4516,-5.6,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
+Clemson,ACC,2015,31,16,0.5161,-3.0,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
+Marist,MAAC,2015,32,7,0.2188,-19.9,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
+Morehead St.,OVC,2015,32,15,0.4688,-10.6,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
+Navy,Pat,2015,31,12,0.3871,-13.8,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
+Rutgers,B10,2015,32,10,0.3125,-8.7,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
+Presbyterian,BSth,2015,28,6,0.2143,-17.1,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
+Cornell,Ivy,2015,29,12,0.4138,-11.2,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
+Florida A&M,MEAC,2015,29,2,0.069,-23.2,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
+USC,P12,2015,32,12,0.375,-8.9,0,,,0.0065,0,Miss March Madness,Missed March Madness,True
+Houston Baptist,Slnd,2015,24,8,0.3333,-12.0,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+Creighton,BE,2015,33,14,0.4242,-5.8,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
+Samford,SC,2015,31,12,0.3871,-14.1,0,,,0.0063,0,Miss March Madness,Missed March Madness,True
+Ball St.,MAC,2015,29,6,0.2069,-15.8,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Elon,CAA,2015,31,13,0.4194,-12.6,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Nebraska,B10,2015,31,13,0.4194,-5.3,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+Tennessee Tech,OVC,2015,28,10,0.3571,-13.4,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+South Florida,Amer,2015,31,8,0.2581,-14.5,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+Southern,SWAC,2015,32,15,0.4688,-11.7,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+Mississippi Valley St.,SWAC,2015,32,6,0.1875,-20.8,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
+Western Illinois,Sum,2015,26,6,0.2308,-15.4,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
+VMI,SC,2015,28,9,0.3214,-14.1,0,,,0.0042,0,Miss March Madness,Missed March Madness,True
+Baylor,B12,2014,36,24,0.6667,3.1,1,6.0,S16,0.9945,1,Make March Madness,Made March Madness,True
+Oklahoma,B12,2014,33,23,0.697,4.1,1,5.0,R64,0.9903,1,Make March Madness,Made March Madness,True
+Duke,ACC,2014,35,26,0.7429,6.5,1,3.0,R64,0.9882,1,Make March Madness,Made March Madness,True
+Gonzaga,WCC,2014,35,28,0.8,4.0,1,8.0,R32,0.9882,1,Make March Madness,Made March Madness,True
+Cincinnati,Amer,2014,34,27,0.7941,5.3,1,5.0,R64,0.9848,1,Make March Madness,Made March Madness,True
+VCU,A10,2014,35,26,0.7429,3.6,1,5.0,R64,0.9842,1,Make March Madness,Made March Madness,True
+Colorado,P12,2014,35,23,0.6571,2.4,1,8.0,R64,0.9835,1,Make March Madness,Made March Madness,True
+Ohio St.,B10,2014,35,25,0.7143,4.5,1,6.0,R64,0.9835,1,Make March Madness,Made March Madness,True
+Kentucky,SEC,2014,40,29,0.725,3.9,1,8.0,2ND,0.9756,1,Make March Madness,Made March Madness,True
+Saint Louis,A10,2014,33,26,0.7879,3.8,1,5.0,R32,0.9101,1,Make March Madness,Made March Madness,True
+Southern Miss,CUSA,2014,34,27,0.7941,1.3,0,,,0.7343,1,Make March Madness,Missed March Madness,False
+Green Bay,Horz,2014,28,21,0.75,0.4,0,,,0.6963,1,Make March Madness,Missed March Madness,False
+Iona,MAAC,2014,33,22,0.6667,-2.5,0,,,0.3982,0,Miss March Madness,Missed March Madness,True
+Saint Mary's,WCC,2014,34,22,0.6471,-1.8,0,,,0.3295,0,Miss March Madness,Missed March Madness,True
+UC Santa Barbara,BW,2014,28,19,0.6786,-2.8,0,,,0.3156,0,Miss March Madness,Missed March Madness,True
+Canisius,MAAC,2014,33,21,0.6364,-4.0,0,,,0.2281,0,Miss March Madness,Missed March Madness,True
+Princeton,Ivy,2014,29,20,0.6897,-2.5,0,,,0.2115,0,Miss March Madness,Missed March Madness,True
+American,Pat,2014,33,20,0.6061,-5.5,1,15.0,R64,0.1686,0,Miss March Madness,Made March Madness,False
+Wright St.,Horz,2014,34,19,0.5588,-8.1,0,,,0.1578,0,Miss March Madness,Missed March Madness,True
+Richmond,A10,2014,33,19,0.5758,-3.0,0,,,0.1262,0,Miss March Madness,Missed March Madness,True
+Colorado St.,MWC,2014,30,14,0.4667,-7.7,0,,,0.1173,0,Miss March Madness,Missed March Madness,True
+Mississippi,SEC,2014,33,19,0.5758,-2.7,0,,,0.1146,0,Miss March Madness,Missed March Madness,True
+Middle Tennessee,CUSA,2014,31,22,0.7097,-1.8,0,,,0.1004,0,Miss March Madness,Missed March Madness,True
+Bryant,NEC,2014,31,17,0.5484,-8.2,0,,,0.0965,0,Miss March Madness,Missed March Madness,True
+Stony Brook,AE,2014,33,22,0.6667,-5.2,0,,,0.09,0,Miss March Madness,Missed March Madness,True
+Wyoming,MWC,2014,31,16,0.5161,-5.7,0,,,0.042,0,Miss March Madness,Missed March Madness,True
+Boise St.,MWC,2014,31,18,0.5806,-3.3,0,,,0.0416,0,Miss March Madness,Missed March Madness,True
+Elon,SC,2014,29,16,0.5517,-7.7,0,,,0.0355,0,Miss March Madness,Missed March Madness,True
+Wake Forest,ACC,2014,33,17,0.5152,-2.6,0,,,0.0334,0,Miss March Madness,Missed March Madness,True
+Texas A&M Corpus Chris,Slnd,2014,32,17,0.5312,-9.4,0,,,0.0326,0,Miss March Madness,Missed March Madness,True
+Seton Hall,BE,2014,34,17,0.5,-5.0,0,,,0.028,0,Miss March Madness,Missed March Madness,True
+Miami FL,ACC,2014,33,17,0.5152,-3.8,0,,,0.0257,0,Miss March Madness,Missed March Madness,True
+Alcorn St.,SWAC,2014,28,9,0.3214,-14.9,0,,,0.0242,0,Miss March Madness,Missed March Madness,True
+Western Carolina,SC,2014,31,16,0.5161,-9.9,0,,,0.0239,0,Miss March Madness,Missed March Madness,True
+San Diego,WCC,2014,33,16,0.4848,-7.5,0,,,0.019,0,Miss March Madness,Missed March Madness,True
+Southeast Missouri St.,OVC,2014,30,16,0.5333,-9.5,0,,,0.0186,0,Miss March Madness,Missed March Madness,True
+Idaho,WAC,2014,33,15,0.4545,-12.6,0,,,0.0163,0,Miss March Madness,Missed March Madness,True
+UAB,CUSA,2014,29,16,0.5517,-6.6,0,,,0.0142,0,Miss March Madness,Missed March Madness,True
+Delaware St.,MEAC,2014,28,7,0.25,-15.7,0,,,0.0132,0,Miss March Madness,Missed March Madness,True
+Oakland,Horz,2014,31,11,0.3548,-10.7,0,,,0.0127,0,Miss March Madness,Missed March Madness,True
+Tennessee Tech,OVC,2014,31,15,0.4839,-10.7,0,,,0.0119,0,Miss March Madness,Missed March Madness,True
+Loyola Marymount,WCC,2014,31,12,0.3871,-9.3,0,,,0.0099,0,Miss March Madness,Missed March Madness,True
+Colgate,Pat,2014,30,12,0.4,-12.1,0,,,0.0095,0,Miss March Madness,Missed March Madness,True
+Fordham,A10,2014,31,10,0.3226,-10.3,0,,,0.0095,0,Miss March Madness,Missed March Madness,True
+Mississippi Valley St.,SWAC,2014,29,6,0.2069,-18.1,0,,,0.0092,0,Miss March Madness,Missed March Madness,True
+UT Rio Grande Valley,WAC,2014,31,8,0.2581,-18.1,0,,,0.0092,0,Miss March Madness,Missed March Madness,True
+Pepperdine,WCC,2014,30,14,0.4667,-7.5,0,,,0.0087,0,Miss March Madness,Missed March Madness,True
+Northern Iowa,MVC,2014,30,15,0.5,-6.1,0,,,0.0084,0,Miss March Madness,Missed March Madness,True
+Northwestern,B10,2014,33,14,0.4242,-4.2,0,,,0.0083,0,Miss March Madness,Missed March Madness,True
+East Carolina,CUSA,2014,30,13,0.4333,-9.9,0,,,0.0081,0,Miss March Madness,Missed March Madness,True
+SIU Edwardsville,OVC,2014,29,9,0.3103,-15.5,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
 Maryland Eastern Shore,MEAC,2014,28,5,0.1786,-18.7,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
-Detroit,Horz,2014,30,11,0.3667,-11.8,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
-Presbyterian,BSth,2014,30,4,0.1333,-21.7,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
-Arkansas Little Rock,SB,2014,30,13,0.4333,-9.4,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
-Marist,MAAC,2014,31,12,0.3871,-12.2,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
-Nicholls St.,Slnd,2014,28,13,0.4643,-10.4,0,,,0.0068,0,Miss March Madness,Missed March Madness,True
-Longwood,BSth,2014,28,4,0.1429,-19.0,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-Jacksonville,ASun,2014,28,10,0.3571,-12.8,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-Montana St.,BSky,2014,29,12,0.4138,-13.2,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
-Indiana,B10,2013,36,29,0.8056,7.8,1,1.0,S16,0.9888,1,Make March Madness,Made March Madness,True
-North Carolina St.,ACC,2013,35,24,0.6857,2.2,1,8.0,R64,0.9797,1,Make March Madness,Made March Madness,True
-Louisville,BE,2013,40,35,0.875,9.0,1,1.0,Champions,0.9787,1,Make March Madness,Made March Madness,True
-Illinois,B10,2013,34,21,0.6176,2.4,1,7.0,R32,0.9651,1,Make March Madness,Made March Madness,True
-North Carolina,ACC,2013,35,24,0.6857,2.5,1,8.0,R32,0.9624,1,Make March Madness,Made March Madness,True
-Missouri,SEC,2013,34,23,0.6765,1.2,1,9.0,R64,0.8928,1,Make March Madness,Made March Madness,True
-Colorado,P12,2013,33,21,0.6364,1.4,1,10.0,R64,0.8284,1,Make March Madness,Made March Madness,True
-Villanova,BE,2013,33,19,0.5758,0.3,1,9.0,R64,0.7184,1,Make March Madness,Made March Madness,True
-Southern Miss,CUSA,2013,35,25,0.7143,-0.6,0,,,0.5318,1,Make March Madness,Missed March Madness,False
-Belmont,OVC,2013,31,24,0.7742,0.1,1,11.0,R64,0.5085,1,Make March Madness,Made March Madness,True
-Harvard,Ivy,2013,29,19,0.6552,-2.6,1,14.0,R32,0.4878,0,Miss March Madness,Made March Madness,False
-Valparaiso,Horz,2013,33,25,0.7576,-0.8,1,14.0,R64,0.4693,0,Miss March Madness,Made March Madness,False
-Vermont,AE,2013,33,21,0.6364,-6.0,0,,,0.2809,0,Miss March Madness,Missed March Madness,True
-Northeastern,CAA,2013,33,20,0.6061,-6.8,0,,,0.2628,0,Miss March Madness,Missed March Madness,True
-Stony Brook,AE,2013,32,24,0.75,-2.0,0,,,0.215,0,Miss March Madness,Missed March Madness,True
-North Dakota St.,Sum,2013,32,22,0.6875,-3.6,0,,,0.203,0,Miss March Madness,Missed March Madness,True
-Niagara,MAAC,2013,33,19,0.5758,-6.9,0,,,0.1256,0,Miss March Madness,Missed March Madness,True
-Oral Roberts,Slnd,2013,34,19,0.5588,-8.0,0,,,0.1121,0,Miss March Madness,Missed March Madness,True
-Delaware,CAA,2013,33,19,0.5758,-6.1,0,,,0.0842,0,Miss March Madness,Missed March Madness,True
-Bryant,NEC,2013,31,19,0.6129,-6.4,0,,,0.0632,0,Miss March Madness,Missed March Madness,True
-Green Bay,Horz,2013,33,17,0.5152,-7.9,0,,,0.0256,0,Miss March Madness,Missed March Madness,True
-Boston University,AE,2013,30,17,0.5667,-6.9,0,,,0.0247,0,Miss March Madness,Missed March Madness,True
-Mount St. Mary's,NEC,2013,32,18,0.5625,-7.7,0,,,0.0211,0,Miss March Madness,Missed March Madness,True
-Savannah St.,MEAC,2013,32,17,0.5312,-8.1,0,,,0.0203,0,Miss March Madness,Missed March Madness,True
-Texas,B12,2013,33,16,0.4848,-4.2,0,,,0.0198,0,Miss March Madness,Missed March Madness,True
-Saint Joseph's,A10,2013,32,18,0.5625,-3.3,0,,,0.0182,0,Miss March Madness,Missed March Madness,True
-Towson,CAA,2013,30,17,0.5667,-6.9,0,,,0.0174,0,Miss March Madness,Missed March Madness,True
-Vanderbilt,SEC,2013,33,16,0.4848,-6.2,0,,,0.0167,0,Miss March Madness,Missed March Madness,True
-William & Mary,CAA,2013,29,12,0.4138,-12.1,0,,,0.0128,0,Miss March Madness,Missed March Madness,True
-Sacramento St.,BSky,2013,27,12,0.4444,-11.8,0,,,0.0119,0,Miss March Madness,Missed March Madness,True
-Rice,CUSA,2013,29,4,0.1379,-18.9,0,,,0.0119,0,Miss March Madness,Missed March Madness,True
-Mississippi St.,SEC,2013,32,10,0.3125,-11.6,0,,,0.0117,0,Miss March Madness,Missed March Madness,True
-Oregon St.,P12,2013,32,14,0.4375,-7.3,0,,,0.0113,0,Miss March Madness,Missed March Madness,True
-Army,Pat,2013,30,15,0.5,-10.1,0,,,0.0105,0,Miss March Madness,Missed March Madness,True
-TCU,B12,2013,31,10,0.3226,-11.2,0,,,0.0103,0,Miss March Madness,Missed March Madness,True
-NJIT,GWC,2013,25,12,0.48,-9.8,0,,,0.0102,0,Miss March Madness,Missed March Madness,True
-Winthrop,BSth,2013,28,11,0.3929,-12.5,0,,,0.0102,0,Miss March Madness,Missed March Madness,True
-Montana St.,BSky,2013,28,11,0.3929,-13.8,0,,,0.0102,0,Miss March Madness,Missed March Madness,True
-Idaho,WAC,2013,29,11,0.3793,-11.6,0,,,0.0099,0,Miss March Madness,Missed March Madness,True
-Alcorn St.,SWAC,2013,32,9,0.2812,-16.7,0,,,0.0095,0,Miss March Madness,Missed March Madness,True
-Hofstra,CAA,2013,31,6,0.1935,-19.7,0,,,0.0095,0,Miss March Madness,Missed March Madness,True
-Colgate,Pat,2013,32,11,0.3438,-14.0,0,,,0.0094,0,Miss March Madness,Missed March Madness,True
-Appalachian St.,SC,2013,29,13,0.4483,-11.7,0,,,0.009,0,Miss March Madness,Missed March Madness,True
-Coppin St.,MEAC,2013,31,7,0.2258,-18.0,0,,,0.009,0,Miss March Madness,Missed March Madness,True
-Presbyterian,BSth,2013,29,5,0.1724,-18.9,0,,,0.0086,0,Miss March Madness,Missed March Madness,True
-North Dakota,BSky,2013,31,14,0.4516,-11.4,0,,,0.0086,0,Miss March Madness,Missed March Madness,True
-Marist,MAAC,2013,31,10,0.3226,-15.1,0,,,0.0082,0,Miss March Madness,Missed March Madness,True
-UAB,CUSA,2013,32,15,0.4688,-8.2,0,,,0.0081,0,Miss March Madness,Missed March Madness,True
-Wofford,SC,2013,31,12,0.3871,-13.2,0,,,0.008,0,Miss March Madness,Missed March Madness,True
-George Washington,A10,2013,30,13,0.4333,-7.3,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
-North Florida,ASun,2013,31,12,0.3871,-12.1,0,,,0.0078,0,Miss March Madness,Missed March Madness,True
-Toledo,MAC,2013,28,15,0.5357,-7.9,0,,,0.0077,0,Miss March Madness,Missed March Madness,True
-Southern Illinois,MVC,2013,30,13,0.4333,-8.3,0,,,0.0076,0,Miss March Madness,Missed March Madness,True
-Dartmouth,Ivy,2013,27,8,0.2963,-14.1,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
-Lipscomb,ASun,2013,29,11,0.3793,-12.4,0,,,0.0075,0,Miss March Madness,Missed March Madness,True
-Clemson,ACC,2013,31,13,0.4194,-7.7,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
-Eastern Washington,BSky,2013,31,10,0.3226,-16.7,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
-South Florida,BE,2013,31,12,0.3871,-6.8,0,,,0.0074,0,Miss March Madness,Missed March Madness,True
-Alabama St.,SWAC,2013,31,9,0.2903,-17.2,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
-UMBC,AE,2013,30,7,0.2333,-17.6,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
-Chicago St.,GWC,2013,29,7,0.2414,-15.7,0,,,0.007,0,Miss March Madness,Missed March Madness,True
-Lamar,Slnd,2013,31,3,0.0968,-21.4,0,,,0.007,0,Miss March Madness,Missed March Madness,True
-Grambling St.,SWAC,2013,28,0,0.0,-24.3,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
-Kennesaw St.,ASun,2013,30,3,0.1,-22.0,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-Binghamton,AE,2013,29,2,0.069,-21.7,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-Rutgers,BE,2013,31,15,0.4839,-4.1,0,,,0.0067,0,Miss March Madness,Missed March Madness,True
-Central Michigan,MAC,2013,30,10,0.3333,-13.8,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-UMKC,Sum,2013,31,7,0.2258,-17.6,0,,,0.0066,0,Miss March Madness,Missed March Madness,True
-Utah,P12,2013,31,13,0.4194,-6.7,0,,,0.0065,0,Miss March Madness,Missed March Madness,True
-Old Dominion,CAA,2013,30,5,0.1667,-20.0,0,,,0.0065,0,Miss March Madness,Missed March Madness,True
-Cornell,Ivy,2013,30,12,0.4,-11.8,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+Louisiana Monroe,SB,2014,26,9,0.3462,-10.2,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
+Samford,SC,2014,30,10,0.3333,-15.3,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
+Montana St.,BSky,2014,29,12,0.4138,-13.2,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
+South Alabama,SB,2014,28,8,0.2857,-13.3,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
+Detroit,Horz,2014,30,11,0.3667,-11.8,0,,,0.0068,0,Miss March Madness,Missed March Madness,True
+College of Charleston,CAA,2014,31,13,0.4194,-11.6,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+Alabama A&M,SWAC,2014,28,12,0.4286,-12.4,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+South Carolina St.,MEAC,2014,28,7,0.25,-16.0,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
+Seattle,WAC,2014,28,11,0.3929,-12.4,0,,,0.0061,0,Miss March Madness,Missed March Madness,True
+Central Connecticut,NEC,2014,29,10,0.3448,-14.6,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Florida Atlantic,CUSA,2014,30,8,0.2667,-15.1,0,,,0.006,0,Miss March Madness,Missed March Madness,True
+Savannah St.,MEAC,2014,30,11,0.3667,-12.5,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+The Citadel,SC,2014,29,4,0.1379,-20.1,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+Liberty,BSth,2014,29,8,0.2759,-16.7,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+Longwood,BSth,2014,28,4,0.1429,-19.0,0,,,0.0054,0,Miss March Madness,Missed March Madness,True
+New Mexico,MWC,2013,35,29,0.8286,6.9,1,3.0,R64,0.9877,1,Make March Madness,Made March Madness,True
+Miami FL,ACC,2013,36,29,0.8056,6.3,1,2.0,S16,0.9862,1,Make March Madness,Made March Madness,True
+Minnesota,B10,2013,34,21,0.6176,2.1,1,11.0,R32,0.9815,1,Make March Madness,Made March Madness,True
+Pittsburgh,BE,2013,33,24,0.7273,3.1,1,8.0,R64,0.9771,1,Make March Madness,Made March Madness,True
+Oregon,P12,2013,37,28,0.7568,2.9,1,12.0,S16,0.9736,1,Make March Madness,Made March Madness,True
+Michigan St.,B10,2013,35,26,0.7429,6.7,1,3.0,S16,0.9704,1,Make March Madness,Made March Madness,True
+Wichita St.,MVC,2013,39,30,0.7692,2.2,1,9.0,F4,0.9524,1,Make March Madness,Made March Madness,True
+Missouri,SEC,2013,34,23,0.6765,1.2,1,9.0,R64,0.8979,1,Make March Madness,Made March Madness,True
+Cincinnati,BE,2013,34,22,0.6471,1.7,1,10.0,R64,0.8518,1,Make March Madness,Made March Madness,True
+Colorado,P12,2013,33,21,0.6364,1.4,1,10.0,R64,0.7803,1,Make March Madness,Made March Madness,True
+Harvard,Ivy,2013,29,19,0.6552,-2.6,1,14.0,R32,0.7108,1,Make March Madness,Made March Madness,True
+New Mexico St.,WAC,2013,34,23,0.6765,-3.1,1,13.0,R64,0.6259,1,Make March Madness,Made March Madness,True
+Robert Morris,NEC,2013,35,24,0.6857,-5.9,0,,,0.4552,0,Miss March Madness,Missed March Madness,True
+Belmont,OVC,2013,31,24,0.7742,0.1,1,11.0,R64,0.4282,0,Miss March Madness,Made March Madness,False
+Vermont,AE,2013,33,21,0.6364,-6.0,0,,,0.3438,0,Miss March Madness,Missed March Madness,True
+Bryant,NEC,2013,31,19,0.6129,-6.4,0,,,0.2406,0,Miss March Madness,Missed March Madness,True
+Lehigh,Pat,2013,30,20,0.6667,-3.4,0,,,0.2133,0,Miss March Madness,Missed March Madness,True
+Stanford,P12,2013,34,19,0.5588,-2.2,0,,,0.1956,0,Miss March Madness,Missed March Madness,True
+Western Illinois,Sum,2013,29,20,0.6897,-4.5,0,,,0.1911,0,Miss March Madness,Missed March Madness,True
+Richmond,A10,2013,34,19,0.5588,-4.0,0,,,0.1735,0,Miss March Madness,Missed March Madness,True
+Florida Gulf Coast,ASun,2013,35,24,0.6857,-4.0,1,15.0,S16,0.152,0,Miss March Madness,Made March Madness,False
+Niagara,MAAC,2013,33,19,0.5758,-6.9,0,,,0.1498,0,Miss March Madness,Missed March Madness,True
+Loyola MD,MAAC,2013,35,23,0.6571,-4.9,0,,,0.1466,0,Miss March Madness,Missed March Madness,True
+Charlotte,A10,2013,33,21,0.6364,-1.6,0,,,0.1416,0,Miss March Madness,Missed March Madness,True
+Maryland,ACC,2013,38,25,0.6579,-1.3,0,,,0.1322,0,Miss March Madness,Missed March Madness,True
+Ohio,MAC,2013,34,24,0.7059,-2.5,0,,,0.1312,0,Miss March Madness,Missed March Madness,True
+Mercer,ASun,2013,34,22,0.6471,-5.6,0,,,0.1008,0,Miss March Madness,Missed March Madness,True
+Arizona St.,P12,2013,35,22,0.6286,-1.7,0,,,0.0797,0,Miss March Madness,Missed March Madness,True
+North Carolina A&T,MEAC,2013,36,19,0.5278,-11.5,1,16.0,R64,0.074,0,Miss March Madness,Made March Madness,False
+Norfolk St.,MEAC,2013,33,21,0.6364,-6.2,0,,,0.0706,0,Miss March Madness,Missed March Madness,True
+UT Arlington,WAC,2013,33,19,0.5758,-6.6,0,,,0.065,0,Miss March Madness,Missed March Madness,True
+Providence,BE,2013,34,19,0.5588,-2.7,0,,,0.0639,0,Miss March Madness,Missed March Madness,True
+Long Beach St.,BW,2013,31,17,0.5484,-5.4,0,,,0.0354,0,Miss March Madness,Missed March Madness,True
+Xavier,A10,2013,31,17,0.5484,-4.0,0,,,0.033,0,Miss March Madness,Missed March Madness,True
+Washington,P12,2013,34,18,0.5294,-3.0,0,,,0.0195,0,Miss March Madness,Missed March Madness,True
+UCF,CUSA,2013,28,17,0.6071,-4.2,0,,,0.0194,0,Miss March Madness,Missed March Madness,True
+Illinois St.,MVC,2013,33,18,0.5455,-5.2,0,,,0.018,0,Miss March Madness,Missed March Madness,True
+Tennessee St.,OVC,2013,31,16,0.5161,-7.3,0,,,0.0136,0,Miss March Madness,Missed March Madness,True
+Boston College,ACC,2013,33,16,0.4848,-5.4,0,,,0.0136,0,Miss March Madness,Missed March Madness,True
+Eastern Illinois,OVC,2013,31,11,0.3548,-15.3,0,,,0.0115,0,Miss March Madness,Missed March Madness,True
+Sacramento St.,BSky,2013,27,12,0.4444,-11.8,0,,,0.0113,0,Miss March Madness,Missed March Madness,True
+Manhattan,MAAC,2013,32,14,0.4375,-10.9,0,,,0.0111,0,Miss March Madness,Missed March Madness,True
+UNC Greensboro,SC,2013,29,7,0.2414,-18.0,0,,,0.0108,0,Miss March Madness,Missed March Madness,True
+Ball St.,MAC,2013,30,15,0.5,-9.7,0,,,0.0096,0,Miss March Madness,Missed March Madness,True
+Marshall,CUSA,2013,31,12,0.3871,-11.4,0,,,0.0093,0,Miss March Madness,Missed March Madness,True
+Missouri St.,MVC,2013,31,9,0.2903,-12.1,0,,,0.0093,0,Miss March Madness,Missed March Madness,True
+Radford,BSth,2013,29,10,0.3448,-15.6,0,,,0.0087,0,Miss March Madness,Missed March Madness,True
+Purdue,B10,2013,34,16,0.4706,-3.8,0,,,0.0085,0,Miss March Madness,Missed March Madness,True
+St. Bonaventure,A10,2013,29,14,0.4828,-6.0,0,,,0.008,0,Miss March Madness,Missed March Madness,True
+Central Connecticut,NEC,2013,30,13,0.4333,-11.7,0,,,0.008,0,Miss March Madness,Missed March Madness,True
+Yale,Ivy,2013,29,12,0.4138,-10.2,0,,,0.0079,0,Miss March Madness,Missed March Madness,True
+Oregon St.,P12,2013,32,14,0.4375,-7.3,0,,,0.0073,0,Miss March Madness,Missed March Madness,True
+Nevada,MWC,2013,30,11,0.3667,-9.2,0,,,0.0072,0,Miss March Madness,Missed March Madness,True
+Hofstra,CAA,2013,31,6,0.1935,-19.7,0,,,0.0071,0,Miss March Madness,Missed March Madness,True
+Brown,Ivy,2013,27,12,0.4444,-10.3,0,,,0.007,0,Miss March Madness,Missed March Madness,True
+Navy,Pat,2013,30,7,0.2333,-18.2,0,,,0.007,0,Miss March Madness,Missed March Madness,True
+Portland,WCC,2013,30,9,0.3,-11.7,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
+IUPUI,Sum,2013,30,4,0.1333,-20.0,0,,,0.0069,0,Miss March Madness,Missed March Madness,True
+Central Michigan,MAC,2013,30,10,0.3333,-13.8,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+Stetson,ASun,2013,30,14,0.4667,-10.8,0,,,0.0064,0,Miss March Madness,Missed March Madness,True
+SMU,CUSA,2013,31,14,0.4516,-11.8,0,,,0.0062,0,Miss March Madness,Missed March Madness,True
+Tennessee Martin,OVC,2013,28,7,0.25,-16.0,0,,,0.0059,0,Miss March Madness,Missed March Madness,True
+Texas Tech,B12,2013,31,11,0.3548,-9.4,0,,,0.0058,0,Miss March Madness,Missed March Madness,True
+South Carolina St.,MEAC,2013,28,4,0.1429,-19.3,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+Chicago St.,GWC,2013,29,7,0.2414,-15.7,0,,,0.0057,0,Miss March Madness,Missed March Madness,True
+Cleveland St.,Horz,2013,29,11,0.3793,-11.0,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
+Eastern Michigan,MAC,2013,31,13,0.4194,-11.6,0,,,0.0056,0,Miss March Madness,Missed March Madness,True
+Miami OH,MAC,2013,30,8,0.2667,-14.5,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
+Longwood,BSth,2013,31,6,0.1935,-19.5,0,,,0.0055,0,Miss March Madness,Missed March Madness,True
+Lamar,Slnd,2013,31,3,0.0968,-21.4,0,,,0.0054,0,Miss March Madness,Missed March Madness,True
+Fordham,A10,2013,30,6,0.2,-13.2,0,,,0.0054,0,Miss March Madness,Missed March Madness,True
+Drake,MVC,2013,31,14,0.4516,-7.1,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+Georgia Tech,ACC,2013,31,16,0.5161,-4.8,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+Southern Illinois,MVC,2013,30,13,0.4333,-8.3,0,,,0.0049,0,Miss March Madness,Missed March Madness,True
+Utah,P12,2013,31,13,0.4194,-6.7,0,,,0.0047,0,Miss March Madness,Missed March Madness,True

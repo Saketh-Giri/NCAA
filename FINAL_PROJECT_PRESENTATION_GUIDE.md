@@ -49,7 +49,7 @@ The full dataset has 2,455 team-seasons from 2013 through 2019. The modeling sam
 
 The target variable is `Tour_Wins`, the number of NCAA tournament games won by a team in a given season.
 
-The features include conference, games played, wins, win rate, adjusted offensive efficiency, adjusted defensive efficiency, overall power rating, shooting efficiency, turnover rates, rebounding rates, free throw rates, tempo, wins above bubble, and tournament seed. `POSTSEASON` is intentionally excluded because it reveals the answer after the tournament has already happened.
+The features include conference, wins, win rate, adjusted offensive efficiency, adjusted defensive efficiency, overall power rating, shooting efficiency, turnover rates, rebounding rates, free throw rates, tempo, wins above bubble, and tournament seed. Games played is excluded as a direct predictor because it mainly reflects schedule length rather than team quality. `POSTSEASON` is intentionally excluded because it reveals the answer after the tournament has already happened.
 
 The presentation should focus on two models:
 
@@ -63,7 +63,7 @@ Key final results:
 - Use the latest values in `outputs/model_metrics.csv` for model MAE, RMSE, and R-squared.
 - Because the split is randomized, these values may change each time `final_project_models.py` is rerun.
 - The best model is whichever model has the lower mean absolute error in the latest randomized run.
-- The strongest best-model features are games played, overall power rating (`BARTHAG`), wins, defensive efficiency (`ADJDE`), offensive efficiency (`ADJOE`), and seed.
+- The strongest best-model features are overall power rating (`BARTHAG`), wins, defensive efficiency (`ADJDE`), offensive efficiency (`ADJOE`), and seed.
 
 ## Recommended Deck Structure
 
@@ -248,7 +248,7 @@ What Drove the Best Model?
 
 Put on slide:
 
-- Most important features: games played, `BARTHAG`, wins, defensive efficiency, offensive efficiency, and seed.
+- Most important features: `BARTHAG`, wins, defensive efficiency, offensive efficiency, and seed.
 - Interpretation: overall team strength and efficiency matter more than any one box-score statistic.
 - Defensive and offensive efficiency both contribute to deep-run forecasts.
 

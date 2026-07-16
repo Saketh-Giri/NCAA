@@ -55,7 +55,6 @@ TEST_SIZE = 0.2
 
 FEATURES = [
     "CONF",
-    "G",
     "W",
     "WIN_RATE",
     "ADJOE",

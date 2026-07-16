@@ -1,477 +1,477 @@
 YEAR,BRACKET_SEED,REGION_CODE,SLOT_SEED,SEED_NUM,TEAM,CONF,Tour_Wins,POSTSEASON,Predicted_Tour_Wins,Absolute_Error,Prediction_Model
-2013,W01,W,W01,1,Indiana,B10,2,S16,1.7558,0.2442,Gradient Boosting Regression
-2013,W02,W,W02,2,Miami FL,ACC,2,S16,1.8412,0.1588,Gradient Boosting Regression
-2013,W03,W,W03,3,Marquette,BE,3,E8,0.7545,2.2455,Gradient Boosting Regression
-2013,W04,W,W04,4,Syracuse,BE,4,F4,4.682,0.682,Gradient Boosting Regression
-2013,W05,W,W05,5,UNLV,MWC,0,R64,0.4611,0.4611,Gradient Boosting Regression
-2013,W06,W,W06,6,Butler,A10,1,R32,0.5247,0.4753,Gradient Boosting Regression
-2013,W07,W,W07,7,Illinois,B10,1,R32,0.5724,0.4276,Gradient Boosting Regression
-2013,W08,W,W08,8,North Carolina St.,ACC,0,R64,0.9005,0.9005,Gradient Boosting Regression
-2013,W09,W,W09,9,Temple,A10,1,R32,0.1417,0.8583,Gradient Boosting Regression
-2013,W10,W,W10,10,Colorado,P12,0,R64,0.3328,0.3328,Gradient Boosting Regression
-2013,W11,W,W11,11,Bucknell,Pat,0,R64,0.0247,0.0247,Gradient Boosting Regression
-2013,W12,W,W12,12,California,P12,1,R32,0.0,1.0,Gradient Boosting Regression
-2013,W13,W,W13,13,Montana,BSky,0,R64,0.1269,0.1269,Gradient Boosting Regression
-2013,W14,W,W14,14,Davidson,SC,0,R64,0.2762,0.2762,Gradient Boosting Regression
-2013,W15,W,W15,15,Pacific,BW,0,R64,0.0,0.0,Gradient Boosting Regression
-2013,W16a,W,W16,16,James Madison,CAA,0,R64,0.9995,0.9995,Gradient Boosting Regression
-2013,W16b,W,W16,16,LIU Brooklyn,NEC,0,R68,0.0,0.0,Gradient Boosting Regression
-2013,X01,X,X01,1,Kansas,B12,2,S16,2.9671,0.9671,Gradient Boosting Regression
-2013,X02,X,X02,2,Georgetown,BE,0,R64,0.7103,0.7103,Gradient Boosting Regression
-2013,X03,X,X03,3,Florida,SEC,3,E8,3.1327,0.1327,Gradient Boosting Regression
-2013,X04,X,X04,4,Michigan,B10,5,2ND,3.4107,1.5893,Gradient Boosting Regression
-2013,X05,X,X05,5,VCU,A10,1,R32,1.3636,0.3636,Gradient Boosting Regression
-2013,X06,X,X06,6,UCLA,P12,0,R64,0.7378,0.7378,Gradient Boosting Regression
-2013,X07,X,X07,7,San Diego St.,MWC,1,R32,0.2591,0.7409,Gradient Boosting Regression
-2013,X08,X,X08,8,North Carolina,ACC,1,R32,1.1162,0.1162,Gradient Boosting Regression
-2013,X09,X,X09,9,Villanova,BE,0,R64,0.4963,0.4963,Gradient Boosting Regression
-2013,X10,X,X10,10,Oklahoma,B12,0,R64,0.2516,0.2516,Gradient Boosting Regression
-2013,X11,X,X11,11,Minnesota,B10,1,R32,0.1819,0.8181,Gradient Boosting Regression
-2013,X12,X,X12,12,Akron,MAC,0,R64,0.0559,0.0559,Gradient Boosting Regression
-2013,X13,X,X13,13,South Dakota St.,Sum,0,R64,0.1248,0.1248,Gradient Boosting Regression
-2013,X14,X,X14,14,Northwestern St.,Slnd,0,R64,0.0,0.0,Gradient Boosting Regression
-2013,X15,X,X15,15,Florida Gulf Coast,ASun,2,S16,0.452,1.548,Gradient Boosting Regression
-2013,X16,X,X16,16,Western Kentucky,SB,0,R64,0.1307,0.1307,Gradient Boosting Regression
-2013,Y01,Y,Y01,1,Louisville,BE,6,Champions,5.6917,0.3083,Gradient Boosting Regression
-2013,Y02,Y,Y02,2,Duke,ACC,3,E8,1.6502,1.3498,Gradient Boosting Regression
-2013,Y03,Y,Y03,3,Michigan St.,B10,2,S16,1.0652,0.9348,Gradient Boosting Regression
-2013,Y04,Y,Y04,4,Saint Louis,A10,1,R32,1.1191,0.1191,Gradient Boosting Regression
-2013,Y05,Y,Y05,5,Oklahoma St.,B12,0,R64,0.6866,0.6866,Gradient Boosting Regression
-2013,Y06,Y,Y06,6,Memphis,CUSA,1,R32,1.1864,0.1864,Gradient Boosting Regression
-2013,Y07,Y,Y07,7,Creighton,MVC,1,R32,2.0424,1.0424,Gradient Boosting Regression
-2013,Y08,Y,Y08,8,Colorado St.,MWC,1,R32,0.7975,0.2025,Gradient Boosting Regression
-2013,Y09,Y,Y09,9,Missouri,SEC,0,R64,0.4537,0.4537,Gradient Boosting Regression
-2013,Y10,Y,Y10,10,Cincinnati,BE,0,R64,0.7129,0.7129,Gradient Boosting Regression
-2013,Y11a,Y,Y11,11,Middle Tennessee,SB,0,R68,0.2929,0.2929,Gradient Boosting Regression
-2013,Y11b,Y,Y11,11,Saint Mary's,WCC,0,R64,0.5393,0.5393,Gradient Boosting Regression
-2013,Y12,Y,Y12,12,Oregon,P12,2,S16,2.1134,0.1134,Gradient Boosting Regression
-2013,Y13,Y,Y13,13,New Mexico St.,WAC,0,R64,0.0339,0.0339,Gradient Boosting Regression
-2013,Y14,Y,Y14,14,Valparaiso,Horz,0,R64,0.2889,0.2889,Gradient Boosting Regression
-2013,Y15,Y,Y15,15,Albany,AE,0,R64,0.4638,0.4638,Gradient Boosting Regression
-2013,Y16a,Y,Y16,16,Liberty,BSth,0,R68,0.0,0.0,Gradient Boosting Regression
-2013,Y16b,Y,Y16,16,North Carolina A&T,MEAC,0,R64,1.0109,1.0109,Gradient Boosting Regression
-2013,Z01,Z,Z01,1,Gonzaga,WCC,1,R32,0.9031,0.0969,Gradient Boosting Regression
-2013,Z02,Z,Z02,2,Ohio St.,B10,3,E8,2.4633,0.5367,Gradient Boosting Regression
-2013,Z03,Z,Z03,3,New Mexico,MWC,0,R64,0.8876,0.8876,Gradient Boosting Regression
-2013,Z04,Z,Z04,4,Kansas St.,B12,0,R64,0.8482,0.8482,Gradient Boosting Regression
-2013,Z05,Z,Z05,5,Wisconsin,B10,0,R64,0.9659,0.9659,Gradient Boosting Regression
-2013,Z06,Z,Z06,6,Arizona,P12,2,S16,0.8792,1.1208,Gradient Boosting Regression
-2013,Z07,Z,Z07,7,Notre Dame,BE,0,R64,0.937,0.937,Gradient Boosting Regression
-2013,Z08,Z,Z08,8,Pittsburgh,BE,0,R64,0.9035,0.9035,Gradient Boosting Regression
-2013,Z09,Z,Z09,9,Wichita St.,MVC,4,F4,4.1631,0.1631,Gradient Boosting Regression
-2013,Z10,Z,Z10,10,Iowa St.,B12,1,R32,0.8199,0.1801,Gradient Boosting Regression
-2013,Z11,Z,Z11,11,Belmont,OVC,0,R64,0.3975,0.3975,Gradient Boosting Regression
-2013,Z12,Z,Z12,12,Mississippi,SEC,1,R32,1.2135,0.2135,Gradient Boosting Regression
-2013,Z13a,Z,Z13,13,Boise St.,MWC,0,R68,0.2168,0.2168,Gradient Boosting Regression
-2013,Z13b,Z,Z13,13,La Salle,A10,2,S16,0.3271,1.6729,Gradient Boosting Regression
-2013,Z14,Z,Z14,14,Harvard,Ivy,1,R32,0.0029,0.9971,Gradient Boosting Regression
-2013,Z15,Z,Z15,15,Iona,MAAC,0,R64,0.0464,0.0464,Gradient Boosting Regression
-2013,Z16,Z,Z16,16,Southern,SWAC,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,W01,W,W01,1,Virginia,ACC,2,S16,2.4328,0.4328,Gradient Boosting Regression
-2014,W02,W,W02,2,Villanova,BE,1,R32,0.8416,0.1584,Gradient Boosting Regression
-2014,W03,W,W03,3,Iowa St.,B12,2,S16,1.2952,0.7048,Gradient Boosting Regression
-2014,W04,W,W04,4,Michigan St.,B10,3,E8,3.3442,0.3442,Gradient Boosting Regression
-2014,W05,W,W05,5,Cincinnati,Amer,0,R64,0.5685,0.5685,Gradient Boosting Regression
-2014,W06,W,W06,6,North Carolina,ACC,1,R32,0.3059,0.6941,Gradient Boosting Regression
-2014,W07,W,W07,7,Connecticut,Amer,6,Champions,3.733,2.267,Gradient Boosting Regression
-2014,W08,W,W08,8,Memphis,Amer,1,R32,0.2347,0.7653,Gradient Boosting Regression
-2014,W09,W,W09,9,George Washington,A10,0,R64,0.148,0.148,Gradient Boosting Regression
-2014,W10,W,W10,10,Saint Joseph's,A10,0,R64,0.4138,0.4138,Gradient Boosting Regression
-2014,W11,W,W11,11,Providence,BE,0,R64,0.4002,0.4002,Gradient Boosting Regression
-2014,W12,W,W12,12,Harvard,Ivy,1,R32,0.4109,0.5891,Gradient Boosting Regression
-2014,W13,W,W13,13,Delaware,CAA,0,R64,0.3252,0.3252,Gradient Boosting Regression
-2014,W14,W,W14,14,North Carolina Central,MEAC,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,W15,W,W15,15,Milwaukee,Horz,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,W16,W,W16,16,Coastal Carolina,BSth,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,X01,X,X01,1,Florida,SEC,4,F4,4.7356,0.7356,Gradient Boosting Regression
-2014,X02,X,X02,2,Kansas,B12,1,R32,0.989,0.011,Gradient Boosting Regression
-2014,X03,X,X03,3,Syracuse,ACC,1,R32,0.9408,0.0592,Gradient Boosting Regression
-2014,X04,X,X04,4,UCLA,P12,2,S16,2.3828,0.3828,Gradient Boosting Regression
-2014,X05,X,X05,5,VCU,A10,0,R64,0.9271,0.9271,Gradient Boosting Regression
-2014,X06,X,X06,6,Ohio St.,B10,0,R64,1.041,1.041,Gradient Boosting Regression
-2014,X07,X,X07,7,New Mexico,MWC,0,R64,0.3894,0.3894,Gradient Boosting Regression
-2014,X08,X,X08,8,Colorado,P12,0,R64,0.3622,0.3622,Gradient Boosting Regression
-2014,X09,X,X09,9,Pittsburgh,ACC,1,R32,1.446,0.446,Gradient Boosting Regression
-2014,X10,X,X10,10,Stanford,P12,2,S16,0.9655,1.0345,Gradient Boosting Regression
-2014,X11,X,X11,11,Dayton,A10,3,E8,2.2072,0.7928,Gradient Boosting Regression
-2014,X12,X,X12,12,Stephen F. Austin,Slnd,1,R32,0.035,0.965,Gradient Boosting Regression
-2014,X13,X,X13,13,Tulsa,CUSA,0,R64,0.0128,0.0128,Gradient Boosting Regression
-2014,X14,X,X14,14,Western Michigan,MAC,0,R64,0.1687,0.1687,Gradient Boosting Regression
-2014,X15,X,X15,15,Eastern Kentucky,OVC,0,R64,0.0688,0.0688,Gradient Boosting Regression
-2014,X16a,X,X16,16,Albany,AE,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,X16b,X,X16,16,Mount St. Mary's,NEC,0,R68,0.0,0.0,Gradient Boosting Regression
-2014,Y01,Y,Y01,1,Wichita St.,MVC,1,R32,1.1633,0.1633,Gradient Boosting Regression
-2014,Y02,Y,Y02,2,Michigan,B10,3,E8,2.432,0.568,Gradient Boosting Regression
-2014,Y03,Y,Y03,3,Duke,ACC,0,R64,1.2399,1.2399,Gradient Boosting Regression
-2014,Y04,Y,Y04,4,Louisville,Amer,2,S16,2.9459,0.9459,Gradient Boosting Regression
-2014,Y05,Y,Y05,5,Saint Louis,A10,1,R32,0.1876,0.8124,Gradient Boosting Regression
-2014,Y06,Y,Y06,6,Massachusetts,A10,0,R64,0.3319,0.3319,Gradient Boosting Regression
-2014,Y07,Y,Y07,7,Texas,B12,1,R32,0.6252,0.3748,Gradient Boosting Regression
-2014,Y08,Y,Y08,8,Kentucky,SEC,5,2ND,3.003,1.997,Gradient Boosting Regression
-2014,Y09,Y,Y09,9,Kansas St.,B12,0,R64,0.1281,0.1281,Gradient Boosting Regression
-2014,Y10,Y,Y10,10,Arizona St.,P12,0,R64,0.046,0.046,Gradient Boosting Regression
-2014,Y11a,Y,Y11,11,Iowa,B10,0,R68,0.328,0.328,Gradient Boosting Regression
-2014,Y11b,Y,Y11,11,Tennessee,SEC,2,S16,1.323,0.677,Gradient Boosting Regression
-2014,Y12a,Y,Y12,12,North Carolina St.,ACC,0,R64,1.4326,1.4326,Gradient Boosting Regression
-2014,Y12b,Y,Y12,12,Xavier,BE,0,R68,0.2221,0.2221,Gradient Boosting Regression
-2014,Y13,Y,Y13,13,Manhattan,MAAC,0,R64,0.168,0.168,Gradient Boosting Regression
-2014,Y14,Y,Y14,14,Mercer,ASun,1,R32,0.2666,0.7334,Gradient Boosting Regression
-2014,Y15,Y,Y15,15,Wofford,SC,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,Y16a,Y,Y16,16,Cal Poly,BW,0,R64,0.0396,0.0396,Gradient Boosting Regression
-2014,Y16b,Y,Y16,16,Texas Southern,SWAC,0,R68,0.0,0.0,Gradient Boosting Regression
-2014,Z01,Z,Z01,1,Arizona,P12,3,E8,3.6505,0.6505,Gradient Boosting Regression
-2014,Z02,Z,Z02,2,Wisconsin,B10,4,F4,2.9577,1.0423,Gradient Boosting Regression
-2014,Z03,Z,Z03,3,Creighton,BE,1,R32,1.2393,0.2393,Gradient Boosting Regression
-2014,Z04,Z,Z04,4,San Diego St.,MWC,2,S16,0.8213,1.1787,Gradient Boosting Regression
-2014,Z05,Z,Z05,5,Oklahoma,B12,0,R64,0.3532,0.3532,Gradient Boosting Regression
-2014,Z06,Z,Z06,6,Baylor,B12,2,S16,0.9727,1.0273,Gradient Boosting Regression
-2014,Z07,Z,Z07,7,Oregon,P12,1,R32,0.4067,0.5933,Gradient Boosting Regression
-2014,Z08,Z,Z08,8,Gonzaga,WCC,1,R32,1.0792,0.0792,Gradient Boosting Regression
-2014,Z09,Z,Z09,9,Oklahoma St.,B12,0,R64,0.5146,0.5146,Gradient Boosting Regression
-2014,Z10,Z,Z10,10,BYU,WCC,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,Z11,Z,Z11,11,Nebraska,B10,0,R64,0.0345,0.0345,Gradient Boosting Regression
-2014,Z12,Z,Z12,12,North Dakota St.,Sum,1,R32,0.0,1.0,Gradient Boosting Regression
-2014,Z13,Z,Z13,13,New Mexico St.,WAC,0,R64,0.2133,0.2133,Gradient Boosting Regression
-2014,Z14,Z,Z14,14,Louisiana Lafayette,SB,0,R64,0.0,0.0,Gradient Boosting Regression
-2014,Z15,Z,Z15,15,American,Pat,0,R64,0.154,0.154,Gradient Boosting Regression
-2014,Z16,Z,Z16,16,Weber St.,BSky,0,R64,0.0,0.0,Gradient Boosting Regression
-2015,W01,W,W01,1,Villanova,BE,1,R32,2.1212,1.1212,Gradient Boosting Regression
-2015,W02,W,W02,2,Virginia,ACC,1,R32,0.6747,0.3253,Gradient Boosting Regression
-2015,W03,W,W03,3,Oklahoma,B12,2,S16,0.9355,1.0645,Gradient Boosting Regression
-2015,W04,W,W04,4,Louisville,ACC,3,E8,1.1601,1.8399,Gradient Boosting Regression
-2015,W05,W,W05,5,Northern Iowa,MVC,1,R32,1.241,0.241,Gradient Boosting Regression
-2015,W06,W,W06,6,Providence,BE,0,R64,0.3521,0.3521,Gradient Boosting Regression
-2015,W07,W,W07,7,Michigan St.,B10,4,F4,3.996,0.004,Gradient Boosting Regression
-2015,W08,W,W08,8,North Carolina St.,ACC,2,S16,1.0931,0.9069,Gradient Boosting Regression
-2015,W09,W,W09,9,LSU,SEC,0,R64,0.3686,0.3686,Gradient Boosting Regression
-2015,W10,W,W10,10,Georgia,SEC,0,R64,0.2461,0.2461,Gradient Boosting Regression
-2015,W11a,W,W11,11,Boise St.,MWC,0,R68,0.4196,0.4196,Gradient Boosting Regression
-2015,W11b,W,W11,11,Dayton,A10,1,R32,1.0036,0.0036,Gradient Boosting Regression
-2015,W12,W,W12,12,Wyoming,MWC,0,R64,0.3151,0.3151,Gradient Boosting Regression
-2015,W13,W,W13,13,UC Irvine,BW,0,R64,0.0,0.0,Gradient Boosting Regression
-2015,W14,W,W14,14,Albany,AE,0,R64,0.0854,0.0854,Gradient Boosting Regression
-2015,W15,W,W15,15,Belmont,OVC,0,R64,0.0483,0.0483,Gradient Boosting Regression
-2015,W16,W,W16,16,Lafayette,Pat,0,R64,0.0,0.0,Gradient Boosting Regression
-2015,X01,X,X01,1,Duke,ACC,6,Champions,4.8278,1.1722,Gradient Boosting Regression
-2015,X02,X,X02,2,Gonzaga,WCC,3,E8,2.5132,0.4868,Gradient Boosting Regression
-2015,X03,X,X03,3,Iowa St.,B12,0,R64,0.5643,0.5643,Gradient Boosting Regression
-2015,X04,X,X04,4,Georgetown,BE,1,R32,0.6808,0.3192,Gradient Boosting Regression
-2015,X05,X,X05,5,Utah,P12,2,S16,0.5527,1.4473,Gradient Boosting Regression
-2015,X06,X,X06,6,SMU,Amer,0,R64,0.4124,0.4124,Gradient Boosting Regression
-2015,X07,X,X07,7,Iowa,B10,1,R32,0.641,0.359,Gradient Boosting Regression
-2015,X08,X,X08,8,San Diego St.,MWC,1,R32,0.2895,0.7105,Gradient Boosting Regression
-2015,X09,X,X09,9,St. John's,BE,0,R64,0.6891,0.6891,Gradient Boosting Regression
-2015,X10,X,X10,10,Davidson,A10,0,R64,0.5,0.5,Gradient Boosting Regression
-2015,X11,X,X11,11,UCLA,P12,2,S16,1.0794,0.9206,Gradient Boosting Regression
-2015,X12,X,X12,12,Stephen F. Austin,Slnd,0,R64,0.4708,0.4708,Gradient Boosting Regression
-2015,X13,X,X13,13,Eastern Washington,BSky,0,R64,0.0,0.0,Gradient Boosting Regression
-2015,X14,X,X14,14,UAB,CUSA,1,R32,0.1384,0.8616,Gradient Boosting Regression
-2015,X15,X,X15,15,North Dakota St.,Sum,0,R64,0.0,0.0,Gradient Boosting Regression
-2015,X16a,X,X16,16,North Florida,ASun,0,R68,0.1545,0.1545,Gradient Boosting Regression
-2015,X16b,X,X16,16,Robert Morris,NEC,0,R64,0.2651,0.2651,Gradient Boosting Regression
-2015,Y01,Y,Y01,1,Kentucky,SEC,4,F4,4.8369,0.8369,Gradient Boosting Regression
-2015,Y02,Y,Y02,2,Kansas,B12,1,R32,1.3696,0.3696,Gradient Boosting Regression
-2015,Y03,Y,Y03,3,Notre Dame,ACC,3,E8,3.2168,0.2168,Gradient Boosting Regression
-2015,Y04,Y,Y04,4,Maryland,B10,1,R32,1.0821,0.0821,Gradient Boosting Regression
-2015,Y05,Y,Y05,5,West Virginia,B12,2,S16,0.9402,1.0598,Gradient Boosting Regression
-2015,Y06,Y,Y06,6,Butler,BE,1,R32,0.3168,0.6832,Gradient Boosting Regression
-2015,Y07,Y,Y07,7,Wichita St.,MVC,2,S16,0.706,1.294,Gradient Boosting Regression
-2015,Y08,Y,Y08,8,Cincinnati,Amer,1,R32,0.0,1.0,Gradient Boosting Regression
-2015,Y09,Y,Y09,9,Purdue,B10,0,R64,0.3323,0.3323,Gradient Boosting Regression
-2015,Y10,Y,Y10,10,Indiana,B10,0,R64,0.1821,0.1821,Gradient Boosting Regression
-2015,Y11,Y,Y11,11,Texas,B12,0,R64,0.3747,0.3747,Gradient Boosting Regression
-2015,Y12,Y,Y12,12,Buffalo,MAC,0,R64,0.2211,0.2211,Gradient Boosting Regression
-2015,Y13,Y,Y13,13,Valparaiso,Horz,0,R64,0.1845,0.1845,Gradient Boosting Regression
-2015,Y14,Y,Y14,14,Northeastern,CAA,0,R64,0.3844,0.3844,Gradient Boosting Regression
-2015,Y15,Y,Y15,15,New Mexico St.,WAC,0,R64,0.2347,0.2347,Gradient Boosting Regression
-2015,Y16a,Y,Y16,16,Hampton,MEAC,0,R64,0.1425,0.1425,Gradient Boosting Regression
-2015,Y16b,Y,Y16,16,Manhattan,MAAC,0,R68,0.0,0.0,Gradient Boosting Regression
-2015,Z01,Z,Z01,1,Wisconsin,B10,5,2ND,5.6458,0.6458,Gradient Boosting Regression
-2015,Z02,Z,Z02,2,Arizona,P12,3,E8,4.5401,1.5401,Gradient Boosting Regression
-2015,Z03,Z,Z03,3,Baylor,B12,0,R64,1.641,1.641,Gradient Boosting Regression
-2015,Z04,Z,Z04,4,North Carolina,ACC,2,S16,3.4843,1.4843,Gradient Boosting Regression
-2015,Z05,Z,Z05,5,Arkansas,SEC,1,R32,1.0915,0.0915,Gradient Boosting Regression
-2015,Z06,Z,Z06,6,Xavier,BE,2,S16,2.3312,0.3312,Gradient Boosting Regression
-2015,Z07,Z,Z07,7,VCU,A10,0,R64,1.0715,1.0715,Gradient Boosting Regression
-2015,Z08,Z,Z08,8,Oregon,P12,1,R32,0.6226,0.3774,Gradient Boosting Regression
-2015,Z09,Z,Z09,9,Oklahoma St.,B12,0,R64,0.175,0.175,Gradient Boosting Regression
-2015,Z10,Z,Z10,10,Ohio St.,B10,1,R32,1.2971,0.2971,Gradient Boosting Regression
-2015,Z11a,Z,Z11,11,BYU,WCC,0,R68,0.4184,0.4184,Gradient Boosting Regression
-2015,Z11b,Z,Z11,11,Mississippi,SEC,0,R64,0.0121,0.0121,Gradient Boosting Regression
-2015,Z12,Z,Z12,12,Wofford,SC,0,R64,0.1748,0.1748,Gradient Boosting Regression
-2015,Z13,Z,Z13,13,Harvard,Ivy,0,R64,0.2495,0.2495,Gradient Boosting Regression
-2015,Z14,Z,Z14,14,Georgia St.,SB,1,R32,0.2596,0.7404,Gradient Boosting Regression
-2015,Z15,Z,Z15,15,Texas Southern,SWAC,0,R64,0.1528,0.1528,Gradient Boosting Regression
-2015,Z16,Z,Z16,16,Coastal Carolina,BSth,0,R64,0.0,0.0,Gradient Boosting Regression
-2016,W01,W,W01,1,North Carolina,ACC,5,2ND,5.1558,0.1558,Gradient Boosting Regression
-2016,W02,W,W02,2,Xavier,BE,1,R32,0.738,0.262,Gradient Boosting Regression
-2016,W03,W,W03,3,West Virginia,B12,0,R64,1.9198,1.9198,Gradient Boosting Regression
-2016,W04,W,W04,4,Kentucky,SEC,1,R32,1.6123,0.6123,Gradient Boosting Regression
-2016,W05,W,W05,5,Indiana,B10,2,S16,0.8426,1.1574,Gradient Boosting Regression
-2016,W06,W,W06,6,Notre Dame,ACC,3,E8,0.9146,2.0854,Gradient Boosting Regression
-2016,W07,W,W07,7,Wisconsin,B10,2,S16,0.5289,1.4711,Gradient Boosting Regression
-2016,W08,W,W08,8,USC,P12,0,R64,0.1802,0.1802,Gradient Boosting Regression
-2016,W09,W,W09,9,Providence,BE,1,R32,0.4725,0.5275,Gradient Boosting Regression
-2016,W10,W,W10,10,Pittsburgh,ACC,0,R64,0.1637,0.1637,Gradient Boosting Regression
-2016,W11a,W,W11,11,Michigan,B10,0,R64,0.4574,0.4574,Gradient Boosting Regression
-2016,W11b,W,W11,11,Tulsa,Amer,0,R68,0.1081,0.1081,Gradient Boosting Regression
-2016,W12,W,W12,12,Chattanooga,SC,0,R64,0.0439,0.0439,Gradient Boosting Regression
-2016,W13,W,W13,13,Stony Brook,AE,0,R64,0.0421,0.0421,Gradient Boosting Regression
-2016,W14,W,W14,14,Stephen F. Austin,Slnd,1,R32,0.3785,0.6215,Gradient Boosting Regression
-2016,W15,W,W15,15,Weber St.,BSky,0,R64,0.0407,0.0407,Gradient Boosting Regression
-2016,W16a,W,W16,16,Fairleigh Dickinson,NEC,0,R68,0.0,0.0,Gradient Boosting Regression
-2016,W16b,W,W16,16,Florida Gulf Coast,ASun,0,R64,0.1856,0.1856,Gradient Boosting Regression
-2016,X01,X,X01,1,Virginia,ACC,3,E8,2.8871,0.1129,Gradient Boosting Regression
-2016,X02,X,X02,2,Michigan St.,B10,0,R64,0.9638,0.9638,Gradient Boosting Regression
-2016,X03,X,X03,3,Utah,P12,1,R32,1.0811,0.0811,Gradient Boosting Regression
-2016,X04,X,X04,4,Iowa St.,B12,2,S16,0.8072,1.1928,Gradient Boosting Regression
-2016,X05,X,X05,5,Purdue,B10,0,R64,1.0556,1.0556,Gradient Boosting Regression
-2016,X06,X,X06,6,Seton Hall,BE,0,R64,0.8051,0.8051,Gradient Boosting Regression
-2016,X07,X,X07,7,Dayton,A10,0,R64,0.1318,0.1318,Gradient Boosting Regression
-2016,X08,X,X08,8,Texas Tech,B12,0,R64,0.2012,0.2012,Gradient Boosting Regression
-2016,X09,X,X09,9,Butler,BE,1,R32,0.4136,0.5864,Gradient Boosting Regression
-2016,X10,X,X10,10,Syracuse,ACC,4,F4,2.074,1.926,Gradient Boosting Regression
-2016,X11,X,X11,11,Gonzaga,WCC,2,S16,0.9486,1.0514,Gradient Boosting Regression
-2016,X12,X,X12,12,Arkansas Little Rock,SB,1,R32,0.1199,0.8801,Gradient Boosting Regression
-2016,X13,X,X13,13,Iona,MAAC,0,R64,0.1077,0.1077,Gradient Boosting Regression
-2016,X14,X,X14,14,Fresno St.,MWC,0,R64,0.0464,0.0464,Gradient Boosting Regression
-2016,X15,X,X15,15,Middle Tennessee,CUSA,1,R32,0.0083,0.9917,Gradient Boosting Regression
-2016,X16,X,X16,16,Hampton,MEAC,0,R64,0.0,0.0,Gradient Boosting Regression
-2016,Y01,Y,Y01,1,Kansas,B12,3,E8,2.0833,0.9167,Gradient Boosting Regression
-2016,Y02,Y,Y02,2,Villanova,BE,6,Champions,5.2377,0.7623,Gradient Boosting Regression
-2016,Y03,Y,Y03,3,Miami FL,ACC,2,S16,1.0323,0.9677,Gradient Boosting Regression
-2016,Y04,Y,Y04,4,California,P12,0,R64,0.7889,0.7889,Gradient Boosting Regression
-2016,Y05,Y,Y05,5,Maryland,B10,2,S16,0.7895,1.2105,Gradient Boosting Regression
-2016,Y06,Y,Y06,6,Arizona,P12,0,R64,0.5637,0.5637,Gradient Boosting Regression
-2016,Y07,Y,Y07,7,Iowa,B10,1,R32,0.2337,0.7663,Gradient Boosting Regression
-2016,Y08,Y,Y08,8,Colorado,P12,0,R64,0.0,0.0,Gradient Boosting Regression
-2016,Y09,Y,Y09,9,Connecticut,Amer,1,R32,1.2342,0.2342,Gradient Boosting Regression
-2016,Y10,Y,Y10,10,Temple,Amer,0,R64,0.02,0.02,Gradient Boosting Regression
-2016,Y11a,Y,Y11,11,Vanderbilt,SEC,0,R68,0.4719,0.4719,Gradient Boosting Regression
-2016,Y11b,Y,Y11,11,Wichita St.,MVC,1,R32,1.2252,0.2252,Gradient Boosting Regression
-2016,Y12,Y,Y12,12,South Dakota St.,Sum,0,R64,0.1886,0.1886,Gradient Boosting Regression
-2016,Y13,Y,Y13,13,Hawaii,BW,1,R32,0.0365,0.9635,Gradient Boosting Regression
-2016,Y14,Y,Y14,14,Buffalo,MAC,0,R64,0.0,0.0,Gradient Boosting Regression
-2016,Y15,Y,Y15,15,UNC Asheville,BSth,0,R64,0.0285,0.0285,Gradient Boosting Regression
-2016,Y16,Y,Y16,16,Austin Peay,OVC,0,R64,0.0,0.0,Gradient Boosting Regression
-2016,Z01,Z,Z01,1,Oregon,P12,3,E8,2.3338,0.6662,Gradient Boosting Regression
-2016,Z02,Z,Z02,2,Oklahoma,B12,4,F4,2.4599,1.5401,Gradient Boosting Regression
-2016,Z03,Z,Z03,3,Texas A&M,SEC,2,S16,2.3505,0.3505,Gradient Boosting Regression
-2016,Z04,Z,Z04,4,Duke,ACC,2,S16,1.2329,0.7671,Gradient Boosting Regression
-2016,Z05,Z,Z05,5,Baylor,B12,0,R64,0.3767,0.3767,Gradient Boosting Regression
-2016,Z06,Z,Z06,6,Texas,B12,0,R64,0.2285,0.2285,Gradient Boosting Regression
-2016,Z07,Z,Z07,7,Oregon St.,P12,0,R64,0.1123,0.1123,Gradient Boosting Regression
-2016,Z08,Z,Z08,8,Saint Joseph's,A10,1,R32,0.921,0.079,Gradient Boosting Regression
-2016,Z09,Z,Z09,9,Cincinnati,Amer,0,R64,0.3181,0.3181,Gradient Boosting Regression
-2016,Z10,Z,Z10,10,VCU,A10,1,R32,1.2048,0.2048,Gradient Boosting Regression
-2016,Z11,Z,Z11,11,Northern Iowa,MVC,1,R32,0.5533,0.4467,Gradient Boosting Regression
-2016,Z12,Z,Z12,12,Yale,Ivy,1,R32,0.0,1.0,Gradient Boosting Regression
-2016,Z13,Z,Z13,13,UNC Wilmington,CAA,0,R64,0.2579,0.2579,Gradient Boosting Regression
-2016,Z14,Z,Z14,14,Green Bay,Horz,0,R64,0.0,0.0,Gradient Boosting Regression
-2016,Z15,Z,Z15,15,Cal St. Bakersfield,WAC,0,R64,0.044,0.044,Gradient Boosting Regression
-2016,Z16a,Z,Z16,16,Holy Cross,Pat,0,R64,0.0333,0.0333,Gradient Boosting Regression
-2016,Z16b,Z,Z16,16,Southern,SWAC,0,R68,0.0,0.0,Gradient Boosting Regression
-2017,W01,W,W01,1,Villanova,BE,1,R32,2.1587,1.1587,Gradient Boosting Regression
-2017,W02,W,W02,2,Duke,ACC,1,R32,2.7552,1.7552,Gradient Boosting Regression
-2017,W03,W,W03,3,Baylor,B12,2,S16,0.7771,1.2229,Gradient Boosting Regression
-2017,W04,W,W04,4,Florida,SEC,3,E8,1.7077,1.2923,Gradient Boosting Regression
-2017,W05,W,W05,5,Virginia,ACC,1,R32,0.6844,0.3156,Gradient Boosting Regression
-2017,W06,W,W06,6,SMU,Amer,0,R64,1.1108,1.1108,Gradient Boosting Regression
-2017,W07,W,W07,7,South Carolina,SEC,4,F4,0.978,3.022,Gradient Boosting Regression
-2017,W08,W,W08,8,Wisconsin,B10,2,S16,2.5593,0.5593,Gradient Boosting Regression
-2017,W09,W,W09,9,Virginia Tech,ACC,0,R64,0.705,0.705,Gradient Boosting Regression
-2017,W10,W,W10,10,Marquette,BE,0,R64,0.5138,0.5138,Gradient Boosting Regression
-2017,W11a,W,W11,11,Providence,BE,0,R68,0.2007,0.2007,Gradient Boosting Regression
-2017,W11b,W,W11,11,USC,P12,1,R32,0.7138,0.2862,Gradient Boosting Regression
-2017,W12,W,W12,12,UNC Wilmington,CAA,0,R64,0.4364,0.4364,Gradient Boosting Regression
-2017,W13,W,W13,13,East Tennessee St.,SC,0,R64,0.1913,0.1913,Gradient Boosting Regression
-2017,W14,W,W14,14,New Mexico St.,WAC,0,R64,0.2964,0.2964,Gradient Boosting Regression
-2017,W15,W,W15,15,Troy,SB,0,R64,0.5145,0.5145,Gradient Boosting Regression
-2017,W16a,W,W16,16,Mount St. Mary's,NEC,0,R64,0.6518,0.6518,Gradient Boosting Regression
-2017,W16b,W,W16,16,New Orleans,Slnd,0,R68,0.0,0.0,Gradient Boosting Regression
-2017,X01,X,X01,1,Gonzaga,WCC,5,2ND,4.7966,0.2034,Gradient Boosting Regression
-2017,X02,X,X02,2,Arizona,P12,2,S16,2.7973,0.7973,Gradient Boosting Regression
-2017,X03,X,X03,3,Florida St.,ACC,1,R32,1.0112,0.0112,Gradient Boosting Regression
-2017,X04,X,X04,4,West Virginia,B12,2,S16,2.3912,0.3912,Gradient Boosting Regression
-2017,X05,X,X05,5,Notre Dame,ACC,1,R32,1.8042,0.8042,Gradient Boosting Regression
-2017,X06,X,X06,6,Maryland,B10,0,R64,0.4367,0.4367,Gradient Boosting Regression
-2017,X07,X,X07,7,Saint Mary's,WCC,1,R32,0.8282,0.1718,Gradient Boosting Regression
-2017,X08,X,X08,8,Northwestern,B10,1,R32,1.218,0.218,Gradient Boosting Regression
-2017,X09,X,X09,9,Vanderbilt,SEC,0,R64,1.0398,1.0398,Gradient Boosting Regression
-2017,X10,X,X10,10,VCU,A10,0,R64,0.4389,0.4389,Gradient Boosting Regression
-2017,X11,X,X11,11,Xavier,BE,3,E8,2.6854,0.3146,Gradient Boosting Regression
-2017,X12,X,X12,12,Princeton,Ivy,0,R64,0.1556,0.1556,Gradient Boosting Regression
-2017,X13,X,X13,13,Bucknell,Pat,0,R64,0.5321,0.5321,Gradient Boosting Regression
-2017,X14,X,X14,14,Florida Gulf Coast,ASun,0,R64,0.3915,0.3915,Gradient Boosting Regression
-2017,X15,X,X15,15,North Dakota,BSky,0,R64,0.0401,0.0401,Gradient Boosting Regression
-2017,X16,X,X16,16,South Dakota St.,Sum,0,R64,0.0091,0.0091,Gradient Boosting Regression
-2017,Y01,Y,Y01,1,Kansas,B12,3,E8,2.0105,0.9895,Gradient Boosting Regression
-2017,Y02,Y,Y02,2,Louisville,ACC,1,R32,0.5032,0.4968,Gradient Boosting Regression
-2017,Y03,Y,Y03,3,Oregon,P12,4,F4,3.8595,0.1405,Gradient Boosting Regression
-2017,Y04,Y,Y04,4,Purdue,B10,2,S16,1.2448,0.7552,Gradient Boosting Regression
-2017,Y05,Y,Y05,5,Iowa St.,B12,1,R32,1.2718,0.2718,Gradient Boosting Regression
-2017,Y06,Y,Y06,6,Creighton,BE,0,R64,0.7508,0.7508,Gradient Boosting Regression
-2017,Y07,Y,Y07,7,Michigan,B10,2,S16,3.6508,1.6508,Gradient Boosting Regression
-2017,Y08,Y,Y08,8,Miami FL,ACC,0,R64,0.6616,0.6616,Gradient Boosting Regression
-2017,Y09,Y,Y09,9,Michigan St.,B10,1,R32,0.8042,0.1958,Gradient Boosting Regression
-2017,Y10,Y,Y10,10,Oklahoma St.,B12,0,R64,0.254,0.254,Gradient Boosting Regression
-2017,Y11,Y,Y11,11,Rhode Island,A10,1,R32,0.7366,0.2634,Gradient Boosting Regression
-2017,Y12,Y,Y12,12,Nevada,MWC,0,R64,0.6317,0.6317,Gradient Boosting Regression
-2017,Y13,Y,Y13,13,Vermont,AE,0,R64,0.6352,0.6352,Gradient Boosting Regression
-2017,Y14,Y,Y14,14,Iona,MAAC,0,R64,0.6325,0.6325,Gradient Boosting Regression
-2017,Y15,Y,Y15,15,Jacksonville St.,OVC,0,R64,0.0938,0.0938,Gradient Boosting Regression
-2017,Y16a,Y,Y16,16,North Carolina Central,MEAC,0,R68,0.2077,0.2077,Gradient Boosting Regression
-2017,Y16b,Y,Y16,16,UC Davis,BW,0,R64,0.0112,0.0112,Gradient Boosting Regression
-2017,Z01,Z,Z01,1,North Carolina,ACC,6,Champions,3.8249,2.1751,Gradient Boosting Regression
-2017,Z02,Z,Z02,2,Kentucky,SEC,3,E8,3.5481,0.5481,Gradient Boosting Regression
-2017,Z03,Z,Z03,3,UCLA,P12,2,S16,1.9124,0.0876,Gradient Boosting Regression
-2017,Z04,Z,Z04,4,Butler,BE,2,S16,0.4879,1.5121,Gradient Boosting Regression
-2017,Z05,Z,Z05,5,Minnesota,B10,0,R64,0.4686,0.4686,Gradient Boosting Regression
-2017,Z06,Z,Z06,6,Cincinnati,Amer,1,R32,1.4696,0.4696,Gradient Boosting Regression
-2017,Z07,Z,Z07,7,Dayton,A10,0,R64,0.4349,0.4349,Gradient Boosting Regression
-2017,Z08,Z,Z08,8,Arkansas,SEC,1,R32,1.1084,0.1084,Gradient Boosting Regression
-2017,Z09,Z,Z09,9,Seton Hall,BE,0,R64,0.0335,0.0335,Gradient Boosting Regression
-2017,Z10,Z,Z10,10,Wichita St.,MVC,1,R32,1.24,0.24,Gradient Boosting Regression
-2017,Z11a,Z,Z11,11,Kansas St.,B12,0,R64,0.8533,0.8533,Gradient Boosting Regression
-2017,Z11b,Z,Z11,11,Wake Forest,ACC,0,R68,0.3702,0.3702,Gradient Boosting Regression
-2017,Z12,Z,Z12,12,Middle Tennessee,CUSA,1,R32,0.8021,0.1979,Gradient Boosting Regression
-2017,Z13,Z,Z13,13,Winthrop,BSth,0,R64,0.1217,0.1217,Gradient Boosting Regression
-2017,Z14,Z,Z14,14,Kent St.,MAC,0,R64,0.2482,0.2482,Gradient Boosting Regression
-2017,Z15,Z,Z15,15,Northern Kentucky,Horz,0,R64,0.0713,0.0713,Gradient Boosting Regression
-2017,Z16,Z,Z16,16,Texas Southern,SWAC,0,R64,1.3862,1.3862,Gradient Boosting Regression
-2018,W01,W,W01,1,Villanova,BE,6,Champions,5.7833,0.2167,Gradient Boosting Regression
-2018,W02,W,W02,2,Purdue,B10,2,S16,2.9164,0.9164,Gradient Boosting Regression
-2018,W03,W,W03,3,Texas Tech,B12,3,E8,2.3908,0.6092,Gradient Boosting Regression
-2018,W04,W,W04,4,Wichita St.,Amer,0,R64,0.5821,0.5821,Gradient Boosting Regression
-2018,W05,W,W05,5,West Virginia,B12,2,S16,2.4987,0.4987,Gradient Boosting Regression
-2018,W06,W,W06,6,Florida,SEC,1,R32,0.443,0.557,Gradient Boosting Regression
-2018,W07,W,W07,7,Arkansas,SEC,0,R64,0.6297,0.6297,Gradient Boosting Regression
-2018,W08,W,W08,8,Virginia Tech,ACC,0,R64,0.1721,0.1721,Gradient Boosting Regression
-2018,W09,W,W09,9,Alabama,SEC,1,R32,0.6935,0.3065,Gradient Boosting Regression
-2018,W10,W,W10,10,Butler,BE,1,R32,0.6379,0.3621,Gradient Boosting Regression
-2018,W11a,W,W11,11,St. Bonaventure,A10,0,R64,0.2201,0.2201,Gradient Boosting Regression
-2018,W11b,W,W11,11,UCLA,P12,0,R68,0.0679,0.0679,Gradient Boosting Regression
-2018,W12,W,W12,12,Murray St.,OVC,0,R64,0.3045,0.3045,Gradient Boosting Regression
-2018,W13,W,W13,13,Marshall,CUSA,1,R32,0.3766,0.6234,Gradient Boosting Regression
-2018,W14,W,W14,14,Stephen F. Austin,Slnd,0,R64,0.3301,0.3301,Gradient Boosting Regression
-2018,W15,W,W15,15,Cal St. Fullerton,BW,0,R64,0.0,0.0,Gradient Boosting Regression
-2018,W16a,W,W16,16,LIU Brooklyn,NEC,0,R68,0.0,0.0,Gradient Boosting Regression
-2018,W16b,W,W16,16,Radford,BSth,0,R64,0.0953,0.0953,Gradient Boosting Regression
-2018,X01,X,X01,1,Kansas,B12,4,F4,4.2766,0.2766,Gradient Boosting Regression
-2018,X02,X,X02,2,Duke,ACC,3,E8,2.8661,0.1339,Gradient Boosting Regression
-2018,X03,X,X03,3,Michigan St.,B10,1,R32,1.061,0.061,Gradient Boosting Regression
-2018,X04,X,X04,4,Auburn,SEC,1,R32,0.5641,0.4359,Gradient Boosting Regression
-2018,X05,X,X05,5,Clemson,ACC,2,S16,0.8083,1.1917,Gradient Boosting Regression
-2018,X06,X,X06,6,TCU,B12,0,R64,0.3995,0.3995,Gradient Boosting Regression
-2018,X07,X,X07,7,Rhode Island,A10,1,R32,0.2086,0.7914,Gradient Boosting Regression
-2018,X08,X,X08,8,Seton Hall,BE,1,R32,0.5035,0.4965,Gradient Boosting Regression
-2018,X09,X,X09,9,North Carolina St.,ACC,0,R64,0.2615,0.2615,Gradient Boosting Regression
-2018,X10,X,X10,10,Oklahoma,B12,0,R64,0.2341,0.2341,Gradient Boosting Regression
-2018,X11a,X,X11,11,Arizona St.,P12,0,R68,0.1087,0.1087,Gradient Boosting Regression
-2018,X11b,X,X11,11,Syracuse,ACC,2,S16,2.2289,0.2289,Gradient Boosting Regression
-2018,X12,X,X12,12,New Mexico St.,WAC,0,R64,0.1016,0.1016,Gradient Boosting Regression
-2018,X13,X,X13,13,College of Charleston,CAA,0,R64,0.1454,0.1454,Gradient Boosting Regression
-2018,X14,X,X14,14,Bucknell,Pat,0,R64,0.0937,0.0937,Gradient Boosting Regression
-2018,X15,X,X15,15,Iona,MAAC,0,R64,0.0,0.0,Gradient Boosting Regression
-2018,X16,X,X16,16,Penn,Ivy,0,R64,0.0049,0.0049,Gradient Boosting Regression
-2018,Y01,Y,Y01,1,Virginia,ACC,0,R64,1.0574,1.0574,Gradient Boosting Regression
-2018,Y02,Y,Y02,2,Cincinnati,Amer,1,R32,1.4627,0.4627,Gradient Boosting Regression
-2018,Y03,Y,Y03,3,Tennessee,SEC,1,R32,1.2377,0.2377,Gradient Boosting Regression
-2018,Y04,Y,Y04,4,Arizona,P12,0,R64,0.964,0.964,Gradient Boosting Regression
-2018,Y05,Y,Y05,5,Kentucky,SEC,2,S16,2.1354,0.1354,Gradient Boosting Regression
-2018,Y06,Y,Y06,6,Miami FL,ACC,0,R64,0.3621,0.3621,Gradient Boosting Regression
-2018,Y07,Y,Y07,7,Nevada,MWC,2,S16,2.2874,0.2874,Gradient Boosting Regression
-2018,Y08,Y,Y08,8,Creighton,BE,0,R64,0.2492,0.2492,Gradient Boosting Regression
-2018,Y09,Y,Y09,9,Kansas St.,B12,3,E8,2.2362,0.7638,Gradient Boosting Regression
-2018,Y10,Y,Y10,10,Texas,B12,0,R64,0.3494,0.3494,Gradient Boosting Regression
-2018,Y11,Y,Y11,11,Loyola Chicago,MVC,4,F4,2.315,1.685,Gradient Boosting Regression
-2018,Y12,Y,Y12,12,Davidson,A10,0,R64,0.0762,0.0762,Gradient Boosting Regression
-2018,Y13,Y,Y13,13,Buffalo,MAC,1,R32,0.4155,0.5845,Gradient Boosting Regression
-2018,Y14,Y,Y14,14,Wright St.,Horz,0,R64,0.0482,0.0482,Gradient Boosting Regression
-2018,Y15,Y,Y15,15,Georgia St.,SB,0,R64,0.1843,0.1843,Gradient Boosting Regression
-2018,Y16,Y,Y16,16,UMBC,AE,1,R32,0.0177,0.9823,Gradient Boosting Regression
-2018,Z01,Z,Z01,1,Xavier,BE,1,R32,1.2647,0.2647,Gradient Boosting Regression
-2018,Z02,Z,Z02,2,North Carolina,ACC,1,R32,2.3774,1.3774,Gradient Boosting Regression
-2018,Z03,Z,Z03,3,Michigan,B10,5,2ND,4.76,0.24,Gradient Boosting Regression
-2018,Z04,Z,Z04,4,Gonzaga,WCC,2,S16,2.5126,0.5126,Gradient Boosting Regression
-2018,Z05,Z,Z05,5,Ohio St.,B10,1,R32,0.7467,0.2533,Gradient Boosting Regression
-2018,Z06,Z,Z06,6,Houston,Amer,1,R32,0.8834,0.1166,Gradient Boosting Regression
-2018,Z07,Z,Z07,7,Texas A&M,SEC,2,S16,0.6101,1.3899,Gradient Boosting Regression
-2018,Z08,Z,Z08,8,Missouri,SEC,0,R64,0.4403,0.4403,Gradient Boosting Regression
-2018,Z09,Z,Z09,9,Florida St.,ACC,3,E8,0.5782,2.4218,Gradient Boosting Regression
-2018,Z10,Z,Z10,10,Providence,BE,0,R64,0.2219,0.2219,Gradient Boosting Regression
-2018,Z11,Z,Z11,11,San Diego St.,MWC,0,R64,0.2668,0.2668,Gradient Boosting Regression
-2018,Z12,Z,Z12,12,South Dakota St.,Sum,0,R64,0.0,0.0,Gradient Boosting Regression
-2018,Z13,Z,Z13,13,UNC Greensboro,SC,0,R64,0.1857,0.1857,Gradient Boosting Regression
-2018,Z14,Z,Z14,14,Montana,BSky,0,R64,0.1588,0.1588,Gradient Boosting Regression
-2018,Z15,Z,Z15,15,Lipscomb,ASun,0,R64,0.3066,0.3066,Gradient Boosting Regression
-2018,Z16a,Z,Z16,16,North Carolina Central,MEAC,0,R68,0.0453,0.0453,Gradient Boosting Regression
-2018,Z16b,Z,Z16,16,Texas Southern,SWAC,0,R64,0.4892,0.4892,Gradient Boosting Regression
-2019,W01,W,W01,1,Duke,ACC,3,E8,3.3389,0.3389,Gradient Boosting Regression
-2019,W02,W,W02,2,Michigan St.,B10,4,F4,4.8261,0.8261,Gradient Boosting Regression
-2019,W03,W,W03,3,LSU,SEC,2,S16,1.0255,0.9745,Gradient Boosting Regression
-2019,W04,W,W04,4,Virginia Tech,ACC,2,S16,1.257,0.743,Gradient Boosting Regression
-2019,W05,W,W05,5,Mississippi St.,SEC,0,R64,0.8031,0.8031,Gradient Boosting Regression
-2019,W06,W,W06,6,Maryland,B10,1,R32,0.6562,0.3438,Gradient Boosting Regression
-2019,W07,W,W07,7,Louisville,ACC,0,R64,0.7251,0.7251,Gradient Boosting Regression
-2019,W08,W,W08,8,VCU,A10,0,R64,0.4799,0.4799,Gradient Boosting Regression
-2019,W09,W,W09,9,UCF,Amer,1,R32,0.6057,0.3943,Gradient Boosting Regression
-2019,W10,W,W10,10,Minnesota,B10,1,R32,1.1237,0.1237,Gradient Boosting Regression
-2019,W11a,W,W11,11,Belmont,OVC,0,R64,0.0709,0.0709,Gradient Boosting Regression
-2019,W11b,W,W11,11,Temple,Amer,0,R68,0.2145,0.2145,Gradient Boosting Regression
-2019,W12,W,W12,12,Liberty,BSth,1,R32,0.3673,0.6327,Gradient Boosting Regression
-2019,W13,W,W13,13,Saint Louis,A10,0,R64,0.7892,0.7892,Gradient Boosting Regression
-2019,W14,W,W14,14,Yale,Ivy,0,R64,0.2047,0.2047,Gradient Boosting Regression
-2019,W15,W,W15,15,Bradley,MVC,0,R64,0.0,0.0,Gradient Boosting Regression
-2019,W16a,W,W16,16,North Dakota St.,Sum,0,R64,0.1395,0.1395,Gradient Boosting Regression
-2019,W16b,W,W16,16,North Carolina Central,MEAC,0,R68,0.0,0.0,Gradient Boosting Regression
-2019,X01,X,X01,1,Gonzaga,WCC,3,E8,2.9484,0.0516,Gradient Boosting Regression
-2019,X02,X,X02,2,Michigan,B10,2,S16,2.212,0.212,Gradient Boosting Regression
-2019,X03,X,X03,3,Texas Tech,B12,5,2ND,3.1651,1.8349,Gradient Boosting Regression
-2019,X04,X,X04,4,Florida St.,ACC,2,S16,2.7357,0.7357,Gradient Boosting Regression
-2019,X05,X,X05,5,Marquette,BE,0,R64,0.4809,0.4809,Gradient Boosting Regression
-2019,X06,X,X06,6,Buffalo,MAC,1,R32,0.9004,0.0996,Gradient Boosting Regression
-2019,X07,X,X07,7,Nevada,MWC,0,R64,0.5924,0.5924,Gradient Boosting Regression
-2019,X08,X,X08,8,Syracuse,ACC,0,R64,0.4622,0.4622,Gradient Boosting Regression
-2019,X09,X,X09,9,Baylor,B12,1,R32,0.0676,0.9324,Gradient Boosting Regression
-2019,X10,X,X10,10,Florida,SEC,1,R32,1.4097,0.4097,Gradient Boosting Regression
-2019,X11a,X,X11,11,Arizona St.,P12,0,R64,0.167,0.167,Gradient Boosting Regression
-2019,X11b,X,X11,11,St. John's,BE,0,R68,0.0672,0.0672,Gradient Boosting Regression
-2019,X12,X,X12,12,Murray St.,OVC,1,R32,0.1847,0.8153,Gradient Boosting Regression
-2019,X13,X,X13,13,Vermont,AE,0,R64,0.091,0.091,Gradient Boosting Regression
-2019,X14,X,X14,14,Northern Kentucky,Horz,0,R64,0.1274,0.1274,Gradient Boosting Regression
-2019,X15,X,X15,15,Montana,BSky,0,R64,0.0616,0.0616,Gradient Boosting Regression
-2019,X16a,X,X16,16,Fairleigh Dickinson,NEC,0,R64,0.107,0.107,Gradient Boosting Regression
-2019,X16b,X,X16,16,Prairie View A&M,SWAC,0,R68,0.0508,0.0508,Gradient Boosting Regression
-2019,Y01,Y,Y01,1,North Carolina,ACC,2,S16,1.8441,0.1559,Gradient Boosting Regression
-2019,Y02,Y,Y02,2,Kentucky,SEC,3,E8,2.4714,0.5286,Gradient Boosting Regression
-2019,Y03,Y,Y03,3,Houston,Amer,2,S16,2.4785,0.4785,Gradient Boosting Regression
-2019,Y04,Y,Y04,4,Kansas,B12,1,R32,1.7825,0.7825,Gradient Boosting Regression
-2019,Y05,Y,Y05,5,Auburn,SEC,4,F4,4.554,0.554,Gradient Boosting Regression
-2019,Y06,Y,Y06,6,Iowa St.,B12,0,R64,1.254,1.254,Gradient Boosting Regression
-2019,Y07,Y,Y07,7,Wofford,SC,1,R32,0.6004,0.3996,Gradient Boosting Regression
-2019,Y08,Y,Y08,8,Utah St.,MWC,0,R64,0.4523,0.4523,Gradient Boosting Regression
-2019,Y09,Y,Y09,9,Washington,P12,1,R32,0.9831,0.0169,Gradient Boosting Regression
-2019,Y10,Y,Y10,10,Seton Hall,BE,0,R64,0.0627,0.0627,Gradient Boosting Regression
-2019,Y11,Y,Y11,11,Ohio St.,B10,1,R32,0.3404,0.6596,Gradient Boosting Regression
-2019,Y12,Y,Y12,12,New Mexico St.,WAC,0,R64,0.2973,0.2973,Gradient Boosting Regression
-2019,Y13,Y,Y13,13,Northeastern,CAA,0,R64,0.1579,0.1579,Gradient Boosting Regression
-2019,Y14,Y,Y14,14,Georgia St.,SB,0,R64,0.0123,0.0123,Gradient Boosting Regression
-2019,Y15,Y,Y15,15,Abilene Christian,Slnd,0,R64,0.0714,0.0714,Gradient Boosting Regression
-2019,Y16,Y,Y16,16,Iona,MAAC,0,R64,0.0041,0.0041,Gradient Boosting Regression
-2019,Z01,Z,Z01,1,Virginia,ACC,6,Champions,3.0514,2.9486,Gradient Boosting Regression
-2019,Z02,Z,Z02,2,Tennessee,SEC,2,S16,1.7966,0.2034,Gradient Boosting Regression
-2019,Z03,Z,Z03,3,Purdue,B10,3,E8,1.5831,1.4169,Gradient Boosting Regression
-2019,Z04,Z,Z04,4,Kansas St.,B12,0,R64,0.7596,0.7596,Gradient Boosting Regression
-2019,Z05,Z,Z05,5,Wisconsin,B10,0,R64,0.6067,0.6067,Gradient Boosting Regression
-2019,Z06,Z,Z06,6,Villanova,BE,1,R32,1.2546,0.2546,Gradient Boosting Regression
-2019,Z07,Z,Z07,7,Cincinnati,Amer,0,R64,0.9293,0.9293,Gradient Boosting Regression
-2019,Z08,Z,Z08,8,Mississippi,SEC,0,R64,0.2695,0.2695,Gradient Boosting Regression
-2019,Z09,Z,Z09,9,Oklahoma,B12,1,R32,0.3696,0.6304,Gradient Boosting Regression
-2019,Z10,Z,Z10,10,Iowa,B10,1,R32,0.3587,0.6413,Gradient Boosting Regression
-2019,Z11,Z,Z11,11,Saint Mary's,WCC,0,R64,0.4255,0.4255,Gradient Boosting Regression
-2019,Z12,Z,Z12,12,Oregon,P12,2,S16,2.25,0.25,Gradient Boosting Regression
-2019,Z13,Z,Z13,13,UC Irvine,BW,1,R32,0.6311,0.3689,Gradient Boosting Regression
-2019,Z14,Z,Z14,14,Old Dominion,CUSA,0,R64,0.4859,0.4859,Gradient Boosting Regression
-2019,Z15,Z,Z15,15,Colgate,Pat,0,R64,0.2716,0.2716,Gradient Boosting Regression
-2019,Z16,Z,Z16,16,Gardner Webb,BSth,0,R64,0.2294,0.2294,Gradient Boosting Regression
+2013,W01,W,W01,1,Indiana,B10,2,S16,2.3387,0.3387,Ridge Regression
+2013,W02,W,W02,2,Miami FL,ACC,2,S16,2.3068,0.3068,Ridge Regression
+2013,W03,W,W03,3,Marquette,BE,3,E8,1.6757,1.3243,Ridge Regression
+2013,W04,W,W04,4,Syracuse,BE,4,F4,3.5005,0.4995,Ridge Regression
+2013,W05,W,W05,5,UNLV,MWC,0,R64,0.6543,0.6543,Ridge Regression
+2013,W06,W,W06,6,Butler,A10,1,R32,0.8386,0.1614,Ridge Regression
+2013,W07,W,W07,7,Illinois,B10,1,R32,0.9364,0.0636,Ridge Regression
+2013,W08,W,W08,8,North Carolina St.,ACC,0,R64,1.2656,1.2656,Ridge Regression
+2013,W09,W,W09,9,Temple,A10,1,R32,0.6525,0.3475,Ridge Regression
+2013,W10,W,W10,10,Colorado,P12,0,R64,0.1443,0.1443,Ridge Regression
+2013,W11,W,W11,11,Bucknell,Pat,0,R64,0.1192,0.1192,Ridge Regression
+2013,W12,W,W12,12,California,P12,1,R32,0.3427,0.6573,Ridge Regression
+2013,W13,W,W13,13,Montana,BSky,0,R64,0.0,0.0,Ridge Regression
+2013,W14,W,W14,14,Davidson,SC,0,R64,0.3308,0.3308,Ridge Regression
+2013,W15,W,W15,15,Pacific,BW,0,R64,0.3522,0.3522,Ridge Regression
+2013,W16a,W,W16,16,James Madison,CAA,0,R64,0.9634,0.9634,Ridge Regression
+2013,W16b,W,W16,16,LIU Brooklyn,NEC,0,R68,0.1907,0.1907,Ridge Regression
+2013,X01,X,X01,1,Kansas,B12,2,S16,2.8514,0.8514,Ridge Regression
+2013,X02,X,X02,2,Georgetown,BE,0,R64,0.5281,0.5281,Ridge Regression
+2013,X03,X,X03,3,Florida,SEC,3,E8,2.9537,0.0463,Ridge Regression
+2013,X04,X,X04,4,Michigan,B10,5,2ND,3.2636,1.7364,Ridge Regression
+2013,X05,X,X05,5,VCU,A10,1,R32,1.875,0.875,Ridge Regression
+2013,X06,X,X06,6,UCLA,P12,0,R64,1.1165,1.1165,Ridge Regression
+2013,X07,X,X07,7,San Diego St.,MWC,1,R32,0.0,1.0,Ridge Regression
+2013,X08,X,X08,8,North Carolina,ACC,1,R32,1.3524,0.3524,Ridge Regression
+2013,X09,X,X09,9,Villanova,BE,0,R64,0.0613,0.0613,Ridge Regression
+2013,X10,X,X10,10,Oklahoma,B12,0,R64,0.1271,0.1271,Ridge Regression
+2013,X11,X,X11,11,Minnesota,B10,1,R32,0.7708,0.2292,Ridge Regression
+2013,X12,X,X12,12,Akron,MAC,0,R64,0.0,0.0,Ridge Regression
+2013,X13,X,X13,13,South Dakota St.,Sum,0,R64,0.025,0.025,Ridge Regression
+2013,X14,X,X14,14,Northwestern St.,Slnd,0,R64,0.0,0.0,Ridge Regression
+2013,X15,X,X15,15,Florida Gulf Coast,ASun,2,S16,1.4896,0.5104,Ridge Regression
+2013,X16,X,X16,16,Western Kentucky,SB,0,R64,0.4739,0.4739,Ridge Regression
+2013,Y01,Y,Y01,1,Louisville,BE,6,Champions,4.5108,1.4892,Ridge Regression
+2013,Y02,Y,Y02,2,Duke,ACC,3,E8,2.6554,0.3446,Ridge Regression
+2013,Y03,Y,Y03,3,Michigan St.,B10,2,S16,1.545,0.455,Ridge Regression
+2013,Y04,Y,Y04,4,Saint Louis,A10,1,R32,1.5525,0.5525,Ridge Regression
+2013,Y05,Y,Y05,5,Oklahoma St.,B12,0,R64,0.7841,0.7841,Ridge Regression
+2013,Y06,Y,Y06,6,Memphis,CUSA,1,R32,2.0191,1.0191,Ridge Regression
+2013,Y07,Y,Y07,7,Creighton,MVC,1,R32,1.8094,0.8094,Ridge Regression
+2013,Y08,Y,Y08,8,Colorado St.,MWC,1,R32,0.1038,0.8962,Ridge Regression
+2013,Y09,Y,Y09,9,Missouri,SEC,0,R64,0.6808,0.6808,Ridge Regression
+2013,Y10,Y,Y10,10,Cincinnati,BE,0,R64,0.3457,0.3457,Ridge Regression
+2013,Y11a,Y,Y11,11,Middle Tennessee,SB,0,R68,0.9057,0.9057,Ridge Regression
+2013,Y11b,Y,Y11,11,Saint Mary's,WCC,0,R64,1.0032,1.0032,Ridge Regression
+2013,Y12,Y,Y12,12,Oregon,P12,2,S16,1.8966,0.1034,Ridge Regression
+2013,Y13,Y,Y13,13,New Mexico St.,WAC,0,R64,0.6788,0.6788,Ridge Regression
+2013,Y14,Y,Y14,14,Valparaiso,Horz,0,R64,0.1522,0.1522,Ridge Regression
+2013,Y15,Y,Y15,15,Albany,AE,0,R64,0.9471,0.9471,Ridge Regression
+2013,Y16a,Y,Y16,16,Liberty,BSth,0,R68,0.0256,0.0256,Ridge Regression
+2013,Y16b,Y,Y16,16,North Carolina A&T,MEAC,0,R64,1.4778,1.4778,Ridge Regression
+2013,Z01,Z,Z01,1,Gonzaga,WCC,1,R32,1.7294,0.7294,Ridge Regression
+2013,Z02,Z,Z02,2,Ohio St.,B10,3,E8,2.231,0.769,Ridge Regression
+2013,Z03,Z,Z03,3,New Mexico,MWC,0,R64,0.8161,0.8161,Ridge Regression
+2013,Z04,Z,Z04,4,Kansas St.,B12,0,R64,1.3346,1.3346,Ridge Regression
+2013,Z05,Z,Z05,5,Wisconsin,B10,0,R64,1.1373,1.1373,Ridge Regression
+2013,Z06,Z,Z06,6,Arizona,P12,2,S16,1.4226,0.5774,Ridge Regression
+2013,Z07,Z,Z07,7,Notre Dame,BE,0,R64,1.16,1.16,Ridge Regression
+2013,Z08,Z,Z08,8,Pittsburgh,BE,0,R64,0.4125,0.4125,Ridge Regression
+2013,Z09,Z,Z09,9,Wichita St.,MVC,4,F4,2.8668,1.1332,Ridge Regression
+2013,Z10,Z,Z10,10,Iowa St.,B12,1,R32,1.025,0.025,Ridge Regression
+2013,Z11,Z,Z11,11,Belmont,OVC,0,R64,0.0,0.0,Ridge Regression
+2013,Z12,Z,Z12,12,Mississippi,SEC,1,R32,1.3177,0.3177,Ridge Regression
+2013,Z13a,Z,Z13,13,Boise St.,MWC,0,R68,0.0,0.0,Ridge Regression
+2013,Z13b,Z,Z13,13,La Salle,A10,2,S16,0.924,1.076,Ridge Regression
+2013,Z14,Z,Z14,14,Harvard,Ivy,1,R32,0.0,1.0,Ridge Regression
+2013,Z15,Z,Z15,15,Iona,MAAC,0,R64,0.4248,0.4248,Ridge Regression
+2013,Z16,Z,Z16,16,Southern,SWAC,0,R64,0.0,0.0,Ridge Regression
+2014,W01,W,W01,1,Virginia,ACC,2,S16,2.314,0.314,Ridge Regression
+2014,W02,W,W02,2,Villanova,BE,1,R32,1.1616,0.1616,Ridge Regression
+2014,W03,W,W03,3,Iowa St.,B12,2,S16,1.3551,0.6449,Ridge Regression
+2014,W04,W,W04,4,Michigan St.,B10,3,E8,2.403,0.597,Ridge Regression
+2014,W05,W,W05,5,Cincinnati,Amer,0,R64,0.3901,0.3901,Ridge Regression
+2014,W06,W,W06,6,North Carolina,ACC,1,R32,1.0193,0.0193,Ridge Regression
+2014,W07,W,W07,7,Connecticut,Amer,6,Champions,3.2735,2.7265,Ridge Regression
+2014,W08,W,W08,8,Memphis,Amer,1,R32,0.1134,0.8866,Ridge Regression
+2014,W09,W,W09,9,George Washington,A10,0,R64,0.0,0.0,Ridge Regression
+2014,W10,W,W10,10,Saint Joseph's,A10,0,R64,0.3954,0.3954,Ridge Regression
+2014,W11,W,W11,11,Providence,BE,0,R64,0.8895,0.8895,Ridge Regression
+2014,W12,W,W12,12,Harvard,Ivy,1,R32,0.8901,0.1099,Ridge Regression
+2014,W13,W,W13,13,Delaware,CAA,0,R64,0.4059,0.4059,Ridge Regression
+2014,W14,W,W14,14,North Carolina Central,MEAC,0,R64,0.0,0.0,Ridge Regression
+2014,W15,W,W15,15,Milwaukee,Horz,0,R64,0.4109,0.4109,Ridge Regression
+2014,W16,W,W16,16,Coastal Carolina,BSth,0,R64,0.0,0.0,Ridge Regression
+2014,X01,X,X01,1,Florida,SEC,4,F4,3.4653,0.5347,Ridge Regression
+2014,X02,X,X02,2,Kansas,B12,1,R32,1.4124,0.4124,Ridge Regression
+2014,X03,X,X03,3,Syracuse,ACC,1,R32,1.5003,0.5003,Ridge Regression
+2014,X04,X,X04,4,UCLA,P12,2,S16,2.1115,0.1115,Ridge Regression
+2014,X05,X,X05,5,VCU,A10,0,R64,0.8739,0.8739,Ridge Regression
+2014,X06,X,X06,6,Ohio St.,B10,0,R64,1.1424,1.1424,Ridge Regression
+2014,X07,X,X07,7,New Mexico,MWC,0,R64,0.6831,0.6831,Ridge Regression
+2014,X08,X,X08,8,Colorado,P12,0,R64,0.3628,0.3628,Ridge Regression
+2014,X09,X,X09,9,Pittsburgh,ACC,1,R32,1.9386,0.9386,Ridge Regression
+2014,X10,X,X10,10,Stanford,P12,2,S16,0.9773,1.0227,Ridge Regression
+2014,X11,X,X11,11,Dayton,A10,3,E8,1.2818,1.7182,Ridge Regression
+2014,X12,X,X12,12,Stephen F. Austin,Slnd,1,R32,1.2918,0.2918,Ridge Regression
+2014,X13,X,X13,13,Tulsa,CUSA,0,R64,0.3106,0.3106,Ridge Regression
+2014,X14,X,X14,14,Western Michigan,MAC,0,R64,0.0,0.0,Ridge Regression
+2014,X15,X,X15,15,Eastern Kentucky,OVC,0,R64,0.6273,0.6273,Ridge Regression
+2014,X16a,X,X16,16,Albany,AE,0,R64,0.0,0.0,Ridge Regression
+2014,X16b,X,X16,16,Mount St. Mary's,NEC,0,R68,0.0,0.0,Ridge Regression
+2014,Y01,Y,Y01,1,Wichita St.,MVC,1,R32,2.1861,1.1861,Ridge Regression
+2014,Y02,Y,Y02,2,Michigan,B10,3,E8,2.3348,0.6652,Ridge Regression
+2014,Y03,Y,Y03,3,Duke,ACC,0,R64,2.1983,2.1983,Ridge Regression
+2014,Y04,Y,Y04,4,Louisville,Amer,2,S16,2.8841,0.8841,Ridge Regression
+2014,Y05,Y,Y05,5,Saint Louis,A10,1,R32,0.1291,0.8709,Ridge Regression
+2014,Y06,Y,Y06,6,Massachusetts,A10,0,R64,0.0,0.0,Ridge Regression
+2014,Y07,Y,Y07,7,Texas,B12,1,R32,0.8743,0.1257,Ridge Regression
+2014,Y08,Y,Y08,8,Kentucky,SEC,5,2ND,2.8295,2.1705,Ridge Regression
+2014,Y09,Y,Y09,9,Kansas St.,B12,0,R64,0.5749,0.5749,Ridge Regression
+2014,Y10,Y,Y10,10,Arizona St.,P12,0,R64,0.0,0.0,Ridge Regression
+2014,Y11a,Y,Y11,11,Iowa,B10,0,R68,0.2091,0.2091,Ridge Regression
+2014,Y11b,Y,Y11,11,Tennessee,SEC,2,S16,1.9305,0.0695,Ridge Regression
+2014,Y12a,Y,Y12,12,North Carolina St.,ACC,0,R64,1.6361,1.6361,Ridge Regression
+2014,Y12b,Y,Y12,12,Xavier,BE,0,R68,0.1659,0.1659,Ridge Regression
+2014,Y13,Y,Y13,13,Manhattan,MAAC,0,R64,0.1523,0.1523,Ridge Regression
+2014,Y14,Y,Y14,14,Mercer,ASun,1,R32,0.6026,0.3974,Ridge Regression
+2014,Y15,Y,Y15,15,Wofford,SC,0,R64,0.0,0.0,Ridge Regression
+2014,Y16a,Y,Y16,16,Cal Poly,BW,0,R64,0.0,0.0,Ridge Regression
+2014,Y16b,Y,Y16,16,Texas Southern,SWAC,0,R68,0.0,0.0,Ridge Regression
+2014,Z01,Z,Z01,1,Arizona,P12,3,E8,2.9502,0.0498,Ridge Regression
+2014,Z02,Z,Z02,2,Wisconsin,B10,4,F4,2.9456,1.0544,Ridge Regression
+2014,Z03,Z,Z03,3,Creighton,BE,1,R32,1.4882,0.4882,Ridge Regression
+2014,Z04,Z,Z04,4,San Diego St.,MWC,2,S16,0.7829,1.2171,Ridge Regression
+2014,Z05,Z,Z05,5,Oklahoma,B12,0,R64,0.5813,0.5813,Ridge Regression
+2014,Z06,Z,Z06,6,Baylor,B12,2,S16,1.5421,0.4579,Ridge Regression
+2014,Z07,Z,Z07,7,Oregon,P12,1,R32,1.009,0.009,Ridge Regression
+2014,Z08,Z,Z08,8,Gonzaga,WCC,1,R32,1.2487,0.2487,Ridge Regression
+2014,Z09,Z,Z09,9,Oklahoma St.,B12,0,R64,0.6812,0.6812,Ridge Regression
+2014,Z10,Z,Z10,10,BYU,WCC,0,R64,0.0,0.0,Ridge Regression
+2014,Z11,Z,Z11,11,Nebraska,B10,0,R64,0.0,0.0,Ridge Regression
+2014,Z12,Z,Z12,12,North Dakota St.,Sum,1,R32,0.0,1.0,Ridge Regression
+2014,Z13,Z,Z13,13,New Mexico St.,WAC,0,R64,0.7333,0.7333,Ridge Regression
+2014,Z14,Z,Z14,14,Louisiana Lafayette,SB,0,R64,0.0,0.0,Ridge Regression
+2014,Z15,Z,Z15,15,American,Pat,0,R64,0.0,0.0,Ridge Regression
+2014,Z16,Z,Z16,16,Weber St.,BSky,0,R64,0.0,0.0,Ridge Regression
+2015,W01,W,W01,1,Villanova,BE,1,R32,2.755,1.755,Ridge Regression
+2015,W02,W,W02,2,Virginia,ACC,1,R32,1.5857,0.5857,Ridge Regression
+2015,W03,W,W03,3,Oklahoma,B12,2,S16,1.4285,0.5715,Ridge Regression
+2015,W04,W,W04,4,Louisville,ACC,3,E8,1.8994,1.1006,Ridge Regression
+2015,W05,W,W05,5,Northern Iowa,MVC,1,R32,1.9823,0.9823,Ridge Regression
+2015,W06,W,W06,6,Providence,BE,0,R64,0.5882,0.5882,Ridge Regression
+2015,W07,W,W07,7,Michigan St.,B10,4,F4,2.9092,1.0908,Ridge Regression
+2015,W08,W,W08,8,North Carolina St.,ACC,2,S16,1.2805,0.7195,Ridge Regression
+2015,W09,W,W09,9,LSU,SEC,0,R64,0.5292,0.5292,Ridge Regression
+2015,W10,W,W10,10,Georgia,SEC,0,R64,0.1229,0.1229,Ridge Regression
+2015,W11a,W,W11,11,Boise St.,MWC,0,R68,0.0,0.0,Ridge Regression
+2015,W11b,W,W11,11,Dayton,A10,1,R32,1.1871,0.1871,Ridge Regression
+2015,W12,W,W12,12,Wyoming,MWC,0,R64,0.0132,0.0132,Ridge Regression
+2015,W13,W,W13,13,UC Irvine,BW,0,R64,0.0,0.0,Ridge Regression
+2015,W14,W,W14,14,Albany,AE,0,R64,0.0,0.0,Ridge Regression
+2015,W15,W,W15,15,Belmont,OVC,0,R64,0.0,0.0,Ridge Regression
+2015,W16,W,W16,16,Lafayette,Pat,0,R64,0.0,0.0,Ridge Regression
+2015,X01,X,X01,1,Duke,ACC,6,Champions,4.6924,1.3076,Ridge Regression
+2015,X02,X,X02,2,Gonzaga,WCC,3,E8,2.7169,0.2831,Ridge Regression
+2015,X03,X,X03,3,Iowa St.,B12,0,R64,0.5556,0.5556,Ridge Regression
+2015,X04,X,X04,4,Georgetown,BE,1,R32,0.4019,0.5981,Ridge Regression
+2015,X05,X,X05,5,Utah,P12,2,S16,1.2538,0.7462,Ridge Regression
+2015,X06,X,X06,6,SMU,Amer,0,R64,0.0,0.0,Ridge Regression
+2015,X07,X,X07,7,Iowa,B10,1,R32,1.0869,0.0869,Ridge Regression
+2015,X08,X,X08,8,San Diego St.,MWC,1,R32,1.105,0.105,Ridge Regression
+2015,X09,X,X09,9,St. John's,BE,0,R64,0.0164,0.0164,Ridge Regression
+2015,X10,X,X10,10,Davidson,A10,0,R64,0.0,0.0,Ridge Regression
+2015,X11,X,X11,11,UCLA,P12,2,S16,0.8758,1.1242,Ridge Regression
+2015,X12,X,X12,12,Stephen F. Austin,Slnd,0,R64,0.0667,0.0667,Ridge Regression
+2015,X13,X,X13,13,Eastern Washington,BSky,0,R64,0.1829,0.1829,Ridge Regression
+2015,X14,X,X14,14,UAB,CUSA,1,R32,0.5389,0.4611,Ridge Regression
+2015,X15,X,X15,15,North Dakota St.,Sum,0,R64,0.0,0.0,Ridge Regression
+2015,X16a,X,X16,16,North Florida,ASun,0,R68,0.0,0.0,Ridge Regression
+2015,X16b,X,X16,16,Robert Morris,NEC,0,R64,0.7249,0.7249,Ridge Regression
+2015,Y01,Y,Y01,1,Kentucky,SEC,4,F4,4.7942,0.7942,Ridge Regression
+2015,Y02,Y,Y02,2,Kansas,B12,1,R32,1.8083,0.8083,Ridge Regression
+2015,Y03,Y,Y03,3,Notre Dame,ACC,3,E8,3.3737,0.3737,Ridge Regression
+2015,Y04,Y,Y04,4,Maryland,B10,1,R32,1.3757,0.3757,Ridge Regression
+2015,Y05,Y,Y05,5,West Virginia,B12,2,S16,1.4448,0.5552,Ridge Regression
+2015,Y06,Y,Y06,6,Butler,BE,1,R32,0.4702,0.5298,Ridge Regression
+2015,Y07,Y,Y07,7,Wichita St.,MVC,2,S16,1.532,0.468,Ridge Regression
+2015,Y08,Y,Y08,8,Cincinnati,Amer,1,R32,0.6737,0.3263,Ridge Regression
+2015,Y09,Y,Y09,9,Purdue,B10,0,R64,0.8338,0.8338,Ridge Regression
+2015,Y10,Y,Y10,10,Indiana,B10,0,R64,0.6932,0.6932,Ridge Regression
+2015,Y11,Y,Y11,11,Texas,B12,0,R64,0.7911,0.7911,Ridge Regression
+2015,Y12,Y,Y12,12,Buffalo,MAC,0,R64,0.1108,0.1108,Ridge Regression
+2015,Y13,Y,Y13,13,Valparaiso,Horz,0,R64,0.0,0.0,Ridge Regression
+2015,Y14,Y,Y14,14,Northeastern,CAA,0,R64,0.5717,0.5717,Ridge Regression
+2015,Y15,Y,Y15,15,New Mexico St.,WAC,0,R64,0.0,0.0,Ridge Regression
+2015,Y16a,Y,Y16,16,Hampton,MEAC,0,R64,0.6137,0.6137,Ridge Regression
+2015,Y16b,Y,Y16,16,Manhattan,MAAC,0,R68,0.0,0.0,Ridge Regression
+2015,Z01,Z,Z01,1,Wisconsin,B10,5,2ND,5.2024,0.2024,Ridge Regression
+2015,Z02,Z,Z02,2,Arizona,P12,3,E8,3.2446,0.2446,Ridge Regression
+2015,Z03,Z,Z03,3,Baylor,B12,0,R64,0.8195,0.8195,Ridge Regression
+2015,Z04,Z,Z04,4,North Carolina,ACC,2,S16,2.5744,0.5744,Ridge Regression
+2015,Z05,Z,Z05,5,Arkansas,SEC,1,R32,1.8017,0.8017,Ridge Regression
+2015,Z06,Z,Z06,6,Xavier,BE,2,S16,1.7441,0.2559,Ridge Regression
+2015,Z07,Z,Z07,7,VCU,A10,0,R64,1.0378,1.0378,Ridge Regression
+2015,Z08,Z,Z08,8,Oregon,P12,1,R32,1.2865,0.2865,Ridge Regression
+2015,Z09,Z,Z09,9,Oklahoma St.,B12,0,R64,0.0,0.0,Ridge Regression
+2015,Z10,Z,Z10,10,Ohio St.,B10,1,R32,0.9995,0.0005,Ridge Regression
+2015,Z11a,Z,Z11,11,BYU,WCC,0,R68,0.2518,0.2518,Ridge Regression
+2015,Z11b,Z,Z11,11,Mississippi,SEC,0,R64,0.4772,0.4772,Ridge Regression
+2015,Z12,Z,Z12,12,Wofford,SC,0,R64,0.1084,0.1084,Ridge Regression
+2015,Z13,Z,Z13,13,Harvard,Ivy,0,R64,0.0,0.0,Ridge Regression
+2015,Z14,Z,Z14,14,Georgia St.,SB,1,R32,0.4641,0.5359,Ridge Regression
+2015,Z15,Z,Z15,15,Texas Southern,SWAC,0,R64,0.6832,0.6832,Ridge Regression
+2015,Z16,Z,Z16,16,Coastal Carolina,BSth,0,R64,0.0,0.0,Ridge Regression
+2016,W01,W,W01,1,North Carolina,ACC,5,2ND,3.9623,1.0377,Ridge Regression
+2016,W02,W,W02,2,Xavier,BE,1,R32,0.8967,0.1033,Ridge Regression
+2016,W03,W,W03,3,West Virginia,B12,0,R64,1.3489,1.3489,Ridge Regression
+2016,W04,W,W04,4,Kentucky,SEC,1,R32,2.4284,1.4284,Ridge Regression
+2016,W05,W,W05,5,Indiana,B10,2,S16,1.8866,0.1134,Ridge Regression
+2016,W06,W,W06,6,Notre Dame,ACC,3,E8,1.1167,1.8833,Ridge Regression
+2016,W07,W,W07,7,Wisconsin,B10,2,S16,1.0501,0.9499,Ridge Regression
+2016,W08,W,W08,8,USC,P12,0,R64,0.194,0.194,Ridge Regression
+2016,W09,W,W09,9,Providence,BE,1,R32,0.4756,0.5244,Ridge Regression
+2016,W10,W,W10,10,Pittsburgh,ACC,0,R64,0.0,0.0,Ridge Regression
+2016,W11a,W,W11,11,Michigan,B10,0,R64,0.6209,0.6209,Ridge Regression
+2016,W11b,W,W11,11,Tulsa,Amer,0,R68,0.0,0.0,Ridge Regression
+2016,W12,W,W12,12,Chattanooga,SC,0,R64,0.2706,0.2706,Ridge Regression
+2016,W13,W,W13,13,Stony Brook,AE,0,R64,0.0,0.0,Ridge Regression
+2016,W14,W,W14,14,Stephen F. Austin,Slnd,1,R32,0.0,1.0,Ridge Regression
+2016,W15,W,W15,15,Weber St.,BSky,0,R64,0.2129,0.2129,Ridge Regression
+2016,W16a,W,W16,16,Fairleigh Dickinson,NEC,0,R68,0.0,0.0,Ridge Regression
+2016,W16b,W,W16,16,Florida Gulf Coast,ASun,0,R64,0.0,0.0,Ridge Regression
+2016,X01,X,X01,1,Virginia,ACC,3,E8,2.6619,0.3381,Ridge Regression
+2016,X02,X,X02,2,Michigan St.,B10,0,R64,1.6424,1.6424,Ridge Regression
+2016,X03,X,X03,3,Utah,P12,1,R32,1.0879,0.0879,Ridge Regression
+2016,X04,X,X04,4,Iowa St.,B12,2,S16,1.2834,0.7166,Ridge Regression
+2016,X05,X,X05,5,Purdue,B10,0,R64,1.5067,1.5067,Ridge Regression
+2016,X06,X,X06,6,Seton Hall,BE,0,R64,0.6898,0.6898,Ridge Regression
+2016,X07,X,X07,7,Dayton,A10,0,R64,0.0,0.0,Ridge Regression
+2016,X08,X,X08,8,Texas Tech,B12,0,R64,0.0,0.0,Ridge Regression
+2016,X09,X,X09,9,Butler,BE,1,R32,0.0549,0.9451,Ridge Regression
+2016,X10,X,X10,10,Syracuse,ACC,4,F4,2.0163,1.9837,Ridge Regression
+2016,X11,X,X11,11,Gonzaga,WCC,2,S16,1.3783,0.6217,Ridge Regression
+2016,X12,X,X12,12,Arkansas Little Rock,SB,1,R32,0.0349,0.9651,Ridge Regression
+2016,X13,X,X13,13,Iona,MAAC,0,R64,0.0,0.0,Ridge Regression
+2016,X14,X,X14,14,Fresno St.,MWC,0,R64,0.0,0.0,Ridge Regression
+2016,X15,X,X15,15,Middle Tennessee,CUSA,1,R32,0.0,1.0,Ridge Regression
+2016,X16,X,X16,16,Hampton,MEAC,0,R64,0.0,0.0,Ridge Regression
+2016,Y01,Y,Y01,1,Kansas,B12,3,E8,2.8524,0.1476,Ridge Regression
+2016,Y02,Y,Y02,2,Villanova,BE,6,Champions,4.7531,1.2469,Ridge Regression
+2016,Y03,Y,Y03,3,Miami FL,ACC,2,S16,1.5675,0.4325,Ridge Regression
+2016,Y04,Y,Y04,4,California,P12,0,R64,0.8729,0.8729,Ridge Regression
+2016,Y05,Y,Y05,5,Maryland,B10,2,S16,1.5028,0.4972,Ridge Regression
+2016,Y06,Y,Y06,6,Arizona,P12,0,R64,0.6754,0.6754,Ridge Regression
+2016,Y07,Y,Y07,7,Iowa,B10,1,R32,0.3494,0.6506,Ridge Regression
+2016,Y08,Y,Y08,8,Colorado,P12,0,R64,0.0,0.0,Ridge Regression
+2016,Y09,Y,Y09,9,Connecticut,Amer,1,R32,1.0518,0.0518,Ridge Regression
+2016,Y10,Y,Y10,10,Temple,Amer,0,R64,0.0,0.0,Ridge Regression
+2016,Y11a,Y,Y11,11,Vanderbilt,SEC,0,R68,0.5547,0.5547,Ridge Regression
+2016,Y11b,Y,Y11,11,Wichita St.,MVC,1,R32,0.9487,0.0513,Ridge Regression
+2016,Y12,Y,Y12,12,South Dakota St.,Sum,0,R64,0.1715,0.1715,Ridge Regression
+2016,Y13,Y,Y13,13,Hawaii,BW,1,R32,0.0,1.0,Ridge Regression
+2016,Y14,Y,Y14,14,Buffalo,MAC,0,R64,0.0,0.0,Ridge Regression
+2016,Y15,Y,Y15,15,UNC Asheville,BSth,0,R64,0.0,0.0,Ridge Regression
+2016,Y16,Y,Y16,16,Austin Peay,OVC,0,R64,0.1804,0.1804,Ridge Regression
+2016,Z01,Z,Z01,1,Oregon,P12,3,E8,2.324,0.676,Ridge Regression
+2016,Z02,Z,Z02,2,Oklahoma,B12,4,F4,2.2335,1.7665,Ridge Regression
+2016,Z03,Z,Z03,3,Texas A&M,SEC,2,S16,1.963,0.037,Ridge Regression
+2016,Z04,Z,Z04,4,Duke,ACC,2,S16,1.6766,0.3234,Ridge Regression
+2016,Z05,Z,Z05,5,Baylor,B12,0,R64,0.2966,0.2966,Ridge Regression
+2016,Z06,Z,Z06,6,Texas,B12,0,R64,0.0461,0.0461,Ridge Regression
+2016,Z07,Z,Z07,7,Oregon St.,P12,0,R64,0.0,0.0,Ridge Regression
+2016,Z08,Z,Z08,8,Saint Joseph's,A10,1,R32,1.3349,0.3349,Ridge Regression
+2016,Z09,Z,Z09,9,Cincinnati,Amer,0,R64,0.0,0.0,Ridge Regression
+2016,Z10,Z,Z10,10,VCU,A10,1,R32,1.3701,0.3701,Ridge Regression
+2016,Z11,Z,Z11,11,Northern Iowa,MVC,1,R32,0.7801,0.2199,Ridge Regression
+2016,Z12,Z,Z12,12,Yale,Ivy,1,R32,0.0,1.0,Ridge Regression
+2016,Z13,Z,Z13,13,UNC Wilmington,CAA,0,R64,0.0,0.0,Ridge Regression
+2016,Z14,Z,Z14,14,Green Bay,Horz,0,R64,0.0,0.0,Ridge Regression
+2016,Z15,Z,Z15,15,Cal St. Bakersfield,WAC,0,R64,0.0,0.0,Ridge Regression
+2016,Z16a,Z,Z16,16,Holy Cross,Pat,0,R64,0.2152,0.2152,Ridge Regression
+2016,Z16b,Z,Z16,16,Southern,SWAC,0,R68,0.0,0.0,Ridge Regression
+2017,W01,W,W01,1,Villanova,BE,1,R32,2.5978,1.5978,Ridge Regression
+2017,W02,W,W02,2,Duke,ACC,1,R32,2.2902,1.2902,Ridge Regression
+2017,W03,W,W03,3,Baylor,B12,2,S16,1.2376,0.7624,Ridge Regression
+2017,W04,W,W04,4,Florida,SEC,3,E8,1.9851,1.0149,Ridge Regression
+2017,W05,W,W05,5,Virginia,ACC,1,R32,0.8973,0.1027,Ridge Regression
+2017,W06,W,W06,6,SMU,Amer,0,R64,1.5821,1.5821,Ridge Regression
+2017,W07,W,W07,7,South Carolina,SEC,4,F4,1.7005,2.2995,Ridge Regression
+2017,W08,W,W08,8,Wisconsin,B10,2,S16,2.0285,0.0285,Ridge Regression
+2017,W09,W,W09,9,Virginia Tech,ACC,0,R64,0.5952,0.5952,Ridge Regression
+2017,W10,W,W10,10,Marquette,BE,0,R64,0.3541,0.3541,Ridge Regression
+2017,W11a,W,W11,11,Providence,BE,0,R68,0.085,0.085,Ridge Regression
+2017,W11b,W,W11,11,USC,P12,1,R32,1.5165,0.5165,Ridge Regression
+2017,W12,W,W12,12,UNC Wilmington,CAA,0,R64,0.6383,0.6383,Ridge Regression
+2017,W13,W,W13,13,East Tennessee St.,SC,0,R64,0.4568,0.4568,Ridge Regression
+2017,W14,W,W14,14,New Mexico St.,WAC,0,R64,0.0,0.0,Ridge Regression
+2017,W15,W,W15,15,Troy,SB,0,R64,0.7738,0.7738,Ridge Regression
+2017,W16a,W,W16,16,Mount St. Mary's,NEC,0,R64,1.1314,1.1314,Ridge Regression
+2017,W16b,W,W16,16,New Orleans,Slnd,0,R68,0.0,0.0,Ridge Regression
+2017,X01,X,X01,1,Gonzaga,WCC,5,2ND,3.9622,1.0378,Ridge Regression
+2017,X02,X,X02,2,Arizona,P12,2,S16,2.1559,0.1559,Ridge Regression
+2017,X03,X,X03,3,Florida St.,ACC,1,R32,1.0698,0.0698,Ridge Regression
+2017,X04,X,X04,4,West Virginia,B12,2,S16,2.1209,0.1209,Ridge Regression
+2017,X05,X,X05,5,Notre Dame,ACC,1,R32,2.0175,1.0175,Ridge Regression
+2017,X06,X,X06,6,Maryland,B10,0,R64,0.5422,0.5422,Ridge Regression
+2017,X07,X,X07,7,Saint Mary's,WCC,1,R32,1.1556,0.1556,Ridge Regression
+2017,X08,X,X08,8,Northwestern,B10,1,R32,1.4643,0.4643,Ridge Regression
+2017,X09,X,X09,9,Vanderbilt,SEC,0,R64,0.9336,0.9336,Ridge Regression
+2017,X10,X,X10,10,VCU,A10,0,R64,0.6293,0.6293,Ridge Regression
+2017,X11,X,X11,11,Xavier,BE,3,E8,1.8702,1.1298,Ridge Regression
+2017,X12,X,X12,12,Princeton,Ivy,0,R64,0.2894,0.2894,Ridge Regression
+2017,X13,X,X13,13,Bucknell,Pat,0,R64,0.7241,0.7241,Ridge Regression
+2017,X14,X,X14,14,Florida Gulf Coast,ASun,0,R64,0.6882,0.6882,Ridge Regression
+2017,X15,X,X15,15,North Dakota,BSky,0,R64,0.0,0.0,Ridge Regression
+2017,X16,X,X16,16,South Dakota St.,Sum,0,R64,0.6253,0.6253,Ridge Regression
+2017,Y01,Y,Y01,1,Kansas,B12,3,E8,2.2759,0.7241,Ridge Regression
+2017,Y02,Y,Y02,2,Louisville,ACC,1,R32,1.0263,0.0263,Ridge Regression
+2017,Y03,Y,Y03,3,Oregon,P12,4,F4,3.1485,0.8515,Ridge Regression
+2017,Y04,Y,Y04,4,Purdue,B10,2,S16,1.5115,0.4885,Ridge Regression
+2017,Y05,Y,Y05,5,Iowa St.,B12,1,R32,1.2696,0.2696,Ridge Regression
+2017,Y06,Y,Y06,6,Creighton,BE,0,R64,1.0575,1.0575,Ridge Regression
+2017,Y07,Y,Y07,7,Michigan,B10,2,S16,3.323,1.323,Ridge Regression
+2017,Y08,Y,Y08,8,Miami FL,ACC,0,R64,0.4452,0.4452,Ridge Regression
+2017,Y09,Y,Y09,9,Michigan St.,B10,1,R32,0.8767,0.1233,Ridge Regression
+2017,Y10,Y,Y10,10,Oklahoma St.,B12,0,R64,0.843,0.843,Ridge Regression
+2017,Y11,Y,Y11,11,Rhode Island,A10,1,R32,0.9801,0.0199,Ridge Regression
+2017,Y12,Y,Y12,12,Nevada,MWC,0,R64,1.097,1.097,Ridge Regression
+2017,Y13,Y,Y13,13,Vermont,AE,0,R64,1.1359,1.1359,Ridge Regression
+2017,Y14,Y,Y14,14,Iona,MAAC,0,R64,0.6334,0.6334,Ridge Regression
+2017,Y15,Y,Y15,15,Jacksonville St.,OVC,0,R64,0.5513,0.5513,Ridge Regression
+2017,Y16a,Y,Y16,16,North Carolina Central,MEAC,0,R68,0.0,0.0,Ridge Regression
+2017,Y16b,Y,Y16,16,UC Davis,BW,0,R64,0.9039,0.9039,Ridge Regression
+2017,Z01,Z,Z01,1,North Carolina,ACC,6,Champions,3.6881,2.3119,Ridge Regression
+2017,Z02,Z,Z02,2,Kentucky,SEC,3,E8,2.867,0.133,Ridge Regression
+2017,Z03,Z,Z03,3,UCLA,P12,2,S16,2.2325,0.2325,Ridge Regression
+2017,Z04,Z,Z04,4,Butler,BE,2,S16,0.8404,1.1596,Ridge Regression
+2017,Z05,Z,Z05,5,Minnesota,B10,0,R64,0.5547,0.5547,Ridge Regression
+2017,Z06,Z,Z06,6,Cincinnati,Amer,1,R32,1.9449,0.9449,Ridge Regression
+2017,Z07,Z,Z07,7,Dayton,A10,0,R64,0.0,0.0,Ridge Regression
+2017,Z08,Z,Z08,8,Arkansas,SEC,1,R32,1.4057,0.4057,Ridge Regression
+2017,Z09,Z,Z09,9,Seton Hall,BE,0,R64,0.0,0.0,Ridge Regression
+2017,Z10,Z,Z10,10,Wichita St.,MVC,1,R32,1.6366,0.6366,Ridge Regression
+2017,Z11a,Z,Z11,11,Kansas St.,B12,0,R64,1.115,1.115,Ridge Regression
+2017,Z11b,Z,Z11,11,Wake Forest,ACC,0,R68,0.7045,0.7045,Ridge Regression
+2017,Z12,Z,Z12,12,Middle Tennessee,CUSA,1,R32,1.4219,0.4219,Ridge Regression
+2017,Z13,Z,Z13,13,Winthrop,BSth,0,R64,0.0,0.0,Ridge Regression
+2017,Z14,Z,Z14,14,Kent St.,MAC,0,R64,0.7611,0.7611,Ridge Regression
+2017,Z15,Z,Z15,15,Northern Kentucky,Horz,0,R64,0.2106,0.2106,Ridge Regression
+2017,Z16,Z,Z16,16,Texas Southern,SWAC,0,R64,0.7579,0.7579,Ridge Regression
+2018,W01,W,W01,1,Villanova,BE,6,Champions,4.7022,1.2978,Ridge Regression
+2018,W02,W,W02,2,Purdue,B10,2,S16,2.5006,0.5006,Ridge Regression
+2018,W03,W,W03,3,Texas Tech,B12,3,E8,1.6415,1.3585,Ridge Regression
+2018,W04,W,W04,4,Wichita St.,Amer,0,R64,0.0,0.0,Ridge Regression
+2018,W05,W,W05,5,West Virginia,B12,2,S16,2.2097,0.2097,Ridge Regression
+2018,W06,W,W06,6,Florida,SEC,1,R32,0.908,0.092,Ridge Regression
+2018,W07,W,W07,7,Arkansas,SEC,0,R64,0.6434,0.6434,Ridge Regression
+2018,W08,W,W08,8,Virginia Tech,ACC,0,R64,0.1387,0.1387,Ridge Regression
+2018,W09,W,W09,9,Alabama,SEC,1,R32,0.6517,0.3483,Ridge Regression
+2018,W10,W,W10,10,Butler,BE,1,R32,0.8382,0.1618,Ridge Regression
+2018,W11a,W,W11,11,St. Bonaventure,A10,0,R64,0.2266,0.2266,Ridge Regression
+2018,W11b,W,W11,11,UCLA,P12,0,R68,0.0063,0.0063,Ridge Regression
+2018,W12,W,W12,12,Murray St.,OVC,0,R64,0.0,0.0,Ridge Regression
+2018,W13,W,W13,13,Marshall,CUSA,1,R32,0.8945,0.1055,Ridge Regression
+2018,W14,W,W14,14,Stephen F. Austin,Slnd,0,R64,0.6323,0.6323,Ridge Regression
+2018,W15,W,W15,15,Cal St. Fullerton,BW,0,R64,0.0,0.0,Ridge Regression
+2018,W16a,W,W16,16,LIU Brooklyn,NEC,0,R68,0.0049,0.0049,Ridge Regression
+2018,W16b,W,W16,16,Radford,BSth,0,R64,0.9603,0.9603,Ridge Regression
+2018,X01,X,X01,1,Kansas,B12,4,F4,3.1455,0.8545,Ridge Regression
+2018,X02,X,X02,2,Duke,ACC,3,E8,2.7604,0.2396,Ridge Regression
+2018,X03,X,X03,3,Michigan St.,B10,1,R32,1.5118,0.5118,Ridge Regression
+2018,X04,X,X04,4,Auburn,SEC,1,R32,0.6816,0.3184,Ridge Regression
+2018,X05,X,X05,5,Clemson,ACC,2,S16,1.2314,0.7686,Ridge Regression
+2018,X06,X,X06,6,TCU,B12,0,R64,0.0421,0.0421,Ridge Regression
+2018,X07,X,X07,7,Rhode Island,A10,1,R32,0.465,0.535,Ridge Regression
+2018,X08,X,X08,8,Seton Hall,BE,1,R32,0.6278,0.3722,Ridge Regression
+2018,X09,X,X09,9,North Carolina St.,ACC,0,R64,0.1568,0.1568,Ridge Regression
+2018,X10,X,X10,10,Oklahoma,B12,0,R64,0.0,0.0,Ridge Regression
+2018,X11a,X,X11,11,Arizona St.,P12,0,R68,0.0,0.0,Ridge Regression
+2018,X11b,X,X11,11,Syracuse,ACC,2,S16,1.585,0.415,Ridge Regression
+2018,X12,X,X12,12,New Mexico St.,WAC,0,R64,0.0,0.0,Ridge Regression
+2018,X13,X,X13,13,College of Charleston,CAA,0,R64,0.0,0.0,Ridge Regression
+2018,X14,X,X14,14,Bucknell,Pat,0,R64,0.4058,0.4058,Ridge Regression
+2018,X15,X,X15,15,Iona,MAAC,0,R64,0.0674,0.0674,Ridge Regression
+2018,X16,X,X16,16,Penn,Ivy,0,R64,0.8907,0.8907,Ridge Regression
+2018,Y01,Y,Y01,1,Virginia,ACC,0,R64,1.7133,1.7133,Ridge Regression
+2018,Y02,Y,Y02,2,Cincinnati,Amer,1,R32,1.714,0.714,Ridge Regression
+2018,Y03,Y,Y03,3,Tennessee,SEC,1,R32,1.4614,0.4614,Ridge Regression
+2018,Y04,Y,Y04,4,Arizona,P12,0,R64,0.8952,0.8952,Ridge Regression
+2018,Y05,Y,Y05,5,Kentucky,SEC,2,S16,1.784,0.216,Ridge Regression
+2018,Y06,Y,Y06,6,Miami FL,ACC,0,R64,0.0826,0.0826,Ridge Regression
+2018,Y07,Y,Y07,7,Nevada,MWC,2,S16,1.7592,0.2408,Ridge Regression
+2018,Y08,Y,Y08,8,Creighton,BE,0,R64,0.0,0.0,Ridge Regression
+2018,Y09,Y,Y09,9,Kansas St.,B12,3,E8,1.6613,1.3387,Ridge Regression
+2018,Y10,Y,Y10,10,Texas,B12,0,R64,0.0936,0.0936,Ridge Regression
+2018,Y11,Y,Y11,11,Loyola Chicago,MVC,4,F4,2.0633,1.9367,Ridge Regression
+2018,Y12,Y,Y12,12,Davidson,A10,0,R64,0.0726,0.0726,Ridge Regression
+2018,Y13,Y,Y13,13,Buffalo,MAC,1,R32,1.0675,0.0675,Ridge Regression
+2018,Y14,Y,Y14,14,Wright St.,Horz,0,R64,0.1218,0.1218,Ridge Regression
+2018,Y15,Y,Y15,15,Georgia St.,SB,0,R64,0.4662,0.4662,Ridge Regression
+2018,Y16,Y,Y16,16,UMBC,AE,1,R32,0.454,0.546,Ridge Regression
+2018,Z01,Z,Z01,1,Xavier,BE,1,R32,1.2063,0.2063,Ridge Regression
+2018,Z02,Z,Z02,2,North Carolina,ACC,1,R32,1.7296,0.7296,Ridge Regression
+2018,Z03,Z,Z03,3,Michigan,B10,5,2ND,3.6582,1.3418,Ridge Regression
+2018,Z04,Z,Z04,4,Gonzaga,WCC,2,S16,1.9205,0.0795,Ridge Regression
+2018,Z05,Z,Z05,5,Ohio St.,B10,1,R32,1.0674,0.0674,Ridge Regression
+2018,Z06,Z,Z06,6,Houston,Amer,1,R32,1.2051,0.2051,Ridge Regression
+2018,Z07,Z,Z07,7,Texas A&M,SEC,2,S16,0.6449,1.3551,Ridge Regression
+2018,Z08,Z,Z08,8,Missouri,SEC,0,R64,0.0,0.0,Ridge Regression
+2018,Z09,Z,Z09,9,Florida St.,ACC,3,E8,0.8589,2.1411,Ridge Regression
+2018,Z10,Z,Z10,10,Providence,BE,0,R64,0.3958,0.3958,Ridge Regression
+2018,Z11,Z,Z11,11,San Diego St.,MWC,0,R64,0.0,0.0,Ridge Regression
+2018,Z12,Z,Z12,12,South Dakota St.,Sum,0,R64,0.6221,0.6221,Ridge Regression
+2018,Z13,Z,Z13,13,UNC Greensboro,SC,0,R64,0.3195,0.3195,Ridge Regression
+2018,Z14,Z,Z14,14,Montana,BSky,0,R64,0.3857,0.3857,Ridge Regression
+2018,Z15,Z,Z15,15,Lipscomb,ASun,0,R64,0.0,0.0,Ridge Regression
+2018,Z16a,Z,Z16,16,North Carolina Central,MEAC,0,R68,0.0,0.0,Ridge Regression
+2018,Z16b,Z,Z16,16,Texas Southern,SWAC,0,R64,0.0125,0.0125,Ridge Regression
+2019,W01,W,W01,1,Duke,ACC,3,E8,3.1462,0.1462,Ridge Regression
+2019,W02,W,W02,2,Michigan St.,B10,4,F4,3.208,0.792,Ridge Regression
+2019,W03,W,W03,3,LSU,SEC,2,S16,1.7252,0.2748,Ridge Regression
+2019,W04,W,W04,4,Virginia Tech,ACC,2,S16,1.4781,0.5219,Ridge Regression
+2019,W05,W,W05,5,Mississippi St.,SEC,0,R64,0.7241,0.7241,Ridge Regression
+2019,W06,W,W06,6,Maryland,B10,1,R32,0.5739,0.4261,Ridge Regression
+2019,W07,W,W07,7,Louisville,ACC,0,R64,0.5814,0.5814,Ridge Regression
+2019,W08,W,W08,8,VCU,A10,0,R64,0.564,0.564,Ridge Regression
+2019,W09,W,W09,9,UCF,Amer,1,R32,0.4068,0.5932,Ridge Regression
+2019,W10,W,W10,10,Minnesota,B10,1,R32,1.0012,0.0012,Ridge Regression
+2019,W11a,W,W11,11,Belmont,OVC,0,R64,0.3382,0.3382,Ridge Regression
+2019,W11b,W,W11,11,Temple,Amer,0,R68,0.2687,0.2687,Ridge Regression
+2019,W12,W,W12,12,Liberty,BSth,1,R32,1.3139,0.3139,Ridge Regression
+2019,W13,W,W13,13,Saint Louis,A10,0,R64,0.4652,0.4652,Ridge Regression
+2019,W14,W,W14,14,Yale,Ivy,0,R64,0.0,0.0,Ridge Regression
+2019,W15,W,W15,15,Bradley,MVC,0,R64,0.2666,0.2666,Ridge Regression
+2019,W16a,W,W16,16,North Dakota St.,Sum,0,R64,0.6436,0.6436,Ridge Regression
+2019,W16b,W,W16,16,North Carolina Central,MEAC,0,R68,0.0,0.0,Ridge Regression
+2019,X01,X,X01,1,Gonzaga,WCC,3,E8,3.0127,0.0127,Ridge Regression
+2019,X02,X,X02,2,Michigan,B10,2,S16,2.7414,0.7414,Ridge Regression
+2019,X03,X,X03,3,Texas Tech,B12,5,2ND,3.2853,1.7147,Ridge Regression
+2019,X04,X,X04,4,Florida St.,ACC,2,S16,2.2082,0.2082,Ridge Regression
+2019,X05,X,X05,5,Marquette,BE,0,R64,0.4503,0.4503,Ridge Regression
+2019,X06,X,X06,6,Buffalo,MAC,1,R32,1.5066,0.5066,Ridge Regression
+2019,X07,X,X07,7,Nevada,MWC,0,R64,0.7727,0.7727,Ridge Regression
+2019,X08,X,X08,8,Syracuse,ACC,0,R64,0.6633,0.6633,Ridge Regression
+2019,X09,X,X09,9,Baylor,B12,1,R32,0.3327,0.6673,Ridge Regression
+2019,X10,X,X10,10,Florida,SEC,1,R32,1.216,0.216,Ridge Regression
+2019,X11a,X,X11,11,Arizona St.,P12,0,R64,0.3547,0.3547,Ridge Regression
+2019,X11b,X,X11,11,St. John's,BE,0,R68,0.2922,0.2922,Ridge Regression
+2019,X12,X,X12,12,Murray St.,OVC,1,R32,0.0539,0.9461,Ridge Regression
+2019,X13,X,X13,13,Vermont,AE,0,R64,0.1936,0.1936,Ridge Regression
+2019,X14,X,X14,14,Northern Kentucky,Horz,0,R64,0.3551,0.3551,Ridge Regression
+2019,X15,X,X15,15,Montana,BSky,0,R64,0.6978,0.6978,Ridge Regression
+2019,X16a,X,X16,16,Fairleigh Dickinson,NEC,0,R64,0.0,0.0,Ridge Regression
+2019,X16b,X,X16,16,Prairie View A&M,SWAC,0,R68,0.7843,0.7843,Ridge Regression
+2019,Y01,Y,Y01,1,North Carolina,ACC,2,S16,2.0264,0.0264,Ridge Regression
+2019,Y02,Y,Y02,2,Kentucky,SEC,3,E8,2.3967,0.6033,Ridge Regression
+2019,Y03,Y,Y03,3,Houston,Amer,2,S16,2.4907,0.4907,Ridge Regression
+2019,Y04,Y,Y04,4,Kansas,B12,1,R32,1.2264,0.2264,Ridge Regression
+2019,Y05,Y,Y05,5,Auburn,SEC,4,F4,3.545,0.455,Ridge Regression
+2019,Y06,Y,Y06,6,Iowa St.,B12,0,R64,0.9038,0.9038,Ridge Regression
+2019,Y07,Y,Y07,7,Wofford,SC,1,R32,0.7175,0.2825,Ridge Regression
+2019,Y08,Y,Y08,8,Utah St.,MWC,0,R64,0.5966,0.5966,Ridge Regression
+2019,Y09,Y,Y09,9,Washington,P12,1,R32,1.604,0.604,Ridge Regression
+2019,Y10,Y,Y10,10,Seton Hall,BE,0,R64,0.256,0.256,Ridge Regression
+2019,Y11,Y,Y11,11,Ohio St.,B10,1,R32,0.5378,0.4622,Ridge Regression
+2019,Y12,Y,Y12,12,New Mexico St.,WAC,0,R64,0.8438,0.8438,Ridge Regression
+2019,Y13,Y,Y13,13,Northeastern,CAA,0,R64,0.0421,0.0421,Ridge Regression
+2019,Y14,Y,Y14,14,Georgia St.,SB,0,R64,0.1975,0.1975,Ridge Regression
+2019,Y15,Y,Y15,15,Abilene Christian,Slnd,0,R64,0.0802,0.0802,Ridge Regression
+2019,Y16,Y,Y16,16,Iona,MAAC,0,R64,0.0,0.0,Ridge Regression
+2019,Z01,Z,Z01,1,Virginia,ACC,6,Champions,3.9333,2.0667,Ridge Regression
+2019,Z02,Z,Z02,2,Tennessee,SEC,2,S16,2.6101,0.6101,Ridge Regression
+2019,Z03,Z,Z03,3,Purdue,B10,3,E8,2.0984,0.9016,Ridge Regression
+2019,Z04,Z,Z04,4,Kansas St.,B12,0,R64,0.845,0.845,Ridge Regression
+2019,Z05,Z,Z05,5,Wisconsin,B10,0,R64,0.4572,0.4572,Ridge Regression
+2019,Z06,Z,Z06,6,Villanova,BE,1,R32,1.4507,0.4507,Ridge Regression
+2019,Z07,Z,Z07,7,Cincinnati,Amer,0,R64,1.0595,1.0595,Ridge Regression
+2019,Z08,Z,Z08,8,Mississippi,SEC,0,R64,0.207,0.207,Ridge Regression
+2019,Z09,Z,Z09,9,Oklahoma,B12,1,R32,0.2496,0.7504,Ridge Regression
+2019,Z10,Z,Z10,10,Iowa,B10,1,R32,0.8139,0.1861,Ridge Regression
+2019,Z11,Z,Z11,11,Saint Mary's,WCC,0,R64,0.3431,0.3431,Ridge Regression
+2019,Z12,Z,Z12,12,Oregon,P12,2,S16,2.2294,0.2294,Ridge Regression
+2019,Z13,Z,Z13,13,UC Irvine,BW,1,R32,1.9623,0.9623,Ridge Regression
+2019,Z14,Z,Z14,14,Old Dominion,CUSA,0,R64,0.6363,0.6363,Ridge Regression
+2019,Z15,Z,Z15,15,Colgate,Pat,0,R64,0.174,0.174,Ridge Regression
+2019,Z16,Z,Z16,16,Gardner Webb,BSth,0,R64,0.3204,0.3204,Ridge Regression

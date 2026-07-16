@@ -1,3 +1,3 @@
 model,accuracy,precision,recall,f1,roc_auc
-Gradient Boosting Classification,0.9328,0.9079,0.7263,0.807,0.9696
-Logistic Regression,0.8839,0.6439,0.8947,0.7489,0.9632
+Gradient Boosting Classification,0.9185,0.8767,0.6737,0.7619,0.9612
+Logistic Regression,0.8798,0.6343,0.8947,0.7424,0.9518
